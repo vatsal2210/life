@@ -1,11 +1,4 @@
-# <a href="https://stethoscope.js.org"><img alt="Stethoscope" src="https://stethoscope.js.org/branding/screenshot.jpeg"></a>
-
-[![Stethoscope CI](https://github.com/stethoscope-js/stethoscope/workflows/Stethoscope%20CI/badge.svg)](https://github.com/stethoscope-js/stethoscope/actions?query=workflow%3A%22Stethoscope+CI%22)
-[![Update Template CI](https://github.com/stethoscope-js/stethoscope/workflows/Update%20Template%20CI/badge.svg)](https://github.com/stethoscope-js/stethoscope/actions?query=workflow%3A%22Update+Template+CI%22)
-
 Track, visualize, and embed all your health and life data — location, health, work, play, and more.
-
-[**To get started, visit stethoscope.js.org →**](https://stethoscope.js.org)
 
 ## 🌟 Features
 
@@ -38,23 +31,10 @@ Track, visualize, and embed all your health and life data — location, health, 
 4. Add the required GitHub repository secrets
 5. [Enable publishing](https://docs.github.com/en/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site) the `master` branch
 
-## 📝 Documentation
-
-**Visit our docs website: https://stethoscope.js.org**
-
 ## 🛠️ Configuration
 
 A [`.stethoscoperc.yml`](./.stethoscoperc.yml) file is used for configuration. For more information, see https://stethoscope.js.org/docs/configuration.
 
 ## 📊 Example
 
-This is a real-time screenshot of [Anand Chowdhary](https://anandchowdhary.com)'s RescueTime weekly overview URL, fetched from [AnandChowdhary/life](https://github.com/AnandChowdhary/life):
-
-[![Screenshot of visualization](https://api.microlink.io/?url=https%3A%2F%2Fstethoscope.js.org%2Fembed%2F%3Frepo%3DAnandChowdhary%252Flife%26api%3Drescuetime-time-tracking%26latest%3Dtop-overview.weeks&waitFor=5000&waitUntil=networkidle2&screenshot=true&meta=false&embed=screenshot.url&device=ipadlandscape)](https://stethoscope.js.org/embed/?repo=AnandChowdhary%2Flife&api=rescuetime-time-tracking&latest=top-overview.weeks)
-
-Learn how to make your own embeds on https://stethoscope.js.org/docs/embed.
-
-## 📄 License
-
-- Code: [MIT](./LICENSE) © [Anand Chowdhary](https://anandchowdhary.com)
-- Data in [`./data`](./data): [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/) © [Anand Chowdhary](https://anandchowdhary.com)
+This is a real-time screenshot of [Vatsal Shah](https://vatsalshah.in)'s RescueTime weekly overview URL, fetched from [VatsalShah/life](https://github.com/vatsal2210/life-analytics):
