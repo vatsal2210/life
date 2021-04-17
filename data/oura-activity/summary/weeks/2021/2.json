@@ -1,0 +1,51 @@
+{
+  "2021-01-3": {
+    "steps": 7521,
+    "total": 183,
+    "cal_active": 354,
+    "cal_total": 2400,
+    "score": 72
+  },
+  "2021-01-4": {
+    "steps": 3059,
+    "total": 144,
+    "cal_active": 140,
+    "cal_total": 2277,
+    "score": 64
+  },
+  "2021-01-5": {
+    "steps": 4322,
+    "total": 185,
+    "cal_active": 210,
+    "cal_total": 2362,
+    "score": 63
+  },
+  "2021-01-6": {
+    "steps": 2249,
+    "total": 115,
+    "cal_active": 107,
+    "cal_total": 2202,
+    "score": 58
+  },
+  "2021-01-7": {
+    "steps": 8806,
+    "total": 200,
+    "cal_active": 431,
+    "cal_total": 2555,
+    "score": 64
+  },
+  "2021-01-8": {
+    "steps": 2505,
+    "total": 118,
+    "cal_active": 115,
+    "cal_total": 2184,
+    "score": 65
+  },
+  "2021-01-9": {
+    "steps": 2144,
+    "total": 119,
+    "cal_active": 101,
+    "cal_total": 2131,
+    "score": 61
+  }
+}

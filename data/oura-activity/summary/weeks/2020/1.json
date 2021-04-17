@@ -1,0 +1,37 @@
+{
+  "2020-12-27": {
+    "steps": 3313,
+    "total": 156,
+    "cal_active": 152,
+    "cal_total": 2184,
+    "score": 58
+  },
+  "2020-12-28": {
+    "steps": 3728,
+    "total": 191,
+    "cal_active": 179,
+    "cal_total": 2289,
+    "score": 53
+  },
+  "2020-12-29": {
+    "steps": 5683,
+    "total": 148,
+    "cal_active": 332,
+    "cal_total": 2406,
+    "score": 57
+  },
+  "2020-12-30": {
+    "steps": 9035,
+    "total": 185,
+    "cal_active": 471,
+    "cal_total": 2580,
+    "score": 62
+  },
+  "2020-12-31": {
+    "steps": 3925,
+    "total": 172,
+    "cal_active": 198,
+    "cal_total": 2321,
+    "score": 63
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "2020-12-6": {},
+  "2020-12-7": {},
+  "2020-12-8": {
+    "total": 25050,
+    "rem": 4800,
+    "awake": 7110,
+    "deep": 7440,
+    "duration": 32160,
+    "efficiency": 78,
+    "light": 12810,
+    "score": 75
+  },
+  "2020-12-9": {
+    "total": 23340,
+    "rem": 4170,
+    "awake": 8880,
+    "deep": 9180,
+    "duration": 32220,
+    "efficiency": 72,
+    "light": 9990,
+    "score": 69
+  },
+  "2020-12-10": {
+    "total": 26310,
+    "rem": 7200,
+    "awake": 5670,
+    "deep": 5190,
+    "duration": 31980,
+    "efficiency": 82,
+    "light": 13920,
+    "score": 75
+  },
+  "2020-12-11": {
+    "total": 22860,
+    "rem": 4620,
+    "awake": 8940,
+    "deep": 4740,
+    "duration": 31800,
+    "efficiency": 72,
+    "light": 13500,
+    "score": 67
+  },
+  "2020-12-12": {
+    "total": 29760,
+    "rem": 7380,
+    "awake": 5940,
+    "deep": 11550,
+    "duration": 35700,
+    "efficiency": 83,
+    "light": 10830,
+    "score": 79
+  }
+}

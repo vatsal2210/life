@@ -1,0 +1,39 @@
+{
+  "2020-12-6": {},
+  "2020-12-7": {},
+  "2020-12-8": {
+    "steps": 587,
+    "total": 28,
+    "cal_active": 25,
+    "cal_total": 2063,
+    "score": 93
+  },
+  "2020-12-9": {
+    "steps": 6312,
+    "total": 187,
+    "cal_active": 283,
+    "cal_total": 2407,
+    "score": 87
+  },
+  "2020-12-10": {
+    "steps": 7056,
+    "total": 190,
+    "cal_active": 332,
+    "cal_total": 2464,
+    "score": 82
+  },
+  "2020-12-11": {
+    "steps": 3146,
+    "total": 162,
+    "cal_active": 147,
+    "cal_total": 2231,
+    "score": 78
+  },
+  "2020-12-12": {
+    "steps": 6770,
+    "total": 174,
+    "cal_active": 331,
+    "cal_total": 2453,
+    "score": 77
+  }
+}

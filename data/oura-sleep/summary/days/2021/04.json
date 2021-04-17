@@ -1,16 +1,124 @@
 {
-  "1": {},
-  "2": {},
-  "3": {},
-  "4": {},
-  "5": {},
-  "6": {},
-  "7": {},
-  "8": {},
-  "9": {},
-  "10": {},
-  "11": {},
-  "12": {},
+  "1": {
+    "total": 21030,
+    "rem": 4050,
+    "awake": 7050,
+    "deep": 10890,
+    "duration": 28080,
+    "efficiency": 75,
+    "light": 6090,
+    "score": 68
+  },
+  "2": {
+    "total": 24600,
+    "rem": 6210,
+    "awake": 5340,
+    "deep": 12120,
+    "duration": 29940,
+    "efficiency": 82,
+    "light": 6270,
+    "score": 74
+  },
+  "3": {
+    "total": 25860,
+    "rem": 4830,
+    "awake": 7440,
+    "deep": 10440,
+    "duration": 33300,
+    "efficiency": 78,
+    "light": 10590,
+    "score": 73
+  },
+  "4": {
+    "total": 28980,
+    "rem": 5460,
+    "awake": 7140,
+    "deep": 7290,
+    "duration": 36120,
+    "efficiency": 80,
+    "light": 16230,
+    "score": 79
+  },
+  "5": {
+    "total": 22830,
+    "rem": 5580,
+    "awake": 3330,
+    "deep": 7830,
+    "duration": 26160,
+    "efficiency": 87,
+    "light": 9420,
+    "score": 74
+  },
+  "6": {
+    "total": 27960,
+    "rem": 7500,
+    "awake": 6660,
+    "deep": 7260,
+    "duration": 34620,
+    "efficiency": 81,
+    "light": 13200,
+    "score": 83
+  },
+  "7": {
+    "total": 22410,
+    "rem": 3930,
+    "awake": 5970,
+    "deep": 8490,
+    "duration": 28380,
+    "efficiency": 79,
+    "light": 9990,
+    "score": 68
+  },
+  "8": {
+    "total": 24720,
+    "rem": 5820,
+    "awake": 5460,
+    "deep": 6990,
+    "duration": 30180,
+    "efficiency": 82,
+    "light": 11910,
+    "score": 71
+  },
+  "9": {
+    "total": 34530,
+    "rem": 7890,
+    "awake": 5430,
+    "deep": 8580,
+    "duration": 39960,
+    "efficiency": 86,
+    "light": 18060,
+    "score": 88
+  },
+  "10": {
+    "total": 28110,
+    "rem": 6990,
+    "awake": 7290,
+    "deep": 8490,
+    "duration": 35400,
+    "efficiency": 79,
+    "light": 12630,
+    "score": 78
+  },
+  "11": {
+    "total": 21480,
+    "rem": 4920,
+    "awake": 6000,
+    "deep": 6120,
+    "duration": 27480,
+    "efficiency": 78,
+    "light": 10440,
+    "score": 66
+  },
+  "12": {
+    "total": 26520,
+    "rem": 6720,
+    "awake": 7800,
+    "deep": 7470,
+    "duration": 34320,
+    "efficiency": 77,
+    "light": 12330,
+    "score": 79
+  },
   "13": {
     "total": 22920,
     "rem": 4440,

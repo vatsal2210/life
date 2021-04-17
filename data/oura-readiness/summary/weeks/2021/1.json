@@ -1,0 +1,24 @@
+{
+  "2021-01-1": {
+    "score": 72,
+    "score_activity_balance": 94,
+    "score_hrv_balance": 91,
+    "score_previous_day": 96,
+    "score_previous_night": 27,
+    "score_recovery_index": 43,
+    "score_resting_hr": 86,
+    "score_sleep_balance": 74,
+    "score_temperature": 100
+  },
+  "2021-01-2": {
+    "score": 87,
+    "score_activity_balance": 88,
+    "score_hrv_balance": 92,
+    "score_previous_day": 92,
+    "score_previous_night": 81,
+    "score_recovery_index": 91,
+    "score_resting_hr": 86,
+    "score_sleep_balance": 83,
+    "score_temperature": 100
+  }
+}

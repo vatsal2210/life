@@ -1,13 +1,31 @@
 {
-  "1": {},
-  "2": {},
-  "3": {},
+  "1": {
+    "steps": 127355,
+    "total": 4172,
+    "cal_active": 6485,
+    "cal_total": 65157,
+    "score": 1763
+  },
+  "2": {
+    "steps": 150664,
+    "total": 5074,
+    "cal_active": 7207,
+    "cal_total": 66578,
+    "score": 1627
+  },
+  "3": {
+    "steps": 179711,
+    "total": 5962,
+    "cal_active": 8352,
+    "cal_total": 74394,
+    "score": 1903
+  },
   "4": {
-    "steps": 20847,
-    "total": 709,
-    "cal_active": 960,
-    "cal_total": 11490,
-    "score": 301
+    "steps": 88337,
+    "total": 2954,
+    "cal_active": 4022,
+    "cal_total": 40034,
+    "score": 1013
   },
   "5": {},
   "6": {},

@@ -1,6 +1,28 @@
 {
-  "2021-04-11": {},
-  "2021-04-12": {},
+  "2021-04-11": {
+    "Entertainment": 5443,
+    "Social Networking": 3979,
+    "Utilities": 2930,
+    "Communication & Scheduling": 2345,
+    "Uncategorized": 1314,
+    "News & Opinion": 630,
+    "Reference & Learning": 480,
+    "Business": 90,
+    "Shopping": 66,
+    "Software Development": 58,
+    "Design & Composition": 33
+  },
+  "2021-04-12": {
+    "Utilities": 6532,
+    "Social Networking": 3589,
+    "Entertainment": 1340,
+    "Communication & Scheduling": 1186,
+    "Uncategorized": 854,
+    "Business": 247,
+    "Reference & Learning": 165,
+    "Shopping": 24,
+    "News & Opinion": 20
+  },
   "2021-04-13": {
     "Utilities": 3987,
     "Communication & Scheduling": 3891,

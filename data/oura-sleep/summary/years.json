@@ -1,12 +1,22 @@
 {
+  "2020": {
+    "total": 567600,
+    "rem": 124320,
+    "awake": 141480,
+    "deep": 173220,
+    "duration": 709080,
+    "efficiency": 1759,
+    "light": 270060,
+    "score": 1645
+  },
   "2021": {
-    "total": 96480,
-    "rem": 20610,
-    "awake": 18120,
-    "deep": 36630,
-    "duration": 114600,
-    "efficiency": 337,
-    "light": 39240,
-    "score": 288
+    "total": 2546520,
+    "rem": 570240,
+    "awake": 632460,
+    "deep": 833700,
+    "duration": 3178980,
+    "efficiency": 8009,
+    "light": 1142580,
+    "score": 7427
   }
 }

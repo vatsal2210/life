@@ -1,16 +1,43 @@
 {
-  "1": {},
-  "2": {},
-  "3": {},
+  "1": {
+    "total": 644730,
+    "rem": 137100,
+    "awake": 185730,
+    "deep": 198630,
+    "duration": 830460,
+    "efficiency": 1941,
+    "light": 309000,
+    "score": 1794
+  },
+  "2": {
+    "total": 707070,
+    "rem": 161190,
+    "awake": 170790,
+    "deep": 244050,
+    "duration": 877860,
+    "efficiency": 2252,
+    "light": 301830,
+    "score": 2098
+  },
+  "3": {
+    "total": 789210,
+    "rem": 181440,
+    "awake": 182910,
+    "deep": 252420,
+    "duration": 972120,
+    "efficiency": 2515,
+    "light": 355350,
+    "score": 2346
+  },
   "4": {
-    "total": 96480,
-    "rem": 20610,
-    "awake": 18120,
-    "deep": 36630,
-    "duration": 114600,
-    "efficiency": 337,
-    "light": 39240,
-    "score": 288
+    "total": 405510,
+    "rem": 90510,
+    "awake": 93030,
+    "deep": 138600,
+    "duration": 498540,
+    "efficiency": 1301,
+    "light": 176400,
+    "score": 1189
   },
   "5": {},
   "6": {},

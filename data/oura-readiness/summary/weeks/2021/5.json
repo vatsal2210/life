@@ -1,0 +1,29 @@
+{
+  "2021-01-24": {
+    "score": 84,
+    "score_activity_balance": 92,
+    "score_hrv_balance": 74,
+    "score_previous_day": 93,
+    "score_previous_night": 73,
+    "score_recovery_index": 98,
+    "score_resting_hr": 97,
+    "score_sleep_balance": 78,
+    "score_temperature": 100
+  },
+  "2021-01-25": {},
+  "2021-01-26": {},
+  "2021-01-27": {},
+  "2021-01-28": {},
+  "2021-01-29": {},
+  "2021-01-30": {
+    "score": 84,
+    "score_activity_balance": 0,
+    "score_hrv_balance": 0,
+    "score_previous_day": 92,
+    "score_previous_night": 71,
+    "score_recovery_index": 100,
+    "score_resting_hr": 80,
+    "score_sleep_balance": 0,
+    "score_temperature": 100
+  }
+}

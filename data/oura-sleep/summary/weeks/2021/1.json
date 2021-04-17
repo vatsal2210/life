@@ -1,0 +1,22 @@
+{
+  "2021-01-1": {
+    "total": 14970,
+    "rem": 1080,
+    "awake": 3990,
+    "deep": 4380,
+    "duration": 18960,
+    "efficiency": 79,
+    "light": 9510,
+    "score": 54
+  },
+  "2021-01-2": {
+    "total": 33870,
+    "rem": 10110,
+    "awake": 10230,
+    "deep": 6840,
+    "duration": 44100,
+    "efficiency": 77,
+    "light": 16920,
+    "score": 83
+  }
+}
