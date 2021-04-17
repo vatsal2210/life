@@ -2,35 +2,35 @@
   {
     "categories": [
       {
-        "digital": "3:00:50",
+        "digital": "3:05:10",
         "hours": 3,
-        "minutes": 0,
+        "minutes": 5,
         "name": "Coding",
         "percent": 100,
-        "seconds": 50,
-        "text": "3 hrs",
-        "total_seconds": 10850.316002
+        "seconds": 10,
+        "text": "3 hrs 5 mins",
+        "total_seconds": 11110.091791
       }
     ],
     "dependencies": [],
     "editors": [
       {
-        "digital": "3:00:50",
+        "digital": "3:05:10",
         "hours": 3,
-        "minutes": 0,
+        "minutes": 5,
         "name": "VS Code",
         "percent": 100,
-        "seconds": 50,
-        "text": "3 hrs",
-        "total_seconds": 10850.316002
+        "seconds": 10,
+        "text": "3 hrs 5 mins",
+        "total_seconds": 11110.091791
       }
     ],
     "grand_total": {
-      "digital": "3:00",
+      "digital": "3:05",
       "hours": 3,
-      "minutes": 0,
-      "text": "3 hrs",
-      "total_seconds": 10850.316002
+      "minutes": 5,
+      "text": "3 hrs 5 mins",
+      "total_seconds": 11110.091791
     },
     "languages": [
       {
@@ -38,37 +38,37 @@
         "hours": 0,
         "minutes": 58,
         "name": "Markdown",
-        "percent": 32.16,
+        "percent": 31.4,
         "seconds": 9,
         "text": "58 mins",
         "total_seconds": 3489.103794
+      },
+      {
+        "digital": "0:37:04",
+        "hours": 0,
+        "minutes": 37,
+        "name": "JSON",
+        "percent": 20.02,
+        "seconds": 4,
+        "text": "37 mins",
+        "total_seconds": 2224.251479
       },
       {
         "digital": "0:32:44",
         "hours": 0,
         "minutes": 32,
         "name": "TypeScript",
-        "percent": 18.11,
+        "percent": 17.68,
         "seconds": 44,
         "text": "32 mins",
         "total_seconds": 1964.805481
-      },
-      {
-        "digital": "0:32:44",
-        "hours": 0,
-        "minutes": 32,
-        "name": "JSON",
-        "percent": 18.11,
-        "seconds": 44,
-        "text": "32 mins",
-        "total_seconds": 1964.47569
       },
       {
         "digital": "0:28:29",
         "hours": 0,
         "minutes": 28,
         "name": "YAML",
-        "percent": 15.76,
+        "percent": 15.39,
         "seconds": 29,
         "text": "28 mins",
         "total_seconds": 1709.77742
@@ -78,7 +78,7 @@
         "hours": 0,
         "minutes": 26,
         "name": "Other",
-        "percent": 14.39,
+        "percent": 14.05,
         "seconds": 1,
         "text": "26 mins",
         "total_seconds": 1561.136175
@@ -88,7 +88,7 @@
         "hours": 0,
         "minutes": 1,
         "name": "Solidity",
-        "percent": 0.89,
+        "percent": 0.86,
         "seconds": 36,
         "text": "1 min",
         "total_seconds": 96.090276
@@ -98,7 +98,7 @@
         "hours": 0,
         "minutes": 0,
         "name": "JavaScript",
-        "percent": 0.41,
+        "percent": 0.4,
         "seconds": 44,
         "text": "44 secs",
         "total_seconds": 44.074571
@@ -136,27 +136,27 @@
     ],
     "machines": [
       {
-        "digital": "3:00:50",
+        "digital": "3:05:10",
         "hours": 3,
         "machine_name_id": "1be40619-bda5-4036-811f-587c5d9ea497",
-        "minutes": 0,
+        "minutes": 5,
         "name": "Vatsal-champ",
         "percent": 100,
-        "seconds": 50,
-        "text": "3 hrs",
-        "total_seconds": 10850.316002
+        "seconds": 10,
+        "text": "3 hrs 5 mins",
+        "total_seconds": 11110.091791
       }
     ],
     "operating_systems": [
       {
-        "digital": "3:00:50",
+        "digital": "3:05:10",
         "hours": 3,
-        "minutes": 0,
+        "minutes": 5,
         "name": "Windows",
         "percent": 100,
-        "seconds": 50,
-        "text": "3 hrs",
-        "total_seconds": 10850.316002
+        "seconds": 10,
+        "text": "3 hrs 5 mins",
+        "total_seconds": 11110.091791
       }
     ],
     "projects": [
@@ -165,27 +165,27 @@
         "hours": 0,
         "minutes": 58,
         "name": "integrations",
-        "percent": 32.48,
+        "percent": 31.72,
         "seconds": 43,
         "text": "58 mins",
         "total_seconds": 3523.914926
       },
       {
-        "digital": "0:54:04",
+        "digital": "0:58:24",
         "hours": 0,
-        "minutes": 54,
+        "minutes": 58,
         "name": "life-analytics",
-        "percent": 29.91,
-        "seconds": 4,
-        "text": "54 mins",
-        "total_seconds": 3244.961349
+        "percent": 31.55,
+        "seconds": 24,
+        "text": "58 mins",
+        "total_seconds": 3504.737138
       },
       {
         "digital": "0:23:44",
         "hours": 0,
         "minutes": 23,
         "name": "blockchain-project",
-        "percent": 13.13,
+        "percent": 12.82,
         "seconds": 44,
         "text": "23 mins",
         "total_seconds": 1424.610059
@@ -195,7 +195,7 @@
         "hours": 0,
         "minutes": 18,
         "name": "integrations-master",
-        "percent": 10.25,
+        "percent": 10.01,
         "seconds": 32,
         "text": "18 mins",
         "total_seconds": 1112.027872
@@ -205,7 +205,7 @@
         "hours": 0,
         "minutes": 9,
         "name": "blockchain-introduction",
-        "percent": 5.23,
+        "percent": 5.11,
         "seconds": 27,
         "text": "9 mins",
         "total_seconds": 567.44233
@@ -215,7 +215,7 @@
         "hours": 0,
         "minutes": 6,
         "name": "Unknown Project",
-        "percent": 3.72,
+        "percent": 3.63,
         "seconds": 43,
         "text": "6 mins",
         "total_seconds": 403.450508
@@ -225,7 +225,7 @@
         "hours": 0,
         "minutes": 6,
         "name": "nodejs-typscript-template",
-        "percent": 3.36,
+        "percent": 3.28,
         "seconds": 4,
         "text": "6 mins",
         "total_seconds": 364.448801
@@ -235,7 +235,7 @@
         "hours": 0,
         "minutes": 3,
         "name": "cosmic",
-        "percent": 1.93,
+        "percent": 1.89,
         "seconds": 29,
         "text": "3 mins",
         "total_seconds": 209.460157
