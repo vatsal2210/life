@@ -1,0 +1,16 @@
+{
+  "days": {
+    "2021": [
+      "04.json"
+    ]
+  },
+  "months": [
+    "2021.json"
+  ],
+  "weeks": {
+    "2021": [
+      "16.json"
+    ]
+  },
+  "years": "years.json"
+}
