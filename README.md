@@ -38,3 +38,8 @@ A [`.stethoscoperc.yml`](./.stethoscoperc.yml) file is used for configuration. F
 ## 📊 Example
 
 This is a real-time screenshot of [Vatsal Shah](https://vatsalshah.in)'s RescueTime weekly overview URL, fetched from [VatsalShah/life](https://github.com/vatsal2210/life-analytics):
+
+
+## Migration:
+
+`npx @stethoscope-js/integrations migrate rescuetime 2020-01-01`

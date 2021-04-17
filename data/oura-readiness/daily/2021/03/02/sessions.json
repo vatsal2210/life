@@ -1,0 +1,16 @@
+[
+  {
+    "period_id": 3,
+    "rest_mode_state": 0,
+    "score": 71,
+    "score_activity_balance": 82,
+    "score_hrv_balance": 82,
+    "score_previous_day": 80,
+    "score_previous_night": 43,
+    "score_recovery_index": 76,
+    "score_resting_hr": 75,
+    "score_sleep_balance": 68,
+    "score_temperature": 98,
+    "summary_date": "2021-03-02"
+  }
+]

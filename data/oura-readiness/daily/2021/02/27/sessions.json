@@ -1,0 +1,14 @@
+[
+  {
+    "period_id": 2,
+    "score": 82,
+    "score_activity_balance": 74,
+    "score_previous_day": 88,
+    "score_previous_night": 81,
+    "score_recovery_index": 100,
+    "score_resting_hr": 74,
+    "score_sleep_balance": 80,
+    "score_temperature": 86,
+    "summary_date": "2021-02-27"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "period_id": 2,
+    "score": 83,
+    "score_activity_balance": 91,
+    "score_previous_day": 90,
+    "score_previous_night": 71,
+    "score_recovery_index": 92,
+    "score_resting_hr": 89,
+    "score_sleep_balance": 77,
+    "score_temperature": 98,
+    "summary_date": "2020-12-21"
+  }
+]
