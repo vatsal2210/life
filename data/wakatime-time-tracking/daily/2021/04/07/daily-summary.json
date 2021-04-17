@@ -1,0 +1,182 @@
+[
+  {
+    "categories": [
+      {
+        "digital": "3:02:24",
+        "hours": 3,
+        "minutes": 2,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 24,
+        "text": "3 hrs 2 mins",
+        "total_seconds": 10944.902561
+      }
+    ],
+    "dependencies": [],
+    "editors": [
+      {
+        "digital": "3:02:24",
+        "hours": 3,
+        "minutes": 2,
+        "name": "VS Code",
+        "percent": 100,
+        "seconds": 24,
+        "text": "3 hrs 2 mins",
+        "total_seconds": 10944.902561
+      }
+    ],
+    "grand_total": {
+      "digital": "3:02",
+      "hours": 3,
+      "minutes": 2,
+      "text": "3 hrs 2 mins",
+      "total_seconds": 10944.902561
+    },
+    "languages": [
+      {
+        "digital": "1:30:50",
+        "hours": 1,
+        "minutes": 30,
+        "name": "JavaScript",
+        "percent": 49.8,
+        "seconds": 50,
+        "text": "1 hr 30 mins",
+        "total_seconds": 5450.666499
+      },
+      {
+        "digital": "1:20:36",
+        "hours": 1,
+        "minutes": 20,
+        "name": "JSON",
+        "percent": 44.19,
+        "seconds": 36,
+        "text": "1 hr 20 mins",
+        "total_seconds": 4836.015546
+      },
+      {
+        "digital": "0:06:09",
+        "hours": 0,
+        "minutes": 6,
+        "name": "TypeScript",
+        "percent": 3.38,
+        "seconds": 9,
+        "text": "6 mins",
+        "total_seconds": 369.798151
+      },
+      {
+        "digital": "0:03:15",
+        "hours": 0,
+        "minutes": 3,
+        "name": "Other",
+        "percent": 1.78,
+        "seconds": 15,
+        "text": "3 mins",
+        "total_seconds": 195.193996
+      },
+      {
+        "digital": "0:00:41",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Git Config",
+        "percent": 0.38,
+        "seconds": 41,
+        "text": "41 secs",
+        "total_seconds": 41.998972
+      },
+      {
+        "digital": "0:00:41",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Markdown",
+        "percent": 0.38,
+        "seconds": 41,
+        "text": "41 secs",
+        "total_seconds": 41.369276
+      },
+      {
+        "digital": "0:00:09",
+        "hours": 0,
+        "minutes": 0,
+        "name": "HTML",
+        "percent": 0.09,
+        "seconds": 9,
+        "text": "9 secs",
+        "total_seconds": 9.860121
+      }
+    ],
+    "machines": [
+      {
+        "digital": "3:02:24",
+        "hours": 3,
+        "machine_name_id": "1d23381c-0df5-4bb6-a20b-c344fb0436a4",
+        "minutes": 2,
+        "name": "DESKTOP-2BJN15V",
+        "percent": 100,
+        "seconds": 24,
+        "text": "3 hrs 2 mins",
+        "total_seconds": 10944.902561
+      }
+    ],
+    "operating_systems": [
+      {
+        "digital": "3:02:24",
+        "hours": 3,
+        "minutes": 2,
+        "name": "Windows",
+        "percent": 100,
+        "seconds": 24,
+        "text": "3 hrs 2 mins",
+        "total_seconds": 10944.902561
+      }
+    ],
+    "projects": [
+      {
+        "digital": "2:42:55",
+        "hours": 2,
+        "minutes": 42,
+        "name": "speak-server",
+        "percent": 89.31,
+        "seconds": 55,
+        "text": "2 hrs 42 mins",
+        "total_seconds": 9775.175078
+      },
+      {
+        "digital": "0:17:52",
+        "hours": 0,
+        "minutes": 17,
+        "name": "speak-client",
+        "percent": 9.8,
+        "seconds": 52,
+        "text": "17 mins",
+        "total_seconds": 1072.361392
+      },
+      {
+        "digital": "0:01:37",
+        "hours": 0,
+        "minutes": 1,
+        "name": "speak-admin-client",
+        "percent": 0.89,
+        "seconds": 37,
+        "text": "1 min",
+        "total_seconds": 97.366091
+      },
+      {
+        "digital": "0:00:00",
+        "hours": 0,
+        "minutes": 0,
+        "name": "speak-embed",
+        "percent": 0,
+        "seconds": 0,
+        "text": "0 secs",
+        "total_seconds": 0
+      }
+    ],
+    "range": {
+      "date": "2021-04-07",
+      "end": "2021-04-08T03:59:59Z",
+      "start": "2021-04-07T04:00:00Z",
+      "text": "Wed Apr 7th 2021",
+      "timezone": "America/Toronto"
+    }
+  }
+]

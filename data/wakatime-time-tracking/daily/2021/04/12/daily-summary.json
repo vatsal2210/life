@@ -1,0 +1,233 @@
+[
+  {
+    "categories": [
+      {
+        "digital": "6:14:28",
+        "hours": 6,
+        "minutes": 14,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 28,
+        "text": "6 hrs 14 mins",
+        "total_seconds": 22468.466463
+      }
+    ],
+    "dependencies": [],
+    "editors": [
+      {
+        "digital": "6:14:28",
+        "hours": 6,
+        "minutes": 14,
+        "name": "VS Code",
+        "percent": 100,
+        "seconds": 28,
+        "text": "6 hrs 14 mins",
+        "total_seconds": 22468.466463
+      }
+    ],
+    "grand_total": {
+      "digital": "6:14",
+      "hours": 6,
+      "minutes": 14,
+      "text": "6 hrs 14 mins",
+      "total_seconds": 22468.466463
+    },
+    "languages": [
+      {
+        "digital": "5:35:18",
+        "hours": 5,
+        "minutes": 35,
+        "name": "JavaScript",
+        "percent": 89.54,
+        "seconds": 18,
+        "text": "5 hrs 35 mins",
+        "total_seconds": 20118.617
+      },
+      {
+        "digital": "0:23:33",
+        "hours": 0,
+        "minutes": 23,
+        "name": "TypeScript",
+        "percent": 6.29,
+        "seconds": 33,
+        "text": "23 mins",
+        "total_seconds": 1413.575841
+      },
+      {
+        "digital": "0:05:24",
+        "hours": 0,
+        "minutes": 5,
+        "name": "Python",
+        "percent": 1.44,
+        "seconds": 24,
+        "text": "5 mins",
+        "total_seconds": 324.043276
+      },
+      {
+        "digital": "0:03:42",
+        "hours": 0,
+        "minutes": 3,
+        "name": "Other",
+        "percent": 0.99,
+        "seconds": 42,
+        "text": "3 mins",
+        "total_seconds": 222.680379
+      },
+      {
+        "digital": "0:03:41",
+        "hours": 0,
+        "minutes": 3,
+        "name": "HTML",
+        "percent": 0.99,
+        "seconds": 41,
+        "text": "3 mins",
+        "total_seconds": 221.474524
+      },
+      {
+        "digital": "0:02:02",
+        "hours": 0,
+        "minutes": 2,
+        "name": "JSON",
+        "percent": 0.55,
+        "seconds": 2,
+        "text": "2 mins",
+        "total_seconds": 122.823276
+      },
+      {
+        "digital": "0:00:39",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Git Config",
+        "percent": 0.18,
+        "seconds": 39,
+        "text": "39 secs",
+        "total_seconds": 39.722761
+      },
+      {
+        "digital": "0:00:05",
+        "hours": 0,
+        "minutes": 0,
+        "name": "YAML",
+        "percent": 0.02,
+        "seconds": 5,
+        "text": "5 secs",
+        "total_seconds": 5.529406
+      }
+    ],
+    "machines": [
+      {
+        "digital": "6:02:23",
+        "hours": 6,
+        "machine_name_id": "1d23381c-0df5-4bb6-a20b-c344fb0436a4",
+        "minutes": 2,
+        "name": "DESKTOP-2BJN15V",
+        "percent": 96.77,
+        "seconds": 23,
+        "text": "6 hrs 2 mins",
+        "total_seconds": 21743.19317
+      },
+      {
+        "digital": "0:12:05",
+        "hours": 0,
+        "machine_name_id": "1be40619-bda5-4036-811f-587c5d9ea497",
+        "minutes": 12,
+        "name": "Vatsal-champ",
+        "percent": 3.23,
+        "seconds": 5,
+        "text": "12 mins",
+        "total_seconds": 725.273293
+      }
+    ],
+    "operating_systems": [
+      {
+        "digital": "6:14:28",
+        "hours": 6,
+        "minutes": 14,
+        "name": "Windows",
+        "percent": 100,
+        "seconds": 28,
+        "text": "6 hrs 14 mins",
+        "total_seconds": 22468.466463
+      }
+    ],
+    "projects": [
+      {
+        "digital": "5:46:56",
+        "hours": 5,
+        "minutes": 46,
+        "name": "speak-server",
+        "percent": 92.65,
+        "seconds": 56,
+        "text": "5 hrs 46 mins",
+        "total_seconds": 20816.984933
+      },
+      {
+        "digital": "0:12:31",
+        "hours": 0,
+        "minutes": 12,
+        "name": "speak-embed-recorder",
+        "percent": 3.35,
+        "seconds": 31,
+        "text": "12 mins",
+        "total_seconds": 751.883148
+      },
+      {
+        "digital": "0:05:46",
+        "hours": 0,
+        "minutes": 5,
+        "name": "speak-transcript-editor",
+        "percent": 1.54,
+        "seconds": 46,
+        "text": "5 mins",
+        "total_seconds": 346.069916
+      },
+      {
+        "digital": "0:05:24",
+        "hours": 0,
+        "minutes": 5,
+        "name": "speak-summary-sentiment",
+        "percent": 1.44,
+        "seconds": 24,
+        "text": "5 mins",
+        "total_seconds": 324.043276
+      },
+      {
+        "digital": "0:03:47",
+        "hours": 0,
+        "minutes": 3,
+        "name": "speak-client",
+        "percent": 1.01,
+        "seconds": 47,
+        "text": "3 mins",
+        "total_seconds": 227.511633
+      },
+      {
+        "digital": "0:00:01",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Unknown Project",
+        "percent": 0.01,
+        "seconds": 1,
+        "text": "1 sec",
+        "total_seconds": 1.973557
+      },
+      {
+        "digital": "0:00:00",
+        "hours": 0,
+        "minutes": 0,
+        "name": "speak-embed",
+        "percent": 0,
+        "seconds": 0,
+        "text": "0 secs",
+        "total_seconds": 0
+      }
+    ],
+    "range": {
+      "date": "2021-04-12",
+      "end": "2021-04-13T03:59:59Z",
+      "start": "2021-04-12T04:00:00Z",
+      "text": "Mon Apr 12th 2021",
+      "timezone": "America/Toronto"
+    }
+  }
+]

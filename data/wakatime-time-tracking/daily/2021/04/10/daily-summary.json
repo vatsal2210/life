@@ -1,0 +1,183 @@
+[
+  {
+    "categories": [
+      {
+        "digital": "1:14:29",
+        "hours": 1,
+        "minutes": 14,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 29,
+        "text": "1 hr 14 mins",
+        "total_seconds": 4469.216662
+      }
+    ],
+    "dependencies": [],
+    "editors": [
+      {
+        "digital": "1:14:29",
+        "hours": 1,
+        "minutes": 14,
+        "name": "VS Code",
+        "percent": 100,
+        "seconds": 29,
+        "text": "1 hr 14 mins",
+        "total_seconds": 4469.216662
+      }
+    ],
+    "grand_total": {
+      "digital": "1:14",
+      "hours": 1,
+      "minutes": 14,
+      "text": "1 hr 14 mins",
+      "total_seconds": 4469.216662
+    },
+    "languages": [
+      {
+        "digital": "0:37:47",
+        "hours": 0,
+        "minutes": 37,
+        "name": "TypeScript",
+        "percent": 50.73,
+        "seconds": 47,
+        "text": "37 mins",
+        "total_seconds": 2267.308663
+      },
+      {
+        "digital": "0:12:51",
+        "hours": 0,
+        "minutes": 12,
+        "name": "JSON",
+        "percent": 17.26,
+        "seconds": 51,
+        "text": "12 mins",
+        "total_seconds": 771.423226
+      },
+      {
+        "digital": "0:12:37",
+        "hours": 0,
+        "minutes": 12,
+        "name": "JavaScript",
+        "percent": 16.94,
+        "seconds": 37,
+        "text": "12 mins",
+        "total_seconds": 757.194672
+      },
+      {
+        "digital": "0:10:26",
+        "hours": 0,
+        "minutes": 10,
+        "name": "Other",
+        "percent": 14.01,
+        "seconds": 26,
+        "text": "10 mins",
+        "total_seconds": 626.037269
+      },
+      {
+        "digital": "0:00:47",
+        "hours": 0,
+        "minutes": 0,
+        "name": "HTML",
+        "percent": 1.06,
+        "seconds": 47,
+        "text": "47 secs",
+        "total_seconds": 47.252832
+      }
+    ],
+    "machines": [
+      {
+        "digital": "1:01:37",
+        "hours": 1,
+        "machine_name_id": "1d23381c-0df5-4bb6-a20b-c344fb0436a4",
+        "minutes": 1,
+        "name": "DESKTOP-2BJN15V",
+        "percent": 82.74,
+        "seconds": 37,
+        "text": "1 hr 1 min",
+        "total_seconds": 3697.793436
+      },
+      {
+        "digital": "0:12:51",
+        "hours": 0,
+        "machine_name_id": "1be40619-bda5-4036-811f-587c5d9ea497",
+        "minutes": 12,
+        "name": "Vatsal-champ",
+        "percent": 17.26,
+        "seconds": 51,
+        "text": "12 mins",
+        "total_seconds": 771.423226
+      }
+    ],
+    "operating_systems": [
+      {
+        "digital": "1:14:29",
+        "hours": 1,
+        "minutes": 14,
+        "name": "Windows",
+        "percent": 100,
+        "seconds": 29,
+        "text": "1 hr 14 mins",
+        "total_seconds": 4469.216662
+      }
+    ],
+    "projects": [
+      {
+        "digital": "0:48:29",
+        "hours": 0,
+        "minutes": 48,
+        "name": "speak-transcript-editor",
+        "percent": 65.1,
+        "seconds": 29,
+        "text": "48 mins",
+        "total_seconds": 2909.327353
+      },
+      {
+        "digital": "0:12:51",
+        "hours": 0,
+        "minutes": 12,
+        "name": "Unknown Project",
+        "percent": 17.26,
+        "seconds": 51,
+        "text": "12 mins",
+        "total_seconds": 771.423226
+      },
+      {
+        "digital": "0:12:37",
+        "hours": 0,
+        "minutes": 12,
+        "name": "speak-server",
+        "percent": 16.94,
+        "seconds": 37,
+        "text": "12 mins",
+        "total_seconds": 757.194672
+      },
+      {
+        "digital": "0:00:21",
+        "hours": 0,
+        "minutes": 0,
+        "name": "speak-client",
+        "percent": 0.48,
+        "seconds": 21,
+        "text": "21 secs",
+        "total_seconds": 21.60068
+      },
+      {
+        "digital": "0:00:09",
+        "hours": 0,
+        "minutes": 0,
+        "name": "speak-embed",
+        "percent": 0.22,
+        "seconds": 9,
+        "text": "9 secs",
+        "total_seconds": 9.670731
+      }
+    ],
+    "range": {
+      "date": "2021-04-10",
+      "end": "2021-04-11T03:59:59Z",
+      "start": "2021-04-10T04:00:00Z",
+      "text": "Sat Apr 10th 2021",
+      "timezone": "America/Toronto"
+    }
+  }
+]
