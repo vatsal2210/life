@@ -1,0 +1,252 @@
+[
+  {
+    "categories": [
+      {
+        "digital": "2:20:06",
+        "hours": 2,
+        "minutes": 20,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 6,
+        "text": "2 hrs 20 mins",
+        "total_seconds": 8406.115884
+      }
+    ],
+    "dependencies": [],
+    "editors": [
+      {
+        "digital": "2:20:06",
+        "hours": 2,
+        "minutes": 20,
+        "name": "VS Code",
+        "percent": 100,
+        "seconds": 6,
+        "text": "2 hrs 20 mins",
+        "total_seconds": 8406.115884
+      }
+    ],
+    "grand_total": {
+      "digital": "2:20",
+      "hours": 2,
+      "minutes": 20,
+      "text": "2 hrs 20 mins",
+      "total_seconds": 8406.115884
+    },
+    "languages": [
+      {
+        "digital": "0:36:14",
+        "hours": 0,
+        "minutes": 36,
+        "name": "Markdown",
+        "percent": 25.86,
+        "seconds": 14,
+        "text": "36 mins",
+        "total_seconds": 2174.12069
+      },
+      {
+        "digital": "0:32:44",
+        "hours": 0,
+        "minutes": 32,
+        "name": "TypeScript",
+        "percent": 23.37,
+        "seconds": 44,
+        "text": "32 mins",
+        "total_seconds": 1964.805481
+      },
+      {
+        "digital": "0:27:18",
+        "hours": 0,
+        "minutes": 27,
+        "name": "YAML",
+        "percent": 19.49,
+        "seconds": 18,
+        "text": "27 mins",
+        "total_seconds": 1638.681417
+      },
+      {
+        "digital": "0:21:56",
+        "hours": 0,
+        "minutes": 21,
+        "name": "Other",
+        "percent": 15.66,
+        "seconds": 56,
+        "text": "21 mins",
+        "total_seconds": 1316.217287
+      },
+      {
+        "digital": "0:19:11",
+        "hours": 0,
+        "minutes": 19,
+        "name": "JSON",
+        "percent": 13.7,
+        "seconds": 11,
+        "text": "19 mins",
+        "total_seconds": 1151.273567
+      },
+      {
+        "digital": "0:01:36",
+        "hours": 0,
+        "minutes": 1,
+        "name": "Solidity",
+        "percent": 1.14,
+        "seconds": 36,
+        "text": "1 min",
+        "total_seconds": 96.090276
+      },
+      {
+        "digital": "0:00:44",
+        "hours": 0,
+        "minutes": 0,
+        "name": "JavaScript",
+        "percent": 0.52,
+        "seconds": 44,
+        "text": "44 secs",
+        "total_seconds": 44.074571
+      },
+      {
+        "digital": "0:00:10",
+        "hours": 0,
+        "minutes": 0,
+        "name": "HTML",
+        "percent": 0.13,
+        "seconds": 10,
+        "text": "10 secs",
+        "total_seconds": 10.580116
+      },
+      {
+        "digital": "0:00:08",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Text",
+        "percent": 0.1,
+        "seconds": 8,
+        "text": "8 secs",
+        "total_seconds": 8.805515
+      },
+      {
+        "digital": "0:00:01",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Git Config",
+        "percent": 0.02,
+        "seconds": 1,
+        "text": "1 sec",
+        "total_seconds": 1.466964
+      }
+    ],
+    "machines": [
+      {
+        "digital": "2:20:06",
+        "hours": 2,
+        "machine_name_id": "1be40619-bda5-4036-811f-587c5d9ea497",
+        "minutes": 20,
+        "name": "Vatsal-champ",
+        "percent": 100,
+        "seconds": 6,
+        "text": "2 hrs 20 mins",
+        "total_seconds": 8406.115884
+      }
+    ],
+    "operating_systems": [
+      {
+        "digital": "2:20:06",
+        "hours": 2,
+        "minutes": 20,
+        "name": "Windows",
+        "percent": 100,
+        "seconds": 6,
+        "text": "2 hrs 20 mins",
+        "total_seconds": 8406.115884
+      }
+    ],
+    "projects": [
+      {
+        "digital": "0:58:43",
+        "hours": 0,
+        "minutes": 58,
+        "name": "integrations",
+        "percent": 41.92,
+        "seconds": 43,
+        "text": "58 mins",
+        "total_seconds": 3523.914926
+      },
+      {
+        "digital": "0:23:44",
+        "hours": 0,
+        "minutes": 23,
+        "name": "blockchain-project",
+        "percent": 16.95,
+        "seconds": 44,
+        "text": "23 mins",
+        "total_seconds": 1424.610059
+      },
+      {
+        "digital": "0:18:32",
+        "hours": 0,
+        "minutes": 18,
+        "name": "integrations-master",
+        "percent": 13.23,
+        "seconds": 32,
+        "text": "18 mins",
+        "total_seconds": 1112.027872
+      },
+      {
+        "digital": "0:13:20",
+        "hours": 0,
+        "minutes": 13,
+        "name": "life-analytics",
+        "percent": 9.53,
+        "seconds": 20,
+        "text": "13 mins",
+        "total_seconds": 800.761231
+      },
+      {
+        "digital": "0:09:27",
+        "hours": 0,
+        "minutes": 9,
+        "name": "blockchain-introduction",
+        "percent": 6.75,
+        "seconds": 27,
+        "text": "9 mins",
+        "total_seconds": 567.44233
+      },
+      {
+        "digital": "0:06:43",
+        "hours": 0,
+        "minutes": 6,
+        "name": "Unknown Project",
+        "percent": 4.8,
+        "seconds": 43,
+        "text": "6 mins",
+        "total_seconds": 403.450508
+      },
+      {
+        "digital": "0:06:04",
+        "hours": 0,
+        "minutes": 6,
+        "name": "nodejs-typscript-template",
+        "percent": 4.34,
+        "seconds": 4,
+        "text": "6 mins",
+        "total_seconds": 364.448801
+      },
+      {
+        "digital": "0:03:29",
+        "hours": 0,
+        "minutes": 3,
+        "name": "cosmic",
+        "percent": 2.49,
+        "seconds": 29,
+        "text": "3 mins",
+        "total_seconds": 209.460157
+      }
+    ],
+    "range": {
+      "date": "2021-04-17",
+      "end": "2021-04-18T03:59:59Z",
+      "start": "2021-04-17T04:00:00Z",
+      "text": "Today",
+      "timezone": "America/Toronto"
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "period_id": 0,
+    "score": 43,
+    "score_activity_balance": 93,
+    "score_previous_day": 83,
+    "score_previous_night": 0,
+    "score_recovery_index": 11,
+    "score_resting_hr": 1,
+    "score_sleep_balance": 46,
+    "score_temperature": 54,
+    "summary_date": "2021-04-16"
+  },
+  {
+    "period_id": 1,
+    "score": 77,
+    "score_activity_balance": 93,
+    "score_previous_day": 83,
+    "score_previous_night": 52,
+    "score_recovery_index": 73,
+    "score_resting_hr": 98,
+    "score_sleep_balance": 73,
+    "score_temperature": 100,
+    "summary_date": "2021-04-16"
+  }
+]
