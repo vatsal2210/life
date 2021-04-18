@@ -69,13 +69,14 @@
     "Entertainment": 12
   },
   "2021-04-17": {
-    "Entertainment": 1944,
-    "Social Networking": 681,
-    "Utilities": 424,
-    "News & Opinion": 424,
-    "Reference & Learning": 140,
-    "Communication & Scheduling": 140,
-    "Uncategorized": 128,
-    "Business": 105
+    "Social Networking": 3599,
+    "Entertainment": 2378,
+    "Utilities": 1998,
+    "Uncategorized": 922,
+    "Communication & Scheduling": 626,
+    "News & Opinion": 505,
+    "Reference & Learning": 390,
+    "Business": 343,
+    "Shopping": 53
   }
 }

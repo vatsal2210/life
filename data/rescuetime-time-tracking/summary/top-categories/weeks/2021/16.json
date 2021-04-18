@@ -120,17 +120,26 @@
     "Photos": 6
   },
   "2021-04-17": {
-    "Video": 1809,
-    "General Social Networking": 623,
+    "General Social Networking": 2967,
+    "Video": 1979,
+    "Browsers": 1780,
+    "Uncategorized": 922,
+    "Professional Networking": 632,
     "General News & Opinion": 424,
-    "Browsers": 365,
-    "Search": 140,
-    "Music": 135,
-    "Uncategorized": 128,
-    "Email": 117,
-    "General Business": 105,
-    "General Utilities": 59,
-    "Professional Networking": 58,
-    "Instant Message": 23
+    "Music": 399,
+    "Instant Message": 344,
+    "General Business": 325,
+    "General Utilities": 218,
+    "Email": 184,
+    "Search": 154,
+    "Health & Medicine": 153,
+    "Voice Chat": 98,
+    "Maps & Regional": 71,
+    "Business": 47,
+    "General Shopping": 45,
+    "Science & Technology": 34,
+    "Intelligence": 18,
+    "General Reference & Learning": 12,
+    "Clothes & Personal": 8
   }
 }
