@@ -1,19 +1,126 @@
 [
   {
-    "categories": [],
+    "categories": [
+      {
+        "digital": "0:01:16",
+        "hours": 0,
+        "minutes": 1,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 16,
+        "text": "1 min",
+        "total_seconds": 76.796551
+      }
+    ],
     "dependencies": [],
-    "editors": [],
+    "editors": [
+      {
+        "digital": "0:01:16",
+        "hours": 0,
+        "minutes": 1,
+        "name": "VS Code",
+        "percent": 100,
+        "seconds": 16,
+        "text": "1 min",
+        "total_seconds": 76.796551
+      }
+    ],
     "grand_total": {
-      "digital": "0:00",
+      "digital": "0:01",
       "hours": 0,
-      "minutes": 0,
-      "text": "0 secs",
-      "total_seconds": 0
+      "minutes": 1,
+      "text": "1 min",
+      "total_seconds": 76.796551
     },
-    "languages": [],
-    "machines": [],
-    "operating_systems": [],
-    "projects": [],
+    "languages": [
+      {
+        "digital": "0:01:07",
+        "hours": 0,
+        "minutes": 1,
+        "name": "YAML",
+        "percent": 87.31,
+        "seconds": 7,
+        "text": "1 min",
+        "total_seconds": 67.047731
+      },
+      {
+        "digital": "0:00:03",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Git Config",
+        "percent": 4.39,
+        "seconds": 3,
+        "text": "3 secs",
+        "total_seconds": 3.373749
+      },
+      {
+        "digital": "0:00:03",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Other",
+        "percent": 4.01,
+        "seconds": 3,
+        "text": "3 secs",
+        "total_seconds": 3.081796
+      },
+      {
+        "digital": "0:00:01",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Markdown",
+        "percent": 2.57,
+        "seconds": 1,
+        "text": "1 sec",
+        "total_seconds": 1.97348
+      },
+      {
+        "digital": "0:00:01",
+        "hours": 0,
+        "minutes": 0,
+        "name": "JSON",
+        "percent": 1.72,
+        "seconds": 1,
+        "text": "1 sec",
+        "total_seconds": 1.319795
+      }
+    ],
+    "machines": [
+      {
+        "digital": "0:01:16",
+        "hours": 0,
+        "machine_name_id": "1be40619-bda5-4036-811f-587c5d9ea497",
+        "minutes": 1,
+        "name": "Vatsal-champ",
+        "percent": 100,
+        "seconds": 16,
+        "text": "1 min",
+        "total_seconds": 76.796551
+      }
+    ],
+    "operating_systems": [
+      {
+        "digital": "0:01:16",
+        "hours": 0,
+        "minutes": 1,
+        "name": "Windows",
+        "percent": 100,
+        "seconds": 16,
+        "text": "1 min",
+        "total_seconds": 76.796551
+      }
+    ],
+    "projects": [
+      {
+        "digital": "0:01:16",
+        "hours": 0,
+        "minutes": 1,
+        "name": "life-analytics",
+        "percent": 100,
+        "seconds": 16,
+        "text": "1 min",
+        "total_seconds": 76.796551
+      }
+    ],
     "range": {
       "date": "2021-04-18",
       "end": "2021-04-19T03:59:59Z",
