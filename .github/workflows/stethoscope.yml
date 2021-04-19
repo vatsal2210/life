@@ -51,7 +51,7 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v4.10.0
         with:
           commit_message: ":card_file_box: Update daily life data [skip ci]"
-          commit_user_name: VatsalShah
+          commit_user_name: vatsal2210
           commit_user_email: vatsalshah2210@gmail.com
-          commit_author: VatsalShah <hello@vatsalshah.in>
+          commit_author: Vatsal Shah <vatsalshah2210@gmail.com>
           skip_dirty_check: true
