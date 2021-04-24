@@ -1,1 +1,68 @@
-[]
+[
+  {
+    "Rank": 1,
+    "Time Spent (seconds)": 448,
+    "Number of People": 1,
+    "Category": "Uncategorized"
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 417,
+    "Number of People": 1,
+    "Category": "General Social Networking"
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 409,
+    "Number of People": 1,
+    "Category": "Professional Networking"
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 341,
+    "Number of People": 1,
+    "Category": "General Utilities"
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 188,
+    "Number of People": 1,
+    "Category": "Browsers"
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 172,
+    "Number of People": 1,
+    "Category": "Instant Message"
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 102,
+    "Number of People": 1,
+    "Category": "General Business"
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 81,
+    "Number of People": 1,
+    "Category": "Email"
+  },
+  {
+    "Rank": 9,
+    "Time Spent (seconds)": 67,
+    "Number of People": 1,
+    "Category": "Health & Medicine"
+  },
+  {
+    "Rank": 10,
+    "Time Spent (seconds)": 21,
+    "Number of People": 1,
+    "Category": "Search"
+  },
+  {
+    "Rank": 11,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Category": "General Shopping"
+  }
+]
