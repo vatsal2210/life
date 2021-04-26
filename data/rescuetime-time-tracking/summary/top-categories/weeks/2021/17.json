@@ -107,17 +107,38 @@
     "Photos": 7
   },
   "2021-04-23": {
-    "Uncategorized": 448,
-    "General Social Networking": 417,
-    "Professional Networking": 409,
-    "General Utilities": 341,
-    "Browsers": 188,
-    "Instant Message": 172,
-    "General Business": 102,
-    "Email": 81,
+    "Uncategorized": 817,
+    "General Utilities": 743,
+    "General Social Networking": 552,
+    "Professional Networking": 451,
+    "Instant Message": 294,
+    "Maps & Regional": 241,
+    "Browsers": 214,
+    "Email": 147,
+    "General Business": 111,
     "Health & Medicine": 67,
-    "Search": 21,
-    "General Shopping": 2
+    "Search": 52,
+    "Photos": 17,
+    "Calendars": 13,
+    "General Shopping": 3
   },
-  "2021-04-24": {}
+  "2021-04-24": {
+    "Instant Message": 2704,
+    "General Social Networking": 2315,
+    "Browsers": 1241,
+    "General Utilities": 1197,
+    "Uncategorized": 695,
+    "Professional Networking": 470,
+    "Email": 371,
+    "Maps & Regional": 360,
+    "Search": 344,
+    "Photos": 316,
+    "General Shopping": 216,
+    "Health & Medicine": 117,
+    "Music": 58,
+    "General Business": 40,
+    "Calendars": 16,
+    "General Reference & Learning": 6,
+    "General Communication & Scheduling": 2
+  }
 }
