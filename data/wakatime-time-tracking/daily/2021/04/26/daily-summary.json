@@ -135,6 +135,17 @@
         "seconds": 49,
         "text": "3 hrs 23 mins",
         "total_seconds": 12229.67243
+      },
+      {
+        "digital": "0:00:00",
+        "hours": 0,
+        "machine_name_id": "1be40619-bda5-4036-811f-587c5d9ea497",
+        "minutes": 0,
+        "name": "Vatsal-champ",
+        "percent": 0,
+        "seconds": 0,
+        "text": "0 secs",
+        "total_seconds": 0
       }
     ],
     "operating_systems": [
@@ -185,7 +196,7 @@
       "date": "2021-04-26",
       "end": "2021-04-27T03:59:59Z",
       "start": "2021-04-26T04:00:00Z",
-      "text": "Today",
+      "text": "Yesterday",
       "timezone": "America/Toronto"
     }
   }
