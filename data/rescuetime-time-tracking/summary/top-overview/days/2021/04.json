@@ -258,16 +258,24 @@
     "News & Opinion": 14
   },
   "27": {
-    "Social Networking": 1023,
-    "Utilities": 298,
-    "Communication & Scheduling": 257,
-    "Uncategorized": 84,
-    "Entertainment": 76,
-    "News & Opinion": 51,
-    "Reference & Learning": 51,
-    "Business": 15,
-    "Shopping": 1
+    "Social Networking": 4030,
+    "Entertainment": 2537,
+    "Utilities": 2160,
+    "Communication & Scheduling": 1408,
+    "Uncategorized": 596,
+    "News & Opinion": 201,
+    "Reference & Learning": 120,
+    "Shopping": 112,
+    "Business": 61
   },
-  "28": {},
+  "28": {
+    "Communication & Scheduling": 1573,
+    "Social Networking": 1490,
+    "Utilities": 526,
+    "Uncategorized": 216,
+    "Reference & Learning": 211,
+    "Business": 27,
+    "Entertainment": 5
+  },
   "29": {}
 }
