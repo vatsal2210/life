@@ -1,24 +1,161 @@
 [
   {
-    "categories": [],
+    "categories": [
+      {
+        "digital": "5:31:09",
+        "hours": 5,
+        "minutes": 31,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 9,
+        "text": "5 hrs 31 mins",
+        "total_seconds": 19869.430879
+      }
+    ],
     "dependencies": [],
-    "editors": [],
+    "editors": [
+      {
+        "digital": "5:31:09",
+        "hours": 5,
+        "minutes": 31,
+        "name": "VS Code",
+        "percent": 100,
+        "seconds": 9,
+        "text": "5 hrs 31 mins",
+        "total_seconds": 19869.430879
+      }
+    ],
     "grand_total": {
-      "digital": "0:00",
-      "hours": 0,
-      "minutes": 0,
-      "text": "0 secs",
-      "total_seconds": 0
+      "digital": "5:31",
+      "hours": 5,
+      "minutes": 31,
+      "text": "5 hrs 31 mins",
+      "total_seconds": 19869.430879
     },
-    "languages": [],
-    "machines": [],
-    "operating_systems": [],
-    "projects": [],
+    "languages": [
+      {
+        "digital": "4:08:11",
+        "hours": 4,
+        "minutes": 8,
+        "name": "JavaScript",
+        "percent": 74.95,
+        "seconds": 11,
+        "text": "4 hrs 8 mins",
+        "total_seconds": 14891.89237
+      },
+      {
+        "digital": "0:42:20",
+        "hours": 0,
+        "minutes": 42,
+        "name": "TypeScript",
+        "percent": 12.79,
+        "seconds": 20,
+        "text": "42 mins",
+        "total_seconds": 2540.487355
+      },
+      {
+        "digital": "0:31:15",
+        "hours": 0,
+        "minutes": 31,
+        "name": "HTML",
+        "percent": 9.44,
+        "seconds": 15,
+        "text": "31 mins",
+        "total_seconds": 1875.781651
+      },
+      {
+        "digital": "0:09:21",
+        "hours": 0,
+        "minutes": 9,
+        "name": "SCSS",
+        "percent": 2.82,
+        "seconds": 21,
+        "text": "9 mins",
+        "total_seconds": 561.269503
+      }
+    ],
+    "machines": [
+      {
+        "digital": "5:31:09",
+        "hours": 5,
+        "machine_name_id": "1d23381c-0df5-4bb6-a20b-c344fb0436a4",
+        "minutes": 31,
+        "name": "DESKTOP-2BJN15V",
+        "percent": 100,
+        "seconds": 9,
+        "text": "5 hrs 31 mins",
+        "total_seconds": 19869.430879
+      }
+    ],
+    "operating_systems": [
+      {
+        "digital": "5:31:09",
+        "hours": 5,
+        "minutes": 31,
+        "name": "Windows",
+        "percent": 100,
+        "seconds": 9,
+        "text": "5 hrs 31 mins",
+        "total_seconds": 19869.430879
+      }
+    ],
+    "projects": [
+      {
+        "digital": "4:09:24",
+        "hours": 4,
+        "minutes": 9,
+        "name": "speak-server",
+        "percent": 75.32,
+        "seconds": 24,
+        "text": "4 hrs 9 mins",
+        "total_seconds": 14964.675399
+      },
+      {
+        "digital": "0:57:12",
+        "hours": 0,
+        "minutes": 57,
+        "name": "speak-client",
+        "percent": 17.27,
+        "seconds": 12,
+        "text": "57 mins",
+        "total_seconds": 3432.169915
+      },
+      {
+        "digital": "0:10:51",
+        "hours": 0,
+        "minutes": 10,
+        "name": "speak-embed-recorder",
+        "percent": 3.28,
+        "seconds": 51,
+        "text": "10 mins",
+        "total_seconds": 651.512419
+      },
+      {
+        "digital": "0:10:47",
+        "hours": 0,
+        "minutes": 10,
+        "name": "speak-transcript-editor",
+        "percent": 3.26,
+        "seconds": 47,
+        "text": "10 mins",
+        "total_seconds": 647.336215
+      },
+      {
+        "digital": "0:02:53",
+        "hours": 0,
+        "minutes": 2,
+        "name": "Unknown Project",
+        "percent": 0.87,
+        "seconds": 53,
+        "text": "2 mins",
+        "total_seconds": 173.736931
+      }
+    ],
     "range": {
       "date": "2021-04-29",
       "end": "2021-04-30T03:59:59Z",
       "start": "2021-04-29T04:00:00Z",
-      "text": "Tomorrow",
+      "text": "Today",
       "timezone": "America/Toronto"
     }
   }
