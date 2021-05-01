@@ -88,19 +88,35 @@
     "General Shopping": 17
   },
   "2021-04-29": {
-    "General Utilities": 2424,
-    "General Social Networking": 1503,
-    "Email": 593,
-    "Uncategorized": 361,
-    "Professional Networking": 256,
-    "Browsers": 195,
-    "Instant Message": 194,
-    "Video": 96,
-    "Health & Medicine": 71,
-    "General Business": 44,
+    "Video": 5986,
+    "General Social Networking": 3847,
+    "General Utilities": 2720,
+    "Browsers": 1431,
+    "Email": 660,
+    "Instant Message": 569,
+    "Games": 501,
+    "Uncategorized": 439,
+    "Professional Networking": 394,
+    "Calendars": 220,
+    "Health & Medicine": 107,
+    "General Business": 55,
     "General Shopping": 27,
     "Photos": 22,
     "Search": 21,
     "Intelligence": 3
-  }
+  },
+  "2021-04-30": {
+    "General Social Networking": 1574,
+    "Video": 948,
+    "General Utilities": 267,
+    "Email": 224,
+    "Browsers": 187,
+    "Uncategorized": 143,
+    "Instant Message": 38,
+    "Professional Networking": 35,
+    "General Business": 27,
+    "Photos": 6,
+    "General Shopping": 3
+  },
+  "2021-05-1": {}
 }
