@@ -546,16 +546,21 @@
     "Intelligence": 3
   },
   "30": {
-    "General Social Networking": 1574,
-    "Video": 948,
-    "General Utilities": 267,
-    "Email": 224,
-    "Browsers": 187,
-    "Uncategorized": 143,
-    "Instant Message": 38,
-    "Professional Networking": 35,
-    "General Business": 27,
+    "Instant Message": 4471,
+    "General Social Networking": 3807,
+    "Video": 1126,
+    "Games": 850,
+    "Uncategorized": 816,
+    "General Utilities": 810,
+    "Email": 469,
+    "Browsers": 446,
+    "Health & Medicine": 128,
+    "Professional Networking": 66,
+    "Music": 41,
+    "General Business": 38,
+    "Search": 21,
+    "Calendars": 12,
     "Photos": 6,
-    "General Shopping": 3
+    "General Shopping": 4
   }
 }

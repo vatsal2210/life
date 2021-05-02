@@ -1,24 +1,111 @@
 [
   {
-    "categories": [],
+    "categories": [
+      {
+        "digital": "0:09:57",
+        "hours": 0,
+        "minutes": 9,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 57,
+        "text": "9 mins",
+        "total_seconds": 597.740564
+      }
+    ],
     "dependencies": [],
-    "editors": [],
+    "editors": [
+      {
+        "digital": "0:09:57",
+        "hours": 0,
+        "minutes": 9,
+        "name": "VS Code",
+        "percent": 100,
+        "seconds": 57,
+        "text": "9 mins",
+        "total_seconds": 597.740564
+      }
+    ],
     "grand_total": {
-      "digital": "0:00",
+      "digital": "0:09",
       "hours": 0,
-      "minutes": 0,
-      "text": "0 secs",
-      "total_seconds": 0
+      "minutes": 9,
+      "text": "9 mins",
+      "total_seconds": 597.740564
     },
-    "languages": [],
-    "machines": [],
-    "operating_systems": [],
-    "projects": [],
+    "languages": [
+      {
+        "digital": "0:05:45",
+        "hours": 0,
+        "minutes": 5,
+        "name": "SCSS",
+        "percent": 57.76,
+        "seconds": 45,
+        "text": "5 mins",
+        "total_seconds": 345.273778
+      },
+      {
+        "digital": "0:04:12",
+        "hours": 0,
+        "minutes": 4,
+        "name": "Python",
+        "percent": 42.24,
+        "seconds": 12,
+        "text": "4 mins",
+        "total_seconds": 252.466786
+      }
+    ],
+    "machines": [
+      {
+        "digital": "0:09:57",
+        "hours": 0,
+        "machine_name_id": "1d23381c-0df5-4bb6-a20b-c344fb0436a4",
+        "minutes": 9,
+        "name": "DESKTOP-2BJN15V",
+        "percent": 100,
+        "seconds": 57,
+        "text": "9 mins",
+        "total_seconds": 597.740564
+      }
+    ],
+    "operating_systems": [
+      {
+        "digital": "0:09:57",
+        "hours": 0,
+        "minutes": 9,
+        "name": "Windows",
+        "percent": 100,
+        "seconds": 57,
+        "text": "9 mins",
+        "total_seconds": 597.740564
+      }
+    ],
+    "projects": [
+      {
+        "digital": "0:05:45",
+        "hours": 0,
+        "minutes": 5,
+        "name": "speak-embed",
+        "percent": 57.76,
+        "seconds": 45,
+        "text": "5 mins",
+        "total_seconds": 345.273778
+      },
+      {
+        "digital": "0:04:12",
+        "hours": 0,
+        "minutes": 4,
+        "name": "speak-summary-sentiment",
+        "percent": 42.24,
+        "seconds": 12,
+        "text": "4 mins",
+        "total_seconds": 252.466786
+      }
+    ],
     "range": {
       "date": "2021-05-01",
       "end": "2021-05-02T03:59:59Z",
       "start": "2021-05-01T04:00:00Z",
-      "text": "Tomorrow",
+      "text": "Today",
       "timezone": "America/Toronto"
     }
   }
