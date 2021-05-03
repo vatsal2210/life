@@ -2,53 +2,53 @@
   {
     "categories": [
       {
-        "digital": "0:09:57",
+        "digital": "0:18:41",
         "hours": 0,
-        "minutes": 9,
+        "minutes": 18,
         "name": "Coding",
         "percent": 100,
-        "seconds": 57,
-        "text": "9 mins",
-        "total_seconds": 597.740564
+        "seconds": 41,
+        "text": "18 mins",
+        "total_seconds": 1121.228625
       }
     ],
     "dependencies": [],
     "editors": [
       {
-        "digital": "0:09:57",
+        "digital": "0:18:41",
         "hours": 0,
-        "minutes": 9,
+        "minutes": 18,
         "name": "VS Code",
         "percent": 100,
-        "seconds": 57,
-        "text": "9 mins",
-        "total_seconds": 597.740564
+        "seconds": 41,
+        "text": "18 mins",
+        "total_seconds": 1121.228625
       }
     ],
     "grand_total": {
-      "digital": "0:09",
+      "digital": "0:18",
       "hours": 0,
-      "minutes": 9,
-      "text": "9 mins",
-      "total_seconds": 597.740564
+      "minutes": 18,
+      "text": "18 mins",
+      "total_seconds": 1121.228625
     },
     "languages": [
       {
-        "digital": "0:05:45",
+        "digital": "0:14:28",
         "hours": 0,
-        "minutes": 5,
+        "minutes": 14,
         "name": "SCSS",
-        "percent": 57.76,
-        "seconds": 45,
-        "text": "5 mins",
-        "total_seconds": 345.273778
+        "percent": 77.48,
+        "seconds": 28,
+        "text": "14 mins",
+        "total_seconds": 868.761839
       },
       {
         "digital": "0:04:12",
         "hours": 0,
         "minutes": 4,
         "name": "Python",
-        "percent": 42.24,
+        "percent": 22.52,
         "seconds": 12,
         "text": "4 mins",
         "total_seconds": 252.466786
@@ -56,46 +56,46 @@
     ],
     "machines": [
       {
-        "digital": "0:09:57",
+        "digital": "0:18:41",
         "hours": 0,
         "machine_name_id": "1d23381c-0df5-4bb6-a20b-c344fb0436a4",
-        "minutes": 9,
+        "minutes": 18,
         "name": "DESKTOP-2BJN15V",
         "percent": 100,
-        "seconds": 57,
-        "text": "9 mins",
-        "total_seconds": 597.740564
+        "seconds": 41,
+        "text": "18 mins",
+        "total_seconds": 1121.228625
       }
     ],
     "operating_systems": [
       {
-        "digital": "0:09:57",
+        "digital": "0:18:41",
         "hours": 0,
-        "minutes": 9,
+        "minutes": 18,
         "name": "Windows",
         "percent": 100,
-        "seconds": 57,
-        "text": "9 mins",
-        "total_seconds": 597.740564
+        "seconds": 41,
+        "text": "18 mins",
+        "total_seconds": 1121.228625
       }
     ],
     "projects": [
       {
-        "digital": "0:05:45",
+        "digital": "0:14:28",
         "hours": 0,
-        "minutes": 5,
+        "minutes": 14,
         "name": "speak-embed",
-        "percent": 57.76,
-        "seconds": 45,
-        "text": "5 mins",
-        "total_seconds": 345.273778
+        "percent": 77.48,
+        "seconds": 28,
+        "text": "14 mins",
+        "total_seconds": 868.761839
       },
       {
         "digital": "0:04:12",
         "hours": 0,
         "minutes": 4,
         "name": "speak-summary-sentiment",
-        "percent": 42.24,
+        "percent": 22.52,
         "seconds": 12,
         "text": "4 mins",
         "total_seconds": 252.466786
@@ -105,7 +105,7 @@
       "date": "2021-05-01",
       "end": "2021-05-02T03:59:59Z",
       "start": "2021-05-01T04:00:00Z",
-      "text": "Today",
+      "text": "Yesterday",
       "timezone": "America/Toronto"
     }
   }

@@ -124,20 +124,22 @@
     "General Shopping": 4
   },
   "2021-05-1": {
-    "General Utilities": 1452,
-    "Instant Message": 911,
-    "Browsers": 492,
-    "General Social Networking": 390,
-    "Professional Networking": 304,
-    "Email": 185,
-    "Music": 106,
+    "Instant Message": 6410,
+    "General Utilities": 1790,
+    "General Social Networking": 1305,
+    "Browsers": 1092,
+    "Games": 625,
+    "Uncategorized": 435,
+    "Professional Networking": 325,
+    "Email": 268,
+    "Video": 239,
+    "Music": 111,
     "Search": 100,
-    "Video": 60,
     "Health & Medicine": 50,
-    "Uncategorized": 35,
+    "General Business": 29,
     "General News & Opinion": 21,
     "Calendars": 10,
     "General Shopping": 9,
-    "General Business": 7
+    "Photos": 7
   }
 }
