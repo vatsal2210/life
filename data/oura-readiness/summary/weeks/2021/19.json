@@ -1,6 +1,5 @@
-[
-  {
-    "period_id": 1,
+{
+  "2021-05-2": {
     "score": 81,
     "score_activity_balance": 97,
     "score_hrv_balance": 80,
@@ -9,7 +8,12 @@
     "score_recovery_index": 91,
     "score_resting_hr": 92,
     "score_sleep_balance": 76,
-    "score_temperature": 100,
-    "summary_date": "2021-05-02"
-  }
-]
+    "score_temperature": 100
+  },
+  "2021-05-3": {},
+  "2021-05-4": {},
+  "2021-05-5": {},
+  "2021-05-6": {},
+  "2021-05-7": {},
+  "2021-05-8": {}
+}
