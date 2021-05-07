@@ -59,18 +59,36 @@
     "Internet Utilities": 1
   },
   "2021-05-5": {
-    "General Social Networking": 451,
-    "Browsers": 370,
-    "General Utilities": 219,
-    "Instant Message": 206,
-    "Health & Medicine": 124,
-    "Email": 86,
-    "Uncategorized": 71,
-    "Search": 52,
-    "General Business": 6,
-    "General Shopping": 2
+    "General Social Networking": 3257,
+    "Instant Message": 2154,
+    "Browsers": 1478,
+    "General Utilities": 1226,
+    "Uncategorized": 1142,
+    "Video": 1103,
+    "Games": 1061,
+    "General Entertainment": 947,
+    "General Business": 676,
+    "Professional Networking": 593,
+    "Health & Medicine": 458,
+    "Calendars": 293,
+    "Email": 269,
+    "Search": 100,
+    "General Shopping": 73,
+    "Music": 22
   },
-  "2021-05-6": {},
+  "2021-05-6": {
+    "Uncategorized": 1143,
+    "General Utilities": 917,
+    "General Social Networking": 346,
+    "Health & Medicine": 147,
+    "Instant Message": 123,
+    "Email": 101,
+    "Professional Networking": 54,
+    "Calendars": 32,
+    "General Business": 27,
+    "Browsers": 25,
+    "Photos": 8
+  },
   "2021-05-7": {},
   "2021-05-8": {}
 }
