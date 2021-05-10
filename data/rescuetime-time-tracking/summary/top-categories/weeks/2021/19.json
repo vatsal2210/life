@@ -111,15 +111,24 @@
     "General Business": 26
   },
   "2021-05-8": {
-    "Instant Message": 1523,
-    "Browsers": 505,
-    "General Social Networking": 277,
-    "General Utilities": 138,
-    "Email": 126,
-    "Health & Medicine": 107,
-    "Search": 73,
-    "Professional Networking": 67,
-    "Uncategorized": 30,
-    "General Business": 8
+    "Instant Message": 2296,
+    "Uncategorized": 1170,
+    "Browsers": 1162,
+    "General Social Networking": 996,
+    "General Utilities": 906,
+    "Professional Networking": 355,
+    "Video": 300,
+    "Search": 284,
+    "Email": 273,
+    "Science & Technology": 189,
+    "Photos": 187,
+    "General Business": 156,
+    "Health & Medicine": 126,
+    "Writing": 59,
+    "Music": 30,
+    "Business": 30,
+    "Calendars": 26,
+    "General Reference & Learning": 1,
+    "General Shopping": 1
   }
 }
