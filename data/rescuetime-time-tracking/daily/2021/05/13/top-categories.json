@@ -1,45 +1,45 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 2794,
-    "Number of People": 1,
-    "Category": "Email"
-  },
-  {
-    "Rank": 2,
-    "Time Spent (seconds)": 1749,
+    "Time Spent (seconds)": 16197,
     "Number of People": 1,
     "Category": "General Entertainment"
   },
   {
+    "Rank": 2,
+    "Time Spent (seconds)": 2898,
+    "Number of People": 1,
+    "Category": "Email"
+  },
+  {
     "Rank": 3,
-    "Time Spent (seconds)": 1341,
-    "Number of People": 1,
-    "Category": "Uncategorized"
-  },
-  {
-    "Rank": 4,
-    "Time Spent (seconds)": 957,
-    "Number of People": 1,
-    "Category": "General Utilities"
-  },
-  {
-    "Rank": 5,
-    "Time Spent (seconds)": 771,
+    "Time Spent (seconds)": 1526,
     "Number of People": 1,
     "Category": "General Social Networking"
   },
   {
-    "Rank": 6,
-    "Time Spent (seconds)": 479,
+    "Rank": 4,
+    "Time Spent (seconds)": 1471,
     "Number of People": 1,
-    "Category": "Browsers"
+    "Category": "Uncategorized"
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 1235,
+    "Number of People": 1,
+    "Category": "General Utilities"
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 1057,
+    "Number of People": 1,
+    "Category": "Instant Message"
   },
   {
     "Rank": 7,
-    "Time Spent (seconds)": 439,
+    "Time Spent (seconds)": 479,
     "Number of People": 1,
-    "Category": "Instant Message"
+    "Category": "Browsers"
   },
   {
     "Rank": 8,
@@ -55,33 +55,33 @@
   },
   {
     "Rank": 10,
+    "Time Spent (seconds)": 137,
+    "Number of People": 1,
+    "Category": "Music"
+  },
+  {
+    "Rank": 11,
     "Time Spent (seconds)": 102,
     "Number of People": 1,
     "Category": "General Business"
   },
   {
-    "Rank": 11,
-    "Time Spent (seconds)": 43,
+    "Rank": 12,
+    "Time Spent (seconds)": 74,
     "Number of People": 1,
     "Category": "Search"
   },
   {
-    "Rank": 12,
+    "Rank": 13,
     "Time Spent (seconds)": 36,
     "Number of People": 1,
     "Category": "Calendars"
   },
   {
-    "Rank": 13,
+    "Rank": 14,
     "Time Spent (seconds)": 34,
     "Number of People": 1,
     "Category": "Photos"
-  },
-  {
-    "Rank": 14,
-    "Time Spent (seconds)": 25,
-    "Number of People": 1,
-    "Category": "Music"
   },
   {
     "Rank": 15,
