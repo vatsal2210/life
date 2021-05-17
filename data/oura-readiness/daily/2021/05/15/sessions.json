@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "period_id": 3,
+    "rest_mode_state": 0,
+    "score": 79,
+    "score_activity_balance": 85,
+    "score_previous_day": 95,
+    "score_previous_night": 80,
+    "score_recovery_index": 80,
+    "score_resting_hr": 44,
+    "score_sleep_balance": 89,
+    "score_temperature": 86,
+    "summary_date": "2021-05-15"
+  }
+]

@@ -1,1 +1,104 @@
-[]
+[
+  {
+    "Rank": 1,
+    "Time Spent (seconds)": 5364,
+    "Number of People": 1,
+    "Category": "General Social Networking"
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 2876,
+    "Number of People": 1,
+    "Category": "Instant Message"
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 2489,
+    "Number of People": 1,
+    "Category": "General Shopping"
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 1765,
+    "Number of People": 1,
+    "Category": "Professional Networking"
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 1532,
+    "Number of People": 1,
+    "Category": "General Utilities"
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 1208,
+    "Number of People": 1,
+    "Category": "Video"
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 1160,
+    "Number of People": 1,
+    "Category": "Uncategorized"
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 861,
+    "Number of People": 1,
+    "Category": "General Entertainment"
+  },
+  {
+    "Rank": 9,
+    "Time Spent (seconds)": 745,
+    "Number of People": 1,
+    "Category": "Browsers"
+  },
+  {
+    "Rank": 10,
+    "Time Spent (seconds)": 422,
+    "Number of People": 1,
+    "Category": "Search"
+  },
+  {
+    "Rank": 11,
+    "Time Spent (seconds)": 347,
+    "Number of People": 1,
+    "Category": "Email"
+  },
+  {
+    "Rank": 12,
+    "Time Spent (seconds)": 275,
+    "Number of People": 1,
+    "Category": "Music"
+  },
+  {
+    "Rank": 13,
+    "Time Spent (seconds)": 155,
+    "Number of People": 1,
+    "Category": "General Business"
+  },
+  {
+    "Rank": 14,
+    "Time Spent (seconds)": 92,
+    "Number of People": 1,
+    "Category": "Health & Medicine"
+  },
+  {
+    "Rank": 15,
+    "Time Spent (seconds)": 58,
+    "Number of People": 1,
+    "Category": "Maps & Regional"
+  },
+  {
+    "Rank": 16,
+    "Time Spent (seconds)": 42,
+    "Number of People": 1,
+    "Category": "Photos"
+  },
+  {
+    "Rank": 17,
+    "Time Spent (seconds)": 16,
+    "Number of People": 1,
+    "Category": "General Software Development"
+  }
+]
