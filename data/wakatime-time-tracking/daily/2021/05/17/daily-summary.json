@@ -1,24 +1,161 @@
 [
   {
-    "categories": [],
+    "categories": [
+      {
+        "digital": "5:02:32",
+        "hours": 5,
+        "minutes": 2,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 32,
+        "text": "5 hrs 2 mins",
+        "total_seconds": 18152.072445
+      }
+    ],
     "dependencies": [],
-    "editors": [],
+    "editors": [
+      {
+        "digital": "5:02:32",
+        "hours": 5,
+        "minutes": 2,
+        "name": "VS Code",
+        "percent": 100,
+        "seconds": 32,
+        "text": "5 hrs 2 mins",
+        "total_seconds": 18152.072445
+      }
+    ],
     "grand_total": {
-      "digital": "0:00",
-      "hours": 0,
-      "minutes": 0,
-      "text": "0 secs",
-      "total_seconds": 0
+      "digital": "5:02",
+      "hours": 5,
+      "minutes": 2,
+      "text": "5 hrs 2 mins",
+      "total_seconds": 18152.072445
     },
-    "languages": [],
-    "machines": [],
-    "operating_systems": [],
-    "projects": [],
+    "languages": [
+      {
+        "digital": "2:16:21",
+        "hours": 2,
+        "minutes": 16,
+        "name": "JavaScript",
+        "percent": 45.07,
+        "seconds": 21,
+        "text": "2 hrs 16 mins",
+        "total_seconds": 8181.584399
+      },
+      {
+        "digital": "1:38:03",
+        "hours": 1,
+        "minutes": 38,
+        "name": "TypeScript",
+        "percent": 32.41,
+        "seconds": 3,
+        "text": "1 hr 38 mins",
+        "total_seconds": 5883.853662
+      },
+      {
+        "digital": "0:54:19",
+        "hours": 0,
+        "minutes": 54,
+        "name": "HTML",
+        "percent": 17.96,
+        "seconds": 19,
+        "text": "54 mins",
+        "total_seconds": 3259.989295
+      },
+      {
+        "digital": "0:12:43",
+        "hours": 0,
+        "minutes": 12,
+        "name": "SCSS",
+        "percent": 4.2,
+        "seconds": 43,
+        "text": "12 mins",
+        "total_seconds": 763.273812
+      },
+      {
+        "digital": "0:01:03",
+        "hours": 0,
+        "minutes": 1,
+        "name": "JSON",
+        "percent": 0.35,
+        "seconds": 3,
+        "text": "1 min",
+        "total_seconds": 63.371277
+      }
+    ],
+    "machines": [
+      {
+        "digital": "5:02:32",
+        "hours": 5,
+        "machine_name_id": "1d23381c-0df5-4bb6-a20b-c344fb0436a4",
+        "minutes": 2,
+        "name": "DESKTOP-2BJN15V",
+        "percent": 100,
+        "seconds": 32,
+        "text": "5 hrs 2 mins",
+        "total_seconds": 18152.072445
+      }
+    ],
+    "operating_systems": [
+      {
+        "digital": "5:02:32",
+        "hours": 5,
+        "minutes": 2,
+        "name": "Windows",
+        "percent": 100,
+        "seconds": 32,
+        "text": "5 hrs 2 mins",
+        "total_seconds": 18152.072445
+      }
+    ],
+    "projects": [
+      {
+        "digital": "2:16:28",
+        "hours": 2,
+        "minutes": 16,
+        "name": "speak-server",
+        "percent": 45.11,
+        "seconds": 28,
+        "text": "2 hrs 16 mins",
+        "total_seconds": 8188.474245
+      },
+      {
+        "digital": "1:25:35",
+        "hours": 1,
+        "minutes": 25,
+        "name": "speak-client",
+        "percent": 28.29,
+        "seconds": 35,
+        "text": "1 hr 25 mins",
+        "total_seconds": 5135.62127
+      },
+      {
+        "digital": "1:10:43",
+        "hours": 1,
+        "minutes": 10,
+        "name": "speak-embed-recorder",
+        "percent": 23.38,
+        "seconds": 43,
+        "text": "1 hr 10 mins",
+        "total_seconds": 4243.635892
+      },
+      {
+        "digital": "0:09:44",
+        "hours": 0,
+        "minutes": 9,
+        "name": "speak-embed",
+        "percent": 3.22,
+        "seconds": 44,
+        "text": "9 mins",
+        "total_seconds": 584.341038
+      }
+    ],
     "range": {
       "date": "2021-05-17",
       "end": "2021-05-18T03:59:59Z",
       "start": "2021-05-17T04:00:00Z",
-      "text": "Tomorrow",
+      "text": "Today",
       "timezone": "America/Toronto"
     }
   }
