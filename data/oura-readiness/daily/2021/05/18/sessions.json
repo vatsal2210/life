@@ -1,7 +1,7 @@
 [
   {
+    "summary_date": "2021-05-18",
     "period_id": 1,
-    "rest_mode_state": 0,
     "score": 80,
     "score_activity_balance": 98,
     "score_hrv_balance": 77,
@@ -11,6 +11,6 @@
     "score_resting_hr": 78,
     "score_sleep_balance": 86,
     "score_temperature": 100,
-    "summary_date": "2021-05-18"
+    "rest_mode_state": 0
   }
 ]

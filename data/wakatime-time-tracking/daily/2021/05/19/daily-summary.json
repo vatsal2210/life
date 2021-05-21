@@ -2,120 +2,150 @@
   {
     "categories": [
       {
-        "digital": "0:27:15",
-        "hours": 0,
-        "minutes": 27,
+        "digital": "1:04:37",
+        "hours": 1,
+        "minutes": 4,
         "name": "Coding",
         "percent": 100,
-        "seconds": 15,
-        "text": "27 mins",
-        "total_seconds": 1635.76001
+        "seconds": 37,
+        "text": "1 hr 4 mins",
+        "total_seconds": 3877.097356
       }
     ],
     "dependencies": [],
     "editors": [
       {
-        "digital": "0:27:15",
-        "hours": 0,
-        "minutes": 27,
+        "digital": "1:04:37",
+        "hours": 1,
+        "minutes": 4,
         "name": "VS Code",
         "percent": 100,
-        "seconds": 15,
-        "text": "27 mins",
-        "total_seconds": 1635.76001
+        "seconds": 37,
+        "text": "1 hr 4 mins",
+        "total_seconds": 3877.097356
       }
     ],
     "grand_total": {
-      "digital": "0:27",
-      "hours": 0,
-      "minutes": 27,
-      "text": "27 mins",
-      "total_seconds": 1635.76001
+      "digital": "1:04",
+      "hours": 1,
+      "minutes": 4,
+      "text": "1 hr 4 mins",
+      "total_seconds": 3877.097356
     },
     "languages": [
+      {
+        "digital": "0:37:16",
+        "hours": 0,
+        "minutes": 37,
+        "name": "JavaScript",
+        "percent": 57.69,
+        "seconds": 16,
+        "text": "37 mins",
+        "total_seconds": 2236.83312
+      },
       {
         "digital": "0:25:37",
         "hours": 0,
         "minutes": 25,
         "name": "TypeScript",
-        "percent": 94.02,
+        "percent": 39.67,
         "seconds": 37,
         "text": "25 mins",
         "total_seconds": 1537.865712
       },
       {
-        "digital": "0:01:35",
+        "digital": "0:01:38",
         "hours": 0,
         "minutes": 1,
-        "name": "JavaScript",
-        "percent": 5.86,
-        "seconds": 35,
+        "name": "CSV",
+        "percent": 2.55,
+        "seconds": 38,
         "text": "1 min",
-        "total_seconds": 95.800863
+        "total_seconds": 98.958687
       },
       {
         "digital": "0:00:02",
         "hours": 0,
         "minutes": 0,
         "name": "HTML",
-        "percent": 0.13,
+        "percent": 0.05,
         "seconds": 2,
         "text": "2 secs",
         "total_seconds": 2.093435
+      },
+      {
+        "digital": "0:00:00",
+        "hours": 0,
+        "minutes": 0,
+        "name": "YAML",
+        "percent": 0.02,
+        "seconds": 0,
+        "text": "0 secs",
+        "total_seconds": 0.832775
+      },
+      {
+        "digital": "0:00:00",
+        "hours": 0,
+        "minutes": 0,
+        "name": "JSON",
+        "percent": 0.01,
+        "seconds": 0,
+        "text": "0 secs",
+        "total_seconds": 0.513627
       }
     ],
     "machines": [
       {
-        "digital": "0:27:15",
-        "hours": 0,
+        "digital": "1:04:37",
+        "hours": 1,
         "machine_name_id": "1d23381c-0df5-4bb6-a20b-c344fb0436a4",
-        "minutes": 27,
+        "minutes": 4,
         "name": "DESKTOP-2BJN15V",
         "percent": 100,
-        "seconds": 15,
-        "text": "27 mins",
-        "total_seconds": 1635.76001
+        "seconds": 37,
+        "text": "1 hr 4 mins",
+        "total_seconds": 3877.097356
       }
     ],
     "operating_systems": [
       {
-        "digital": "0:27:15",
-        "hours": 0,
-        "minutes": 27,
+        "digital": "1:04:37",
+        "hours": 1,
+        "minutes": 4,
         "name": "Windows",
         "percent": 100,
-        "seconds": 15,
-        "text": "27 mins",
-        "total_seconds": 1635.76001
+        "seconds": 37,
+        "text": "1 hr 4 mins",
+        "total_seconds": 3877.097356
       }
     ],
     "projects": [
+      {
+        "digital": "0:38:57",
+        "hours": 0,
+        "minutes": 38,
+        "name": "speak-server",
+        "percent": 60.28,
+        "seconds": 57,
+        "text": "38 mins",
+        "total_seconds": 2337.138209
+      },
       {
         "digital": "0:25:39",
         "hours": 0,
         "minutes": 25,
         "name": "speak-client",
-        "percent": 94.14,
+        "percent": 39.72,
         "seconds": 39,
         "text": "25 mins",
         "total_seconds": 1539.959147
-      },
-      {
-        "digital": "0:01:35",
-        "hours": 0,
-        "minutes": 1,
-        "name": "speak-server",
-        "percent": 5.86,
-        "seconds": 35,
-        "text": "1 min",
-        "total_seconds": 95.800863
       }
     ],
     "range": {
       "date": "2021-05-19",
       "end": "2021-05-20T03:59:59Z",
       "start": "2021-05-19T04:00:00Z",
-      "text": "Today",
+      "text": "Yesterday",
       "timezone": "America/Toronto"
     }
   }
