@@ -44,8 +44,37 @@
     "News & Opinion": 5
   },
   "2021-05-27": {
-    "Utilities": 1
+    "Utilities": 3449,
+    "Social Networking": 748,
+    "Communication & Scheduling": 524,
+    "Uncategorized": 106,
+    "Reference & Learning": 78,
+    "Entertainment": 37,
+    "Shopping": 35,
+    "News & Opinion": 15
   },
-  "2021-05-28": {},
-  "2021-05-29": {}
+  "2021-05-28": {
+    "Communication & Scheduling": 5291,
+    "Utilities": 4421,
+    "Social Networking": 3824,
+    "Uncategorized": 1030,
+    "Shopping": 345,
+    "Business": 141,
+    "Reference & Learning": 48,
+    "Software Development": 30,
+    "Entertainment": 2
+  },
+  "2021-05-29": {
+    "Entertainment": 9909,
+    "Communication & Scheduling": 6921,
+    "Social Networking": 4590,
+    "Software Development": 3440,
+    "Utilities": 2476,
+    "Uncategorized": 2358,
+    "Reference & Learning": 481,
+    "Business": 231,
+    "Design & Composition": 143,
+    "News & Opinion": 54,
+    "Shopping": 1
+  }
 }

@@ -1,24 +1,101 @@
 [
   {
-    "categories": [],
+    "categories": [
+      {
+        "digital": "2:25:39",
+        "hours": 2,
+        "minutes": 25,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 39,
+        "text": "2 hrs 25 mins",
+        "total_seconds": 8739.622745
+      }
+    ],
     "dependencies": [],
-    "editors": [],
+    "editors": [
+      {
+        "digital": "2:25:39",
+        "hours": 2,
+        "minutes": 25,
+        "name": "VS Code",
+        "percent": 100,
+        "seconds": 39,
+        "text": "2 hrs 25 mins",
+        "total_seconds": 8739.622745
+      }
+    ],
     "grand_total": {
-      "digital": "0:00",
-      "hours": 0,
-      "minutes": 0,
-      "text": "0 secs",
-      "total_seconds": 0
+      "digital": "2:25",
+      "hours": 2,
+      "minutes": 25,
+      "text": "2 hrs 25 mins",
+      "total_seconds": 8739.622745
     },
-    "languages": [],
-    "machines": [],
-    "operating_systems": [],
-    "projects": [],
+    "languages": [
+      {
+        "digital": "2:25:34",
+        "hours": 2,
+        "minutes": 25,
+        "name": "JavaScript",
+        "percent": 99.95,
+        "seconds": 34,
+        "text": "2 hrs 25 mins",
+        "total_seconds": 8734.95717
+      },
+      {
+        "digital": "0:00:04",
+        "hours": 0,
+        "minutes": 0,
+        "name": "JSON",
+        "percent": 0.05,
+        "seconds": 4,
+        "text": "4 secs",
+        "total_seconds": 4.665575
+      }
+    ],
+    "machines": [
+      {
+        "digital": "2:25:39",
+        "hours": 2,
+        "machine_name_id": "1d23381c-0df5-4bb6-a20b-c344fb0436a4",
+        "minutes": 25,
+        "name": "DESKTOP-2BJN15V",
+        "percent": 100,
+        "seconds": 39,
+        "text": "2 hrs 25 mins",
+        "total_seconds": 8739.622745
+      }
+    ],
+    "operating_systems": [
+      {
+        "digital": "2:25:39",
+        "hours": 2,
+        "minutes": 25,
+        "name": "Windows",
+        "percent": 100,
+        "seconds": 39,
+        "text": "2 hrs 25 mins",
+        "total_seconds": 8739.622745
+      }
+    ],
+    "projects": [
+      {
+        "digital": "2:25:39",
+        "hours": 2,
+        "minutes": 25,
+        "name": "code",
+        "percent": 100,
+        "seconds": 39,
+        "text": "2 hrs 25 mins",
+        "total_seconds": 8739.622745
+      }
+    ],
     "range": {
       "date": "2021-05-29",
       "end": "2021-05-30T03:59:59Z",
       "start": "2021-05-29T04:00:00Z",
-      "text": "Tomorrow",
+      "text": "Today",
       "timezone": "America/Toronto"
     }
   }
