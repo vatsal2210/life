@@ -114,8 +114,8 @@
     "General Business": 13,
     "Meetings": 7,
     "General Communication & Scheduling": 3,
-    "Music": 2,
-    "Health & Medicine": 2
+    "Health & Medicine": 2,
+    "Music": 2
   },
   "2021-05-29": {
     "Video": 15474,
@@ -141,8 +141,8 @@
     "General News & Opinion": 50,
     "Engineering & Technology": 12,
     "General Reference & Learning": 11,
-    "Sports": 6,
     "General Entertainment": 6,
+    "Sports": 6,
     "Music": 4,
     "General Communication & Scheduling": 3
   }
