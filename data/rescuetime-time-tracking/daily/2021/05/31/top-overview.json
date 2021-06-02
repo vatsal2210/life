@@ -1,68 +1,68 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 16832,
+    "Time Spent (seconds)": 17019,
     "Number of People": 1,
     "Category": "Software Development"
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 5622,
-    "Number of People": 1,
-    "Category": "Communication & Scheduling"
-  },
-  {
-    "Rank": 3,
-    "Time Spent (seconds)": 3292,
+    "Time Spent (seconds)": 8392,
     "Number of People": 1,
     "Category": "Uncategorized"
   },
   {
+    "Rank": 3,
+    "Time Spent (seconds)": 7507,
+    "Number of People": 1,
+    "Category": "Communication & Scheduling"
+  },
+  {
     "Rank": 4,
-    "Time Spent (seconds)": 2592,
-    "Number of People": 1,
-    "Category": "Business"
-  },
-  {
-    "Rank": 5,
-    "Time Spent (seconds)": 2195,
-    "Number of People": 1,
-    "Category": "Utilities"
-  },
-  {
-    "Rank": 6,
-    "Time Spent (seconds)": 936,
-    "Number of People": 1,
-    "Category": "Reference & Learning"
-  },
-  {
-    "Rank": 7,
-    "Time Spent (seconds)": 934,
+    "Time Spent (seconds)": 4969,
     "Number of People": 1,
     "Category": "Social Networking"
   },
   {
-    "Rank": 8,
-    "Time Spent (seconds)": 429,
+    "Rank": 5,
+    "Time Spent (seconds)": 4642,
     "Number of People": 1,
     "Category": "Design & Composition"
   },
   {
-    "Rank": 9,
-    "Time Spent (seconds)": 302,
+    "Rank": 6,
+    "Time Spent (seconds)": 4576,
+    "Number of People": 1,
+    "Category": "Utilities"
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 2928,
+    "Number of People": 1,
+    "Category": "Business"
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 1580,
     "Number of People": 1,
     "Category": "Entertainment"
   },
   {
-    "Rank": 10,
-    "Time Spent (seconds)": 45,
+    "Rank": 9,
+    "Time Spent (seconds)": 1327,
     "Number of People": 1,
-    "Category": "News & Opinion"
+    "Category": "Reference & Learning"
+  },
+  {
+    "Rank": 10,
+    "Time Spent (seconds)": 68,
+    "Number of People": 1,
+    "Category": "Shopping"
   },
   {
     "Rank": 11,
-    "Time Spent (seconds)": 16,
+    "Time Spent (seconds)": 45,
     "Number of People": 1,
-    "Category": "Shopping"
+    "Category": "News & Opinion"
   }
 ]
