@@ -1,24 +1,171 @@
 [
   {
-    "categories": [],
+    "categories": [
+      {
+        "digital": "3:42:02",
+        "hours": 3,
+        "minutes": 42,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 2,
+        "text": "3 hrs 42 mins",
+        "total_seconds": 13322.709121
+      }
+    ],
     "dependencies": [],
-    "editors": [],
+    "editors": [
+      {
+        "digital": "3:42:02",
+        "hours": 3,
+        "minutes": 42,
+        "name": "VS Code",
+        "percent": 100,
+        "seconds": 2,
+        "text": "3 hrs 42 mins",
+        "total_seconds": 13322.709121
+      }
+    ],
     "grand_total": {
-      "digital": "0:00",
-      "hours": 0,
-      "minutes": 0,
-      "text": "0 secs",
-      "total_seconds": 0
+      "digital": "3:42",
+      "hours": 3,
+      "minutes": 42,
+      "text": "3 hrs 42 mins",
+      "total_seconds": 13322.709121
     },
-    "languages": [],
-    "machines": [],
-    "operating_systems": [],
-    "projects": [],
+    "languages": [
+      {
+        "digital": "1:41:38",
+        "hours": 1,
+        "minutes": 41,
+        "name": "JavaScript",
+        "percent": 45.77,
+        "seconds": 38,
+        "text": "1 hr 41 mins",
+        "total_seconds": 6098.042576
+      },
+      {
+        "digital": "1:12:05",
+        "hours": 1,
+        "minutes": 12,
+        "name": "CSS",
+        "percent": 32.47,
+        "seconds": 5,
+        "text": "1 hr 12 mins",
+        "total_seconds": 4325.689566
+      },
+      {
+        "digital": "0:28:00",
+        "hours": 0,
+        "minutes": 28,
+        "name": "HTML",
+        "percent": 12.61,
+        "seconds": 0,
+        "text": "28 mins",
+        "total_seconds": 1680.270114
+      },
+      {
+        "digital": "0:18:10",
+        "hours": 0,
+        "minutes": 18,
+        "name": "TypeScript",
+        "percent": 8.18,
+        "seconds": 10,
+        "text": "18 mins",
+        "total_seconds": 1090.115859
+      },
+      {
+        "digital": "0:02:00",
+        "hours": 0,
+        "minutes": 2,
+        "name": "SCSS",
+        "percent": 0.91,
+        "seconds": 0,
+        "text": "2 mins",
+        "total_seconds": 120.784326
+      },
+      {
+        "digital": "0:00:04",
+        "hours": 0,
+        "minutes": 0,
+        "name": "JSON",
+        "percent": 0.03,
+        "seconds": 4,
+        "text": "4 secs",
+        "total_seconds": 4.600858
+      },
+      {
+        "digital": "0:00:03",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Markdown",
+        "percent": 0.02,
+        "seconds": 3,
+        "text": "3 secs",
+        "total_seconds": 3.205822
+      }
+    ],
+    "machines": [
+      {
+        "digital": "3:42:02",
+        "hours": 3,
+        "machine_name_id": "1d23381c-0df5-4bb6-a20b-c344fb0436a4",
+        "minutes": 42,
+        "name": "DESKTOP-2BJN15V",
+        "percent": 100,
+        "seconds": 2,
+        "text": "3 hrs 42 mins",
+        "total_seconds": 13322.709121
+      }
+    ],
+    "operating_systems": [
+      {
+        "digital": "3:42:02",
+        "hours": 3,
+        "minutes": 42,
+        "name": "Windows",
+        "percent": 100,
+        "seconds": 2,
+        "text": "3 hrs 42 mins",
+        "total_seconds": 13322.709121
+      }
+    ],
+    "projects": [
+      {
+        "digital": "2:25:52",
+        "hours": 2,
+        "minutes": 25,
+        "name": "pricing-table",
+        "percent": 65.69,
+        "seconds": 52,
+        "text": "2 hrs 25 mins",
+        "total_seconds": 8752.003825
+      },
+      {
+        "digital": "0:40:30",
+        "hours": 0,
+        "minutes": 40,
+        "name": "speak-server",
+        "percent": 18.24,
+        "seconds": 30,
+        "text": "40 mins",
+        "total_seconds": 2430.464347
+      },
+      {
+        "digital": "0:35:40",
+        "hours": 0,
+        "minutes": 35,
+        "name": "speak-client",
+        "percent": 16.06,
+        "seconds": 40,
+        "text": "35 mins",
+        "total_seconds": 2140.240949
+      }
+    ],
     "range": {
       "date": "2021-06-02",
       "end": "2021-06-03T03:59:59Z",
       "start": "2021-06-02T04:00:00Z",
-      "text": "Tomorrow",
+      "text": "Today",
       "timezone": "America/Toronto"
     }
   }
