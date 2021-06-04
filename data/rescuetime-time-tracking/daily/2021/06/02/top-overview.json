@@ -1,62 +1,68 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 8372,
+    "Time Spent (seconds)": 9624,
     "Number of People": 1,
-    "Category": "Software Development"
+    "Category": "Communication & Scheduling"
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 7101,
+    "Time Spent (seconds)": 8775,
     "Number of People": 1,
     "Category": "Utilities"
   },
   {
     "Rank": 3,
-    "Time Spent (seconds)": 5780,
+    "Time Spent (seconds)": 8389,
     "Number of People": 1,
-    "Category": "Communication & Scheduling"
+    "Category": "Software Development"
   },
   {
     "Rank": 4,
-    "Time Spent (seconds)": 1761,
+    "Time Spent (seconds)": 5137,
     "Number of People": 1,
     "Category": "Entertainment"
   },
   {
     "Rank": 5,
-    "Time Spent (seconds)": 1426,
-    "Number of People": 1,
-    "Category": "Uncategorized"
-  },
-  {
-    "Rank": 6,
-    "Time Spent (seconds)": 556,
-    "Number of People": 1,
-    "Category": "Design & Composition"
-  },
-  {
-    "Rank": 7,
-    "Time Spent (seconds)": 555,
-    "Number of People": 1,
-    "Category": "Business"
-  },
-  {
-    "Rank": 8,
-    "Time Spent (seconds)": 207,
+    "Time Spent (seconds)": 4754,
     "Number of People": 1,
     "Category": "Social Networking"
   },
   {
-    "Rank": 9,
-    "Time Spent (seconds)": 180,
+    "Rank": 6,
+    "Time Spent (seconds)": 3089,
+    "Number of People": 1,
+    "Category": "Uncategorized"
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 864,
     "Number of People": 1,
     "Category": "Reference & Learning"
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 801,
+    "Number of People": 1,
+    "Category": "Business"
+  },
+  {
+    "Rank": 9,
+    "Time Spent (seconds)": 556,
+    "Number of People": 1,
+    "Category": "Design & Composition"
   },
   {
     "Rank": 10,
     "Time Spent (seconds)": 70,
     "Number of People": 1,
     "Category": "News & Opinion"
+  },
+  {
+    "Rank": 11,
+    "Time Spent (seconds)": 7,
+    "Number of People": 1,
+    "Category": "Shopping"
   }
 ]
