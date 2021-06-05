@@ -1,24 +1,181 @@
 [
   {
-    "categories": [],
+    "categories": [
+      {
+        "digital": "1:17:09",
+        "hours": 1,
+        "minutes": 17,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 9,
+        "text": "1 hr 17 mins",
+        "total_seconds": 4629.954196
+      }
+    ],
     "dependencies": [],
-    "editors": [],
+    "editors": [
+      {
+        "digital": "1:17:09",
+        "hours": 1,
+        "minutes": 17,
+        "name": "VS Code",
+        "percent": 100,
+        "seconds": 9,
+        "text": "1 hr 17 mins",
+        "total_seconds": 4629.954196
+      }
+    ],
     "grand_total": {
-      "digital": "0:00",
-      "hours": 0,
-      "minutes": 0,
-      "text": "0 secs",
-      "total_seconds": 0
+      "digital": "1:17",
+      "hours": 1,
+      "minutes": 17,
+      "text": "1 hr 17 mins",
+      "total_seconds": 4629.954196
     },
-    "languages": [],
-    "machines": [],
-    "operating_systems": [],
-    "projects": [],
+    "languages": [
+      {
+        "digital": "0:54:01",
+        "hours": 0,
+        "minutes": 54,
+        "name": "JavaScript",
+        "percent": 70.02,
+        "seconds": 1,
+        "text": "54 mins",
+        "total_seconds": 3241.965251
+      },
+      {
+        "digital": "0:21:41",
+        "hours": 0,
+        "minutes": 21,
+        "name": "TypeScript",
+        "percent": 28.1,
+        "seconds": 41,
+        "text": "21 mins",
+        "total_seconds": 1301.109396
+      },
+      {
+        "digital": "0:01:23",
+        "hours": 0,
+        "minutes": 1,
+        "name": "Python",
+        "percent": 1.8,
+        "seconds": 23,
+        "text": "1 min",
+        "total_seconds": 83.29584
+      },
+      {
+        "digital": "0:00:02",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Other",
+        "percent": 0.06,
+        "seconds": 2,
+        "text": "2 secs",
+        "total_seconds": 2.877598
+      },
+      {
+        "digital": "0:00:00",
+        "hours": 0,
+        "minutes": 0,
+        "name": "HTML",
+        "percent": 0.02,
+        "seconds": 0,
+        "text": "0 secs",
+        "total_seconds": 0.706111
+      },
+      {
+        "digital": "0:00:00",
+        "hours": 0,
+        "minutes": 0,
+        "name": "JSON",
+        "percent": 0,
+        "seconds": 0,
+        "text": "0 secs",
+        "total_seconds": 0
+      }
+    ],
+    "machines": [
+      {
+        "digital": "1:17:09",
+        "hours": 1,
+        "machine_name_id": "1d23381c-0df5-4bb6-a20b-c344fb0436a4",
+        "minutes": 17,
+        "name": "DESKTOP-2BJN15V",
+        "percent": 100,
+        "seconds": 9,
+        "text": "1 hr 17 mins",
+        "total_seconds": 4629.954196
+      }
+    ],
+    "operating_systems": [
+      {
+        "digital": "1:17:09",
+        "hours": 1,
+        "minutes": 17,
+        "name": "Windows",
+        "percent": 100,
+        "seconds": 9,
+        "text": "1 hr 17 mins",
+        "total_seconds": 4629.954196
+      }
+    ],
+    "projects": [
+      {
+        "digital": "0:54:20",
+        "hours": 0,
+        "minutes": 54,
+        "name": "speak-server",
+        "percent": 70.43,
+        "seconds": 20,
+        "text": "54 mins",
+        "total_seconds": 3260.972602
+      },
+      {
+        "digital": "0:19:04",
+        "hours": 0,
+        "minutes": 19,
+        "name": "speak-client",
+        "percent": 24.71,
+        "seconds": 4,
+        "text": "19 mins",
+        "total_seconds": 1144.125602
+      },
+      {
+        "digital": "0:02:21",
+        "hours": 0,
+        "minutes": 2,
+        "name": "speak-embed",
+        "percent": 3.06,
+        "seconds": 21,
+        "text": "2 mins",
+        "total_seconds": 141.560152
+      },
+      {
+        "digital": "0:01:23",
+        "hours": 0,
+        "minutes": 1,
+        "name": "speak-summary-sentiment",
+        "percent": 1.8,
+        "seconds": 23,
+        "text": "1 min",
+        "total_seconds": 83.29584
+      },
+      {
+        "digital": "0:00:00",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Unknown Project",
+        "percent": 0,
+        "seconds": 0,
+        "text": "0 secs",
+        "total_seconds": 0
+      }
+    ],
     "range": {
       "date": "2021-06-04",
       "end": "2021-06-05T03:59:59Z",
       "start": "2021-06-04T04:00:00Z",
-      "text": "Tomorrow",
+      "text": "Today",
       "timezone": "America/Toronto"
     }
   }
