@@ -1,24 +1,101 @@
 [
   {
-    "categories": [],
+    "categories": [
+      {
+        "digital": "0:00:27",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 27,
+        "text": "27 secs",
+        "total_seconds": 27.286235
+      }
+    ],
     "dependencies": [],
-    "editors": [],
+    "editors": [
+      {
+        "digital": "0:00:27",
+        "hours": 0,
+        "minutes": 0,
+        "name": "VS Code",
+        "percent": 100,
+        "seconds": 27,
+        "text": "27 secs",
+        "total_seconds": 27.286235
+      }
+    ],
     "grand_total": {
       "digital": "0:00",
       "hours": 0,
       "minutes": 0,
       "text": "0 secs",
-      "total_seconds": 0
+      "total_seconds": 27.286235
     },
-    "languages": [],
-    "machines": [],
-    "operating_systems": [],
-    "projects": [],
+    "languages": [
+      {
+        "digital": "0:00:24",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Markdown",
+        "percent": 89.06,
+        "seconds": 24,
+        "text": "24 secs",
+        "total_seconds": 24.30202
+      },
+      {
+        "digital": "0:00:02",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Python",
+        "percent": 10.94,
+        "seconds": 2,
+        "text": "2 secs",
+        "total_seconds": 2.984215
+      }
+    ],
+    "machines": [
+      {
+        "digital": "0:00:27",
+        "hours": 0,
+        "machine_name_id": "1d23381c-0df5-4bb6-a20b-c344fb0436a4",
+        "minutes": 0,
+        "name": "DESKTOP-2BJN15V",
+        "percent": 100,
+        "seconds": 27,
+        "text": "27 secs",
+        "total_seconds": 27.286235
+      }
+    ],
+    "operating_systems": [
+      {
+        "digital": "0:00:27",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Windows",
+        "percent": 100,
+        "seconds": 27,
+        "text": "27 secs",
+        "total_seconds": 27.286235
+      }
+    ],
+    "projects": [
+      {
+        "digital": "0:00:27",
+        "hours": 0,
+        "minutes": 0,
+        "name": "speak-summary-sentiment",
+        "percent": 100,
+        "seconds": 27,
+        "text": "27 secs",
+        "total_seconds": 27.286235
+      }
+    ],
     "range": {
       "date": "2021-06-06",
       "end": "2021-06-07T03:59:59Z",
       "start": "2021-06-06T04:00:00Z",
-      "text": "Tomorrow",
+      "text": "Today",
       "timezone": "America/Toronto"
     }
   }
