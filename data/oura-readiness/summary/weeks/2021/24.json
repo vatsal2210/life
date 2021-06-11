@@ -30,7 +30,16 @@
     "score_sleep_balance": 74,
     "score_temperature": 100
   },
-  "2021-06-9": {},
+  "2021-06-9": {
+    "score": 79,
+    "score_activity_balance": 72,
+    "score_previous_day": 82,
+    "score_previous_night": 80,
+    "score_recovery_index": 81,
+    "score_resting_hr": 80,
+    "score_sleep_balance": 79,
+    "score_temperature": 100
+  },
   "2021-06-10": {},
   "2021-06-11": {},
   "2021-06-12": {}
