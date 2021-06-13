@@ -35,11 +35,17 @@
     "score": 75
   },
   "2021-06-11": {
-    "steps": 3598,
-    "total": 104,
-    "cal_active": 157,
-    "cal_total": 2216,
-    "score": 71
+    "steps": 6364,
+    "total": 214,
+    "cal_active": 276,
+    "cal_total": 2433,
+    "score": 69
   },
-  "2021-06-12": {}
+  "2021-06-12": {
+    "steps": 3527,
+    "total": 103,
+    "cal_active": 168,
+    "cal_total": 2109,
+    "score": 68
+  }
 }
