@@ -2,140 +2,160 @@
   {
     "categories": [
       {
-        "digital": "6:04:15",
+        "digital": "6:50:30",
         "hours": 6,
-        "minutes": 4,
+        "minutes": 50,
         "name": "Coding",
         "percent": 100,
-        "seconds": 15,
-        "text": "6 hrs 4 mins",
-        "total_seconds": 21855.657302
+        "seconds": 30,
+        "text": "6 hrs 50 mins",
+        "total_seconds": 24630.818494
       }
     ],
     "dependencies": [],
     "editors": [
       {
-        "digital": "6:04:15",
+        "digital": "6:50:30",
         "hours": 6,
-        "minutes": 4,
+        "minutes": 50,
         "name": "VS Code",
         "percent": 100,
-        "seconds": 15,
-        "text": "6 hrs 4 mins",
-        "total_seconds": 21855.657302
+        "seconds": 30,
+        "text": "6 hrs 50 mins",
+        "total_seconds": 24630.818494
       }
     ],
     "grand_total": {
-      "digital": "6:04",
+      "digital": "6:50",
       "hours": 6,
-      "minutes": 4,
-      "text": "6 hrs 4 mins",
-      "total_seconds": 21855.657302
+      "minutes": 50,
+      "text": "6 hrs 50 mins",
+      "total_seconds": 24630.818494
     },
     "languages": [
       {
-        "digital": "3:16:02",
+        "digital": "3:36:21",
         "hours": 3,
-        "minutes": 16,
+        "minutes": 36,
         "name": "HTML",
-        "percent": 53.82,
-        "seconds": 2,
-        "text": "3 hrs 16 mins",
-        "total_seconds": 11762.685702
+        "percent": 52.7,
+        "seconds": 21,
+        "text": "3 hrs 36 mins",
+        "total_seconds": 12981.355316
       },
       {
         "digital": "1:33:18",
         "hours": 1,
         "minutes": 33,
         "name": "TypeScript",
-        "percent": 25.61,
+        "percent": 22.73,
         "seconds": 18,
         "text": "1 hr 33 mins",
         "total_seconds": 5598.027056
       },
       {
-        "digital": "0:46:38",
-        "hours": 0,
-        "minutes": 46,
+        "digital": "1:03:05",
+        "hours": 1,
+        "minutes": 3,
         "name": "JavaScript",
-        "percent": 12.8,
-        "seconds": 38,
-        "text": "46 mins",
-        "total_seconds": 2798.021195
+        "percent": 15.37,
+        "seconds": 5,
+        "text": "1 hr 3 mins",
+        "total_seconds": 3785.347691
       },
       {
         "digital": "0:28:15",
         "hours": 0,
         "minutes": 28,
         "name": "SCSS",
-        "percent": 7.76,
+        "percent": 6.88,
         "seconds": 15,
         "text": "28 mins",
         "total_seconds": 1695.506137
       },
       {
-        "digital": "0:00:01",
+        "digital": "0:08:08",
         "hours": 0,
-        "minutes": 0,
+        "minutes": 8,
+        "name": "Python",
+        "percent": 1.98,
+        "seconds": 8,
+        "text": "8 mins",
+        "total_seconds": 488.364709
+      },
+      {
+        "digital": "0:01:22",
+        "hours": 0,
+        "minutes": 1,
         "name": "CSS",
-        "percent": 0.01,
-        "seconds": 1,
-        "text": "1 sec",
-        "total_seconds": 1.417212
+        "percent": 0.33,
+        "seconds": 22,
+        "text": "1 min",
+        "total_seconds": 82.217585
       }
     ],
     "machines": [
       {
-        "digital": "6:04:15",
+        "digital": "6:50:30",
         "hours": 6,
         "machine_name_id": "1d23381c-0df5-4bb6-a20b-c344fb0436a4",
-        "minutes": 4,
+        "minutes": 50,
         "name": "DESKTOP-2BJN15V",
         "percent": 100,
-        "seconds": 15,
-        "text": "6 hrs 4 mins",
-        "total_seconds": 21855.657302
+        "seconds": 30,
+        "text": "6 hrs 50 mins",
+        "total_seconds": 24630.818494
       }
     ],
     "operating_systems": [
       {
-        "digital": "6:04:15",
+        "digital": "6:50:30",
         "hours": 6,
-        "minutes": 4,
+        "minutes": 50,
         "name": "Windows",
         "percent": 100,
-        "seconds": 15,
-        "text": "6 hrs 4 mins",
-        "total_seconds": 21855.657302
+        "seconds": 30,
+        "text": "6 hrs 50 mins",
+        "total_seconds": 24630.818494
       }
     ],
     "projects": [
       {
-        "digital": "5:17:39",
+        "digital": "5:39:18",
         "hours": 5,
-        "minutes": 17,
+        "minutes": 39,
         "name": "speak-client",
-        "percent": 87.21,
-        "seconds": 39,
-        "text": "5 hrs 17 mins",
-        "total_seconds": 19059.482172
+        "percent": 82.66,
+        "seconds": 18,
+        "text": "5 hrs 39 mins",
+        "total_seconds": 20358.952159
       },
       {
-        "digital": "0:46:36",
-        "hours": 0,
-        "minutes": 46,
+        "digital": "1:03:03",
+        "hours": 1,
+        "minutes": 3,
         "name": "speak-server",
-        "percent": 12.79,
-        "seconds": 36,
-        "text": "46 mins",
-        "total_seconds": 2796.17513
+        "percent": 15.36,
+        "seconds": 3,
+        "text": "1 hr 3 mins",
+        "total_seconds": 3783.501626
+      },
+      {
+        "digital": "0:08:08",
+        "hours": 0,
+        "minutes": 8,
+        "name": "Unknown Project",
+        "percent": 1.98,
+        "seconds": 8,
+        "text": "8 mins",
+        "total_seconds": 488.364709
       }
     ],
     "range": {
       "date": "2021-06-15",
       "end": "2021-06-16T03:59:59Z",
       "start": "2021-06-15T04:00:00Z",
-      "text": "Today",
+      "text": "Yesterday",
       "timezone": "America/Toronto"
     }
   }
