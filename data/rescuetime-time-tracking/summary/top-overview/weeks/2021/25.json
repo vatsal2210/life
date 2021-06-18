@@ -36,17 +36,28 @@
   },
   "2021-06-16": {
     "Software Development": 11926,
-    "Utilities": 5363,
-    "Communication & Scheduling": 5016,
-    "Uncategorized": 4055,
-    "Business": 1676,
-    "Social Networking": 1393,
-    "Reference & Learning": 703,
+    "Communication & Scheduling": 9482,
+    "Utilities": 6625,
+    "Social Networking": 5444,
+    "Uncategorized": 4227,
+    "Entertainment": 2196,
+    "Business": 1705,
+    "Reference & Learning": 1176,
     "Design & Composition": 210,
-    "Shopping": 4,
+    "Shopping": 7,
     "News & Opinion": 2
   },
-  "2021-06-17": {},
+  "2021-06-17": {
+    "Software Development": 11477,
+    "Communication & Scheduling": 7794,
+    "Utilities": 3397,
+    "Uncategorized": 2546,
+    "Design & Composition": 1965,
+    "Business": 757,
+    "Social Networking": 557,
+    "Entertainment": 459,
+    "Reference & Learning": 311
+  },
   "2021-06-18": {},
   "2021-06-19": {}
 }
