@@ -1,25 +1,142 @@
 [
   {
-    "categories": [],
+    "categories": [
+      {
+        "decimal": "4.27",
+        "digital": "4:16:06",
+        "hours": 4,
+        "minutes": 16,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 6,
+        "text": "4 hrs 16 mins",
+        "total_seconds": 15366.876798
+      }
+    ],
     "dependencies": [],
-    "editors": [],
+    "editors": [
+      {
+        "decimal": "4.27",
+        "digital": "4:16:06",
+        "hours": 4,
+        "minutes": 16,
+        "name": "VS Code",
+        "percent": 100,
+        "seconds": 6,
+        "text": "4 hrs 16 mins",
+        "total_seconds": 15366.876798
+      }
+    ],
     "grand_total": {
-      "decimal": "0.00",
-      "digital": "0:00",
-      "hours": 0,
-      "minutes": 0,
-      "text": "0 secs",
-      "total_seconds": 0
+      "decimal": "4.27",
+      "digital": "4:16",
+      "hours": 4,
+      "minutes": 16,
+      "text": "4 hrs 16 mins",
+      "total_seconds": 15366.876798
     },
-    "languages": [],
-    "machines": [],
-    "operating_systems": [],
-    "projects": [],
+    "languages": [
+      {
+        "decimal": "4.25",
+        "digital": "4:15:31",
+        "hours": 4,
+        "minutes": 15,
+        "name": "JavaScript",
+        "percent": 99.77,
+        "seconds": 31,
+        "text": "4 hrs 15 mins",
+        "total_seconds": 15331.717803
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:20",
+        "hours": 0,
+        "minutes": 0,
+        "name": "TypeScript",
+        "percent": 0.13,
+        "seconds": 20,
+        "text": "20 secs",
+        "total_seconds": 20.592496
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:10",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Other",
+        "percent": 0.07,
+        "seconds": 10,
+        "text": "10 secs",
+        "total_seconds": 10.362926
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:04",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Text",
+        "percent": 0.03,
+        "seconds": 4,
+        "text": "4 secs",
+        "total_seconds": 4.203573
+      }
+    ],
+    "machines": [
+      {
+        "decimal": "4.27",
+        "digital": "4:16:06",
+        "hours": 4,
+        "machine_name_id": "fb5452fc-12cb-4a10-9085-7a914b40e0e0",
+        "minutes": 16,
+        "name": "Vatsal",
+        "percent": 100,
+        "seconds": 6,
+        "text": "4 hrs 16 mins",
+        "total_seconds": 15366.876798
+      }
+    ],
+    "operating_systems": [
+      {
+        "decimal": "4.27",
+        "digital": "4:16:06",
+        "hours": 4,
+        "minutes": 16,
+        "name": "Windows",
+        "percent": 100,
+        "seconds": 6,
+        "text": "4 hrs 16 mins",
+        "total_seconds": 15366.876798
+      }
+    ],
+    "projects": [
+      {
+        "decimal": "4.25",
+        "digital": "4:15:46",
+        "hours": 4,
+        "minutes": 15,
+        "name": "Node Js Application Developer",
+        "percent": 99.87,
+        "seconds": 46,
+        "text": "4 hrs 15 mins",
+        "total_seconds": 15346.284302
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:20",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Unknown Project",
+        "percent": 0.13,
+        "seconds": 20,
+        "text": "20 secs",
+        "total_seconds": 20.592496
+      }
+    ],
     "range": {
       "date": "2021-06-19",
       "end": "2021-06-20T03:59:59Z",
       "start": "2021-06-19T04:00:00Z",
-      "text": "Tomorrow",
+      "text": "Today",
       "timezone": "America/Toronto"
     }
   }

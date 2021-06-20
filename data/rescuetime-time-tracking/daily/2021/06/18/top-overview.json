@@ -1,62 +1,62 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 10330,
+    "Time Spent (seconds)": 11483,
     "Number of People": 1,
     "Category": "Software Development"
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 8530,
+    "Time Spent (seconds)": 10668,
     "Number of People": 1,
     "Category": "Communication & Scheduling"
   },
   {
     "Rank": 3,
-    "Time Spent (seconds)": 2089,
-    "Number of People": 1,
-    "Category": "Uncategorized"
-  },
-  {
-    "Rank": 4,
-    "Time Spent (seconds)": 1919,
-    "Number of People": 1,
-    "Category": "Utilities"
-  },
-  {
-    "Rank": 5,
-    "Time Spent (seconds)": 1088,
-    "Number of People": 1,
-    "Category": "Entertainment"
-  },
-  {
-    "Rank": 6,
-    "Time Spent (seconds)": 1012,
-    "Number of People": 1,
-    "Category": "Shopping"
-  },
-  {
-    "Rank": 7,
-    "Time Spent (seconds)": 475,
+    "Time Spent (seconds)": 5249,
     "Number of People": 1,
     "Category": "Reference & Learning"
   },
   {
+    "Rank": 4,
+    "Time Spent (seconds)": 4862,
+    "Number of People": 1,
+    "Category": "Entertainment"
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 4212,
+    "Number of People": 1,
+    "Category": "Utilities"
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 3719,
+    "Number of People": 1,
+    "Category": "Uncategorized"
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 3094,
+    "Number of People": 1,
+    "Category": "Social Networking"
+  },
+  {
     "Rank": 8,
-    "Time Spent (seconds)": 370,
+    "Time Spent (seconds)": 1014,
+    "Number of People": 1,
+    "Category": "Shopping"
+  },
+  {
+    "Rank": 9,
+    "Time Spent (seconds)": 509,
     "Number of People": 1,
     "Category": "Business"
   },
   {
-    "Rank": 9,
-    "Time Spent (seconds)": 68,
+    "Rank": 10,
+    "Time Spent (seconds)": 218,
     "Number of People": 1,
     "Category": "Design & Composition"
-  },
-  {
-    "Rank": 10,
-    "Time Spent (seconds)": 57,
-    "Number of People": 1,
-    "Category": "Social Networking"
   }
 ]
