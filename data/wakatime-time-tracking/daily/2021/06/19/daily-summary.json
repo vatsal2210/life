@@ -2,50 +2,61 @@
   {
     "categories": [
       {
-        "decimal": "4.27",
-        "digital": "4:16:06",
+        "decimal": "4.57",
+        "digital": "4:34:55",
         "hours": 4,
-        "minutes": 16,
+        "minutes": 34,
         "name": "Coding",
         "percent": 100,
-        "seconds": 6,
-        "text": "4 hrs 16 mins",
-        "total_seconds": 15366.876798
+        "seconds": 55,
+        "text": "4 hrs 34 mins",
+        "total_seconds": 16495.172413
       }
     ],
     "dependencies": [],
     "editors": [
       {
-        "decimal": "4.27",
-        "digital": "4:16:06",
+        "decimal": "4.57",
+        "digital": "4:34:55",
         "hours": 4,
-        "minutes": 16,
+        "minutes": 34,
         "name": "VS Code",
         "percent": 100,
-        "seconds": 6,
-        "text": "4 hrs 16 mins",
-        "total_seconds": 15366.876798
+        "seconds": 55,
+        "text": "4 hrs 34 mins",
+        "total_seconds": 16495.172413
       }
     ],
     "grand_total": {
-      "decimal": "4.27",
-      "digital": "4:16",
+      "decimal": "4.57",
+      "digital": "4:34",
       "hours": 4,
-      "minutes": 16,
-      "text": "4 hrs 16 mins",
-      "total_seconds": 15366.876798
+      "minutes": 34,
+      "text": "4 hrs 34 mins",
+      "total_seconds": 16495.172413
     },
     "languages": [
       {
-        "decimal": "4.25",
-        "digital": "4:15:31",
+        "decimal": "4.48",
+        "digital": "4:29:44",
         "hours": 4,
-        "minutes": 15,
+        "minutes": 29,
         "name": "JavaScript",
-        "percent": 99.77,
-        "seconds": 31,
-        "text": "4 hrs 15 mins",
-        "total_seconds": 15331.717803
+        "percent": 98.12,
+        "seconds": 44,
+        "text": "4 hrs 29 mins",
+        "total_seconds": 16184.247623
+      },
+      {
+        "decimal": "0.07",
+        "digital": "0:04:35",
+        "hours": 0,
+        "minutes": 4,
+        "name": "JSON",
+        "percent": 1.67,
+        "seconds": 35,
+        "text": "4 mins",
+        "total_seconds": 275.765795
       },
       {
         "decimal": "0.00",
@@ -53,7 +64,7 @@
         "hours": 0,
         "minutes": 0,
         "name": "TypeScript",
-        "percent": 0.13,
+        "percent": 0.12,
         "seconds": 20,
         "text": "20 secs",
         "total_seconds": 20.592496
@@ -64,7 +75,7 @@
         "hours": 0,
         "minutes": 0,
         "name": "Other",
-        "percent": 0.07,
+        "percent": 0.06,
         "seconds": 10,
         "text": "10 secs",
         "total_seconds": 10.362926
@@ -83,42 +94,42 @@
     ],
     "machines": [
       {
-        "decimal": "4.27",
-        "digital": "4:16:06",
+        "decimal": "4.57",
+        "digital": "4:34:55",
         "hours": 4,
         "machine_name_id": "fb5452fc-12cb-4a10-9085-7a914b40e0e0",
-        "minutes": 16,
+        "minutes": 34,
         "name": "Vatsal",
         "percent": 100,
-        "seconds": 6,
-        "text": "4 hrs 16 mins",
-        "total_seconds": 15366.876798
+        "seconds": 55,
+        "text": "4 hrs 34 mins",
+        "total_seconds": 16495.172413
       }
     ],
     "operating_systems": [
       {
-        "decimal": "4.27",
-        "digital": "4:16:06",
+        "decimal": "4.57",
+        "digital": "4:34:55",
         "hours": 4,
-        "minutes": 16,
+        "minutes": 34,
         "name": "Windows",
         "percent": 100,
-        "seconds": 6,
-        "text": "4 hrs 16 mins",
-        "total_seconds": 15366.876798
+        "seconds": 55,
+        "text": "4 hrs 34 mins",
+        "total_seconds": 16495.172413
       }
     ],
     "projects": [
       {
-        "decimal": "4.25",
-        "digital": "4:15:46",
+        "decimal": "4.57",
+        "digital": "4:34:34",
         "hours": 4,
-        "minutes": 15,
+        "minutes": 34,
         "name": "Node Js Application Developer",
-        "percent": 99.87,
-        "seconds": 46,
-        "text": "4 hrs 15 mins",
-        "total_seconds": 15346.284302
+        "percent": 99.88,
+        "seconds": 34,
+        "text": "4 hrs 34 mins",
+        "total_seconds": 16474.579917
       },
       {
         "decimal": "0.00",
@@ -126,7 +137,7 @@
         "hours": 0,
         "minutes": 0,
         "name": "Unknown Project",
-        "percent": 0.13,
+        "percent": 0.12,
         "seconds": 20,
         "text": "20 secs",
         "total_seconds": 20.592496
@@ -136,7 +147,7 @@
       "date": "2021-06-19",
       "end": "2021-06-20T03:59:59Z",
       "start": "2021-06-19T04:00:00Z",
-      "text": "Today",
+      "text": "Yesterday",
       "timezone": "America/Toronto"
     }
   }
