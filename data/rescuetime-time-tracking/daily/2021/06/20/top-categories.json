@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 5151,
+    "Time Spent (seconds)": 9624,
     "Number of People": 1,
     "Category": "Engineering & Technology"
   },
@@ -43,7 +43,7 @@
   },
   {
     "Rank": 8,
-    "Time Spent (seconds)": 1745,
+    "Time Spent (seconds)": 1748,
     "Number of People": 1,
     "Category": "General Utilities"
   },
@@ -61,13 +61,13 @@
   },
   {
     "Rank": 11,
-    "Time Spent (seconds)": 730,
+    "Time Spent (seconds)": 732,
     "Number of People": 1,
     "Category": "Browsers"
   },
   {
     "Rank": 12,
-    "Time Spent (seconds)": 438,
+    "Time Spent (seconds)": 453,
     "Number of People": 1,
     "Category": "Email"
   },
@@ -121,62 +121,68 @@
   },
   {
     "Rank": 21,
+    "Time Spent (seconds)": 134,
+    "Number of People": 1,
+    "Category": "Marketing"
+  },
+  {
+    "Rank": 22,
     "Time Spent (seconds)": 109,
     "Number of People": 1,
     "Category": "Science & Technology"
   },
   {
-    "Rank": 22,
+    "Rank": 23,
     "Time Spent (seconds)": 81,
     "Number of People": 1,
     "Category": "Calendars"
   },
   {
-    "Rank": 23,
+    "Rank": 24,
     "Time Spent (seconds)": 61,
     "Number of People": 1,
     "Category": "General News & Opinion"
   },
   {
-    "Rank": 24,
+    "Rank": 25,
     "Time Spent (seconds)": 17,
     "Number of People": 1,
     "Category": "Intelligence"
   },
   {
-    "Rank": 25,
+    "Rank": 26,
     "Time Spent (seconds)": 16,
     "Number of People": 1,
     "Category": "Other"
   },
   {
-    "Rank": 26,
+    "Rank": 27,
     "Time Spent (seconds)": 13,
     "Number of People": 1,
     "Category": "Operations"
   },
   {
-    "Rank": 27,
+    "Rank": 28,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
     "Category": "Writing"
   },
   {
-    "Rank": 28,
+    "Rank": 29,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Category": "Project Management"
-  },
-  {
-    "Rank": 29,
-    "Time Spent (seconds)": 1,
-    "Number of People": 1,
-    "Category": "Internet Utilities"
   },
   {
     "Rank": 30,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Category": "Meetings"
+  },
+  {
+    "Rank": 31,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Category": "Internet Utilities"
   }
 ]
