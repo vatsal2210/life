@@ -1,1 +1,158 @@
-[]
+[
+  {
+    "Rank": 1,
+    "Time Spent (seconds)": 2834,
+    "Number of People": 1,
+    "Category": "Instant Message"
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 2823,
+    "Number of People": 1,
+    "Category": "Search"
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 2144,
+    "Number of People": 1,
+    "Category": "Email"
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 1860,
+    "Number of People": 1,
+    "Category": "Editing & IDEs"
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 1455,
+    "Number of People": 1,
+    "Category": "General Social Networking"
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 1133,
+    "Number of People": 1,
+    "Category": "General Entertainment"
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 1045,
+    "Number of People": 1,
+    "Category": "Other"
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 979,
+    "Number of People": 1,
+    "Category": "Uncategorized"
+  },
+  {
+    "Rank": 9,
+    "Time Spent (seconds)": 828,
+    "Number of People": 1,
+    "Category": "Calendars"
+  },
+  {
+    "Rank": 10,
+    "Time Spent (seconds)": 787,
+    "Number of People": 1,
+    "Category": "Project Management"
+  },
+  {
+    "Rank": 11,
+    "Time Spent (seconds)": 776,
+    "Number of People": 1,
+    "Category": "General Utilities"
+  },
+  {
+    "Rank": 12,
+    "Time Spent (seconds)": 761,
+    "Number of People": 1,
+    "Category": "General Software Development"
+  },
+  {
+    "Rank": 13,
+    "Time Spent (seconds)": 541,
+    "Number of People": 1,
+    "Category": "Clothes & Personal"
+  },
+  {
+    "Rank": 14,
+    "Time Spent (seconds)": 530,
+    "Number of People": 1,
+    "Category": "Travel & Outdoors"
+  },
+  {
+    "Rank": 15,
+    "Time Spent (seconds)": 437,
+    "Number of People": 1,
+    "Category": "Maps & Regional"
+  },
+  {
+    "Rank": 16,
+    "Time Spent (seconds)": 272,
+    "Number of People": 1,
+    "Category": "Browsers"
+  },
+  {
+    "Rank": 17,
+    "Time Spent (seconds)": 152,
+    "Number of People": 1,
+    "Category": "Health & Medicine"
+  },
+  {
+    "Rank": 18,
+    "Time Spent (seconds)": 135,
+    "Number of People": 1,
+    "Category": "Intelligence"
+  },
+  {
+    "Rank": 19,
+    "Time Spent (seconds)": 115,
+    "Number of People": 1,
+    "Category": "General Reference & Learning"
+  },
+  {
+    "Rank": 20,
+    "Time Spent (seconds)": 101,
+    "Number of People": 1,
+    "Category": "Professional Networking"
+  },
+  {
+    "Rank": 21,
+    "Time Spent (seconds)": 83,
+    "Number of People": 1,
+    "Category": "Accounting"
+  },
+  {
+    "Rank": 22,
+    "Time Spent (seconds)": 32,
+    "Number of People": 1,
+    "Category": "General Business"
+  },
+  {
+    "Rank": 23,
+    "Time Spent (seconds)": 26,
+    "Number of People": 1,
+    "Category": "Systems Operations"
+  },
+  {
+    "Rank": 24,
+    "Time Spent (seconds)": 7,
+    "Number of People": 1,
+    "Category": "Anti-Virus & Spyware"
+  },
+  {
+    "Rank": 25,
+    "Time Spent (seconds)": 3,
+    "Number of People": 1,
+    "Category": "Sports"
+  },
+  {
+    "Rank": 26,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Category": "General Shopping"
+  }
+]
