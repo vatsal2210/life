@@ -1,25 +1,109 @@
 [
   {
-    "categories": [],
+    "categories": [
+      {
+        "decimal": "0.03",
+        "digital": "0:02:19",
+        "hours": 0,
+        "minutes": 2,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 19,
+        "text": "2 mins",
+        "total_seconds": 139.257602
+      }
+    ],
     "dependencies": [],
-    "editors": [],
+    "editors": [
+      {
+        "decimal": "0.03",
+        "digital": "0:02:19",
+        "hours": 0,
+        "minutes": 2,
+        "name": "VS Code",
+        "percent": 100,
+        "seconds": 19,
+        "text": "2 mins",
+        "total_seconds": 139.257602
+      }
+    ],
     "grand_total": {
-      "decimal": "0.00",
-      "digital": "0:00",
+      "decimal": "0.03",
+      "digital": "0:02",
       "hours": 0,
-      "minutes": 0,
-      "text": "0 secs",
-      "total_seconds": 0
+      "minutes": 2,
+      "text": "2 mins",
+      "total_seconds": 139.257602
     },
-    "languages": [],
-    "machines": [],
-    "operating_systems": [],
-    "projects": [],
+    "languages": [
+      {
+        "decimal": "0.03",
+        "digital": "0:02:16",
+        "hours": 0,
+        "minutes": 2,
+        "name": "JavaScript",
+        "percent": 98.25,
+        "seconds": 16,
+        "text": "2 mins",
+        "total_seconds": 136.825926
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:02",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Other",
+        "percent": 1.75,
+        "seconds": 2,
+        "text": "2 secs",
+        "total_seconds": 2.431676
+      }
+    ],
+    "machines": [
+      {
+        "decimal": "0.03",
+        "digital": "0:02:19",
+        "hours": 0,
+        "machine_name_id": "c9302f12-737e-4701-8586-249849f922d9",
+        "minutes": 2,
+        "name": "Vatsal",
+        "percent": 100,
+        "seconds": 19,
+        "text": "2 mins",
+        "total_seconds": 139.257602
+      }
+    ],
+    "operating_systems": [
+      {
+        "decimal": "0.03",
+        "digital": "0:02:19",
+        "hours": 0,
+        "minutes": 2,
+        "name": "Windows",
+        "percent": 100,
+        "seconds": 19,
+        "text": "2 mins",
+        "total_seconds": 139.257602
+      }
+    ],
+    "projects": [
+      {
+        "decimal": "0.03",
+        "digital": "0:02:19",
+        "hours": 0,
+        "minutes": 2,
+        "name": "speak-server",
+        "percent": 100,
+        "seconds": 19,
+        "text": "2 mins",
+        "total_seconds": 139.257602
+      }
+    ],
     "range": {
       "date": "2021-06-30",
       "end": "2021-07-01T03:59:59Z",
       "start": "2021-06-30T04:00:00Z",
-      "text": "Tomorrow",
+      "text": "Today",
       "timezone": "America/Toronto"
     }
   }

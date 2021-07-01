@@ -1,25 +1,153 @@
 [
   {
-    "categories": [],
+    "categories": [
+      {
+        "decimal": "1.05",
+        "digital": "1:03:33",
+        "hours": 1,
+        "minutes": 3,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 33,
+        "text": "1 hr 3 mins",
+        "total_seconds": 3813.530644
+      }
+    ],
     "dependencies": [],
-    "editors": [],
+    "editors": [
+      {
+        "decimal": "1.05",
+        "digital": "1:03:33",
+        "hours": 1,
+        "minutes": 3,
+        "name": "VS Code",
+        "percent": 100,
+        "seconds": 33,
+        "text": "1 hr 3 mins",
+        "total_seconds": 3813.530644
+      }
+    ],
     "grand_total": {
-      "decimal": "0.00",
-      "digital": "0:00",
-      "hours": 0,
-      "minutes": 0,
-      "text": "0 secs",
-      "total_seconds": 0
+      "decimal": "1.05",
+      "digital": "1:03",
+      "hours": 1,
+      "minutes": 3,
+      "text": "1 hr 3 mins",
+      "total_seconds": 3813.530644
     },
-    "languages": [],
-    "machines": [],
-    "operating_systems": [],
-    "projects": [],
+    "languages": [
+      {
+        "decimal": "0.48",
+        "digital": "0:29:52",
+        "hours": 0,
+        "minutes": 29,
+        "name": "Text",
+        "percent": 47,
+        "seconds": 52,
+        "text": "29 mins",
+        "total_seconds": 1792.498616
+      },
+      {
+        "decimal": "0.47",
+        "digital": "0:28:58",
+        "hours": 0,
+        "minutes": 28,
+        "name": "JavaScript",
+        "percent": 45.59,
+        "seconds": 58,
+        "text": "28 mins",
+        "total_seconds": 1738.576033
+      },
+      {
+        "decimal": "0.07",
+        "digital": "0:04:22",
+        "hours": 0,
+        "minutes": 4,
+        "name": "TypeScript",
+        "percent": 6.88,
+        "seconds": 22,
+        "text": "4 mins",
+        "total_seconds": 262.408008
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:16",
+        "hours": 0,
+        "minutes": 0,
+        "name": "JSON",
+        "percent": 0.42,
+        "seconds": 16,
+        "text": "16 secs",
+        "total_seconds": 16.203442
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:03",
+        "hours": 0,
+        "minutes": 0,
+        "name": "HTML",
+        "percent": 0.1,
+        "seconds": 3,
+        "text": "3 secs",
+        "total_seconds": 3.844545
+      }
+    ],
+    "machines": [
+      {
+        "decimal": "1.05",
+        "digital": "1:03:33",
+        "hours": 1,
+        "machine_name_id": "c9302f12-737e-4701-8586-249849f922d9",
+        "minutes": 3,
+        "name": "Vatsal",
+        "percent": 100,
+        "seconds": 33,
+        "text": "1 hr 3 mins",
+        "total_seconds": 3813.530644
+      }
+    ],
+    "operating_systems": [
+      {
+        "decimal": "1.05",
+        "digital": "1:03:33",
+        "hours": 1,
+        "minutes": 3,
+        "name": "Windows",
+        "percent": 100,
+        "seconds": 33,
+        "text": "1 hr 3 mins",
+        "total_seconds": 3813.530644
+      }
+    ],
+    "projects": [
+      {
+        "decimal": "0.55",
+        "digital": "0:33:41",
+        "hours": 0,
+        "minutes": 33,
+        "name": "speak-client",
+        "percent": 53,
+        "seconds": 41,
+        "text": "33 mins",
+        "total_seconds": 2021.032028
+      },
+      {
+        "decimal": "0.48",
+        "digital": "0:29:52",
+        "hours": 0,
+        "minutes": 29,
+        "name": "Unknown Project",
+        "percent": 47,
+        "seconds": 52,
+        "text": "29 mins",
+        "total_seconds": 1792.498616
+      }
+    ],
     "range": {
       "date": "2021-06-29",
       "end": "2021-06-30T03:59:59Z",
       "start": "2021-06-29T04:00:00Z",
-      "text": "Today",
+      "text": "Yesterday",
       "timezone": "America/Toronto"
     }
   }
