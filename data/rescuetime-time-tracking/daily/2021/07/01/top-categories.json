@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "Rank": 1,
+    "Time Spent (seconds)": 297,
+    "Number of People": 1,
+    "Category": "Email"
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 279,
+    "Number of People": 1,
+    "Category": "General Utilities"
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 270,
+    "Number of People": 1,
+    "Category": "General Social Networking"
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 244,
+    "Number of People": 1,
+    "Category": "Instant Message"
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 221,
+    "Number of People": 1,
+    "Category": "Professional Networking"
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 193,
+    "Number of People": 1,
+    "Category": "Photos"
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 37,
+    "Number of People": 1,
+    "Category": "Maps & Regional"
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 17,
+    "Number of People": 1,
+    "Category": "Uncategorized"
+  }
+]
