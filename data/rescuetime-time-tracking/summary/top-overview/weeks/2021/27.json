@@ -48,13 +48,24 @@
     "Design & Composition": 17
   },
   "2021-07-1": {
-    "Communication & Scheduling": 541,
-    "Social Networking": 491,
-    "Utilities": 279,
-    "Entertainment": 193,
-    "Reference & Learning": 37,
-    "Uncategorized": 17
+    "Utilities": 3571,
+    "Reference & Learning": 2435,
+    "Communication & Scheduling": 1459,
+    "Social Networking": 1337,
+    "Entertainment": 879,
+    "Uncategorized": 275,
+    "Shopping": 30
   },
-  "2021-07-2": {},
+  "2021-07-2": {
+    "Reference & Learning": 1555,
+    "Utilities": 981,
+    "Business": 814,
+    "Uncategorized": 761,
+    "Communication & Scheduling": 638,
+    "Social Networking": 93,
+    "Entertainment": 51,
+    "Shopping": 3,
+    "News & Opinion": 1
+  },
   "2021-07-3": {}
 }
