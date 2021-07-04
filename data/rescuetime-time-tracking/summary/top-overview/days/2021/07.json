@@ -9,17 +9,28 @@
     "Shopping": 30
   },
   "2": {
-    "Reference & Learning": 1555,
-    "Utilities": 981,
-    "Business": 814,
-    "Uncategorized": 761,
-    "Communication & Scheduling": 638,
-    "Social Networking": 93,
-    "Entertainment": 51,
-    "Shopping": 3,
-    "News & Opinion": 1
+    "Reference & Learning": 5132,
+    "Utilities": 2661,
+    "Uncategorized": 1911,
+    "Communication & Scheduling": 1833,
+    "Design & Composition": 1146,
+    "Business": 999,
+    "Entertainment": 417,
+    "News & Opinion": 216,
+    "Social Networking": 167,
+    "Shopping": 7
   },
-  "3": {},
+  "3": {
+    "Communication & Scheduling": 3837,
+    "Utilities": 2078,
+    "Reference & Learning": 1206,
+    "Uncategorized": 364,
+    "Social Networking": 317,
+    "Design & Composition": 273,
+    "Business": 71,
+    "Entertainment": 35,
+    "Shopping": 2
+  },
   "4": {},
   "5": {},
   "6": {},
