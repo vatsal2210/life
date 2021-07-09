@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "summary_date": "2021-07-07",
+    "period_id": 1,
+    "score": 81,
+    "score_activity_balance": 56,
+    "score_previous_day": 100,
+    "score_previous_night": 78,
+    "score_recovery_index": 90,
+    "score_resting_hr": 99,
+    "score_sleep_balance": 72,
+    "score_temperature": 98
+  }
+]

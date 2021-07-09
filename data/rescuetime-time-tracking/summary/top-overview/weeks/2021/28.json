@@ -30,8 +30,30 @@
     "Shopping": 112,
     "Software Development": 2
   },
-  "2021-07-7": {},
-  "2021-07-8": {},
+  "2021-07-7": {
+    "Communication & Scheduling": 7206,
+    "Software Development": 4847,
+    "Utilities": 3705,
+    "Entertainment": 3227,
+    "Design & Composition": 2430,
+    "Uncategorized": 1635,
+    "Shopping": 1529,
+    "Business": 707,
+    "Social Networking": 406,
+    "Reference & Learning": 257,
+    "News & Opinion": 252
+  },
+  "2021-07-8": {
+    "Communication & Scheduling": 6642,
+    "Software Development": 6493,
+    "Business": 2897,
+    "Uncategorized": 2499,
+    "Utilities": 1831,
+    "Entertainment": 664,
+    "News & Opinion": 169,
+    "Reference & Learning": 130,
+    "Design & Composition": 30
+  },
   "2021-07-9": {},
   "2021-07-10": {}
 }
