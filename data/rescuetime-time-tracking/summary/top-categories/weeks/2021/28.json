@@ -58,8 +58,8 @@
     "Travel & Outdoors": 166,
     "Health & Medicine": 154,
     "Maps & Regional": 92,
-    "Legal & Gov't": 70,
     "General Shopping": 70,
+    "Legal & Gov't": 70,
     "Intelligence": 59,
     "Clothes & Personal": 42,
     "Calendars": 35,
@@ -125,6 +125,17 @@
     "Writing": 7,
     "General Design & Composition": 6
   },
-  "2021-07-9": {},
+  "2021-07-9": {
+    "Browsers": 5225,
+    "Instant Message": 3943,
+    "Editing & IDEs": 1090,
+    "Email": 498,
+    "Other": 399,
+    "Search": 356,
+    "Uncategorized": 353,
+    "General Utilities": 232,
+    "General Shopping": 4,
+    "Video Editing": 1
+  },
   "2021-07-10": {}
 }
