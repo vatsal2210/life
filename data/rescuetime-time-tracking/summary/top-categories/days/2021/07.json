@@ -160,9 +160,9 @@
     "Intelligence": 14,
     "Graphic Design": 12,
     "Engineering & Technology": 10,
-    "Calendars": 2,
     "Unknown": 2,
-    "General Design & Composition": 2
+    "General Design & Composition": 2,
+    "Calendars": 2
   },
   "8": {
     "Editing & IDEs": 3599,
@@ -200,7 +200,18 @@
     "General Shopping": 4,
     "Video Editing": 1
   },
-  "10": {},
+  "10": {
+    "Email": 833,
+    "Editing & IDEs": 470,
+    "Uncategorized": 323,
+    "General Software Development": 254,
+    "Browsers": 54,
+    "General Utilities": 43,
+    "General Social Networking": 24,
+    "Photos": 17,
+    "Video": 15,
+    "Other": 10
+  },
   "11": {},
   "12": {},
   "13": {},
