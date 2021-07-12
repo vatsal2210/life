@@ -138,15 +138,18 @@
     "Video Editing": 1
   },
   "2021-07-10": {
+    "Video": 1107,
     "Email": 833,
     "Editing & IDEs": 470,
     "Uncategorized": 323,
     "General Software Development": 254,
-    "Browsers": 54,
-    "General Utilities": 43,
+    "Browsers": 58,
+    "General Utilities": 50,
     "General Social Networking": 24,
     "Photos": 17,
-    "Video": 15,
-    "Other": 10
+    "Writing": 11,
+    "Other": 10,
+    "General Business": 7,
+    "Intelligence": 2
   }
 }
