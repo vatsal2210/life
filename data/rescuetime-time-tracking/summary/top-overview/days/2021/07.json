@@ -130,8 +130,8 @@
   "13": {
     "Software Development": 10539,
     "Communication & Scheduling": 5764,
-    "Reference & Learning": 3231,
-    "Utilities": 2505,
+    "Reference & Learning": 3623,
+    "Utilities": 2520,
     "Business": 1638,
     "Uncategorized": 1425,
     "Entertainment": 594,
@@ -140,7 +140,16 @@
     "News & Opinion": 20,
     "Shopping": 19
   },
-  "14": {},
+  "14": {
+    "Software Development": 9717,
+    "Communication & Scheduling": 5249,
+    "Uncategorized": 4078,
+    "Design & Composition": 2276,
+    "Utilities": 1653,
+    "Reference & Learning": 593,
+    "Business": 502,
+    "News & Opinion": 4
+  },
   "15": {},
   "16": {},
   "17": {},

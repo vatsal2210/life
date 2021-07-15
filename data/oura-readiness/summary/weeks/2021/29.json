@@ -20,7 +20,16 @@
     "score_sleep_balance": 77,
     "score_temperature": 97
   },
-  "2021-07-13": {},
+  "2021-07-13": {
+    "score": 63,
+    "score_activity_balance": 74,
+    "score_previous_day": 83,
+    "score_previous_night": 40,
+    "score_recovery_index": 1,
+    "score_resting_hr": 89,
+    "score_sleep_balance": 72,
+    "score_temperature": 98
+  },
   "2021-07-14": {},
   "2021-07-15": {},
   "2021-07-16": {},
