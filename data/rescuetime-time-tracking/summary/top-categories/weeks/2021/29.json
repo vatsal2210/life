@@ -157,8 +157,8 @@
     "Intelligence": 73,
     "Other": 64,
     "Calendars": 57,
-    "Engineering & Technology": 47,
     "Video Editing": 47,
+    "Engineering & Technology": 47,
     "Presentation": 17,
     "Systems Operations": 14,
     "General Social Networking": 10,
@@ -167,5 +167,22 @@
     "Business & Finance": 3,
     "Internet Utilities": 3
   },
-  "2021-07-17": {}
+  "2021-07-17": {
+    "Email": 567,
+    "Accounting": 430,
+    "Browsers": 380,
+    "Uncategorized": 302,
+    "General Software Development": 228,
+    "General Business": 109,
+    "Data Modeling & Analysis": 32,
+    "Intelligence": 30,
+    "General Utilities": 21,
+    "Instant Message": 17,
+    "Other": 16,
+    "Systems Operations": 14,
+    "Internet Utilities": 14,
+    "Search": 7,
+    "General Entertainment": 2,
+    "Anti-Virus & Spyware": 1
+  }
 }
