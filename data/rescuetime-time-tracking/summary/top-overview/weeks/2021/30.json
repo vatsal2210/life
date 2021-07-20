@@ -1,0 +1,30 @@
+{
+  "2021-07-18": {
+    "Entertainment": 3073,
+    "Communication & Scheduling": 1372,
+    "Social Networking": 196,
+    "Business": 112,
+    "News & Opinion": 40,
+    "Utilities": 39,
+    "Reference & Learning": 24,
+    "Uncategorized": 3
+  },
+  "2021-07-19": {
+    "Software Development": 9275,
+    "Communication & Scheduling": 7407,
+    "Uncategorized": 3162,
+    "Business": 1885,
+    "Utilities": 1202,
+    "Reference & Learning": 572,
+    "Design & Composition": 449,
+    "Social Networking": 399,
+    "News & Opinion": 160,
+    "Shopping": 138,
+    "Entertainment": 91
+  },
+  "2021-07-20": {},
+  "2021-07-21": {},
+  "2021-07-22": {},
+  "2021-07-23": {},
+  "2021-07-24": {}
+}

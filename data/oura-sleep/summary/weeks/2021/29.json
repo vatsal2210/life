@@ -60,13 +60,13 @@
     "score": 79
   },
   "2021-07-17": {
-    "total": 21300,
-    "rem": 5820,
-    "awake": 6840,
+    "total": 21180,
+    "rem": 5760,
+    "awake": 3780,
     "deep": 10020,
-    "duration": 28140,
-    "efficiency": 76,
-    "light": 5460,
-    "score": 65
+    "duration": 24960,
+    "efficiency": 85,
+    "light": 5400,
+    "score": 67
   }
 }
