@@ -90,8 +90,8 @@
     "Presentation": 26,
     "Internet Utilities": 15,
     "General News & Opinion": 15,
-    "General Communication & Scheduling": 2,
-    "General Social Networking": 2
+    "General Social Networking": 2,
+    "General Communication & Scheduling": 2
   },
   "2021-07-22": {
     "Editing & IDEs": 6125,
@@ -122,6 +122,30 @@
     "General Communication & Scheduling": 3,
     "Marketing": 2
   },
-  "2021-07-23": {},
+  "2021-07-23": {
+    "Meetings": 3219,
+    "General Reference & Learning": 1706,
+    "Editing & IDEs": 1146,
+    "Instant Message": 1037,
+    "Email": 942,
+    "General Business": 644,
+    "Browsers": 399,
+    "General Utilities": 280,
+    "Data Modeling & Analysis": 213,
+    "Photos": 149,
+    "Uncategorized": 137,
+    "Legal & Gov't": 99,
+    "Intelligence": 90,
+    "General Software Development": 75,
+    "Professional Networking": 74,
+    "Travel & Outdoors": 62,
+    "Search": 52,
+    "General News & Opinion": 18,
+    "Presentation": 18,
+    "Systems Operations": 16,
+    "Engineering & Technology": 12,
+    "Internet Utilities": 3,
+    "General Communication & Scheduling": 3
+  },
   "2021-07-24": {}
 }

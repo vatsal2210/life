@@ -244,7 +244,18 @@
     "Social Networking": 7,
     "Shopping": 6
   },
-  "23": {},
+  "23": {
+    "Communication & Scheduling": 5201,
+    "Reference & Learning": 1931,
+    "Software Development": 1450,
+    "Business": 734,
+    "Utilities": 682,
+    "Entertainment": 149,
+    "Uncategorized": 137,
+    "Social Networking": 74,
+    "News & Opinion": 18,
+    "Design & Composition": 18
+  },
   "24": {},
   "25": {},
   "26": {},
