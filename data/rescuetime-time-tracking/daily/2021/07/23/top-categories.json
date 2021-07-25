@@ -43,7 +43,7 @@
   },
   {
     "Rank": 8,
-    "Time Spent (seconds)": 280,
+    "Time Spent (seconds)": 284,
     "Number of People": 1,
     "Category": "General Utilities"
   },
@@ -55,15 +55,15 @@
   },
   {
     "Rank": 10,
-    "Time Spent (seconds)": 149,
+    "Time Spent (seconds)": 169,
     "Number of People": 1,
-    "Category": "Photos"
+    "Category": "Uncategorized"
   },
   {
     "Rank": 11,
-    "Time Spent (seconds)": 137,
+    "Time Spent (seconds)": 149,
     "Number of People": 1,
-    "Category": "Uncategorized"
+    "Category": "Photos"
   },
   {
     "Rank": 12,
@@ -73,7 +73,7 @@
   },
   {
     "Rank": 13,
-    "Time Spent (seconds)": 90,
+    "Time Spent (seconds)": 98,
     "Number of People": 1,
     "Category": "Intelligence"
   },
@@ -129,12 +129,12 @@
     "Rank": 22,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Category": "Internet Utilities"
+    "Category": "General Communication & Scheduling"
   },
   {
     "Rank": 23,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Category": "General Communication & Scheduling"
+    "Category": "Internet Utilities"
   }
 ]

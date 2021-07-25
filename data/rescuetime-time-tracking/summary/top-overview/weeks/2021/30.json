@@ -63,13 +63,21 @@
     "Communication & Scheduling": 5201,
     "Reference & Learning": 1931,
     "Software Development": 1450,
-    "Business": 734,
-    "Utilities": 682,
+    "Business": 742,
+    "Utilities": 686,
+    "Uncategorized": 169,
     "Entertainment": 149,
-    "Uncategorized": 137,
     "Social Networking": 74,
     "News & Opinion": 18,
     "Design & Composition": 18
   },
-  "2021-07-24": {}
+  "2021-07-24": {
+    "Communication & Scheduling": 2141,
+    "Design & Composition": 466,
+    "Reference & Learning": 131,
+    "Business": 96,
+    "Utilities": 56,
+    "Uncategorized": 27,
+    "Software Development": 7
+  }
 }
