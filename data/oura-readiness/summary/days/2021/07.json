@@ -267,7 +267,16 @@
     "score_sleep_balance": 66,
     "score_temperature": 78
   },
-  "26": {},
+  "26": {
+    "score": 70,
+    "score_activity_balance": 76,
+    "score_previous_day": 74,
+    "score_previous_night": 38,
+    "score_recovery_index": 100,
+    "score_resting_hr": 86,
+    "score_sleep_balance": 63,
+    "score_temperature": 82
+  },
   "27": {},
   "28": {},
   "29": {},
