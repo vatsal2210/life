@@ -291,7 +291,17 @@
     "Reference & Learning": 221,
     "News & Opinion": 16
   },
-  "28": {},
+  "28": {
+    "Software Development": 16820,
+    "Communication & Scheduling": 5210,
+    "Design & Composition": 3605,
+    "Entertainment": 3154,
+    "Uncategorized": 2588,
+    "Business": 1198,
+    "Utilities": 1087,
+    "Reference & Learning": 1070,
+    "News & Opinion": 21
+  },
   "29": {},
   "30": {}
 }

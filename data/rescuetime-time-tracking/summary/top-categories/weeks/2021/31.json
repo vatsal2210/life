@@ -26,8 +26,8 @@
     "General News & Opinion": 34,
     "Engineering & Technology": 26,
     "General Communication & Scheduling": 20,
-    "Photos": 12,
     "Internet Utilities": 12,
+    "Photos": 12,
     "Anti-Virus & Spyware": 6,
     "File Sharing": 5
   },
@@ -54,7 +54,29 @@
     "Other": 6,
     "Intelligence": 3
   },
-  "2021-07-28": {},
+  "2021-07-28": {
+    "Editing & IDEs": 14307,
+    "Instant Message": 4334,
+    "Writing": 3595,
+    "General Entertainment": 3096,
+    "Uncategorized": 2588,
+    "General Software Development": 2513,
+    "Accounting": 776,
+    "Meetings": 681,
+    "Engineering & Technology": 668,
+    "Browsers": 530,
+    "General Utilities": 520,
+    "General Business": 422,
+    "Search": 387,
+    "Email": 195,
+    "Video": 58,
+    "General News & Opinion": 21,
+    "Other": 19,
+    "Internet Utilities": 17,
+    "General Reference & Learning": 15,
+    "Presentation": 10,
+    "Anti-Virus & Spyware": 1
+  },
   "2021-07-29": {},
   "2021-07-30": {}
 }
