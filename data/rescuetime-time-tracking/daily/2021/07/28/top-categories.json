@@ -1,37 +1,37 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 14307,
+    "Time Spent (seconds)": 17816,
     "Number of People": 1,
     "Category": "Editing & IDEs"
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 4334,
+    "Time Spent (seconds)": 5202,
+    "Number of People": 1,
+    "Category": "General Entertainment"
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 4350,
     "Number of People": 1,
     "Category": "Instant Message"
   },
   {
-    "Rank": 3,
+    "Rank": 4,
     "Time Spent (seconds)": 3595,
     "Number of People": 1,
     "Category": "Writing"
   },
   {
-    "Rank": 4,
-    "Time Spent (seconds)": 3096,
-    "Number of People": 1,
-    "Category": "General Entertainment"
-  },
-  {
     "Rank": 5,
-    "Time Spent (seconds)": 2588,
+    "Time Spent (seconds)": 3228,
     "Number of People": 1,
     "Category": "Uncategorized"
   },
   {
     "Rank": 6,
-    "Time Spent (seconds)": 2513,
+    "Time Spent (seconds)": 2846,
     "Number of People": 1,
     "Category": "General Software Development"
   },
@@ -43,27 +43,27 @@
   },
   {
     "Rank": 8,
+    "Time Spent (seconds)": 690,
+    "Number of People": 1,
+    "Category": "Engineering & Technology"
+  },
+  {
+    "Rank": 9,
     "Time Spent (seconds)": 681,
     "Number of People": 1,
     "Category": "Meetings"
   },
   {
-    "Rank": 9,
-    "Time Spent (seconds)": 668,
-    "Number of People": 1,
-    "Category": "Engineering & Technology"
-  },
-  {
     "Rank": 10,
-    "Time Spent (seconds)": 530,
+    "Time Spent (seconds)": 635,
     "Number of People": 1,
-    "Category": "Browsers"
+    "Category": "General Utilities"
   },
   {
     "Rank": 11,
-    "Time Spent (seconds)": 520,
+    "Time Spent (seconds)": 545,
     "Number of People": 1,
-    "Category": "General Utilities"
+    "Category": "Browsers"
   },
   {
     "Rank": 12,
@@ -73,7 +73,7 @@
   },
   {
     "Rank": 13,
-    "Time Spent (seconds)": 387,
+    "Time Spent (seconds)": 415,
     "Number of People": 1,
     "Category": "Search"
   },
@@ -85,13 +85,13 @@
   },
   {
     "Rank": 15,
-    "Time Spent (seconds)": 58,
+    "Time Spent (seconds)": 65,
     "Number of People": 1,
     "Category": "Video"
   },
   {
     "Rank": 16,
-    "Time Spent (seconds)": 21,
+    "Time Spent (seconds)": 42,
     "Number of People": 1,
     "Category": "General News & Opinion"
   },
@@ -121,6 +121,12 @@
   },
   {
     "Rank": 21,
+    "Time Spent (seconds)": 5,
+    "Number of People": 1,
+    "Category": "Professional Networking"
+  },
+  {
+    "Rank": 22,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Category": "Anti-Virus & Spyware"
