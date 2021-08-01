@@ -1,1 +1,98 @@
-[]
+[
+  {
+    "Rank": 1,
+    "Time Spent (seconds)": 891,
+    "Number of People": 1,
+    "Category": "Comedy"
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 413,
+    "Number of People": 1,
+    "Category": "Video"
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 304,
+    "Number of People": 1,
+    "Category": "General Utilities"
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 208,
+    "Number of People": 1,
+    "Category": "General Social Networking"
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 106,
+    "Number of People": 1,
+    "Category": "Photos"
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 60,
+    "Number of People": 1,
+    "Category": "Uncategorized"
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 57,
+    "Number of People": 1,
+    "Category": "Meetings"
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 53,
+    "Number of People": 1,
+    "Category": "General News & Opinion"
+  },
+  {
+    "Rank": 9,
+    "Time Spent (seconds)": 34,
+    "Number of People": 1,
+    "Category": "Search"
+  },
+  {
+    "Rank": 10,
+    "Time Spent (seconds)": 19,
+    "Number of People": 1,
+    "Category": "Engineering & Technology"
+  },
+  {
+    "Rank": 11,
+    "Time Spent (seconds)": 12,
+    "Number of People": 1,
+    "Category": "General Shopping"
+  },
+  {
+    "Rank": 12,
+    "Time Spent (seconds)": 11,
+    "Number of People": 1,
+    "Category": "Intelligence"
+  },
+  {
+    "Rank": 13,
+    "Time Spent (seconds)": 9,
+    "Number of People": 1,
+    "Category": "Browsers"
+  },
+  {
+    "Rank": 14,
+    "Time Spent (seconds)": 7,
+    "Number of People": 1,
+    "Category": "Anti-Virus & Spyware"
+  },
+  {
+    "Rank": 15,
+    "Time Spent (seconds)": 4,
+    "Number of People": 1,
+    "Category": "Internet Utilities"
+  },
+  {
+    "Rank": 16,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Category": "General Entertainment"
+  }
+]

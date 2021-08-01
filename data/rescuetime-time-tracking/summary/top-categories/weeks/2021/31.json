@@ -126,5 +126,23 @@
     "Systems Operations": 17,
     "General Social Networking": 10,
     "Unknown": 2
+  },
+  "2021-07-31": {
+    "Comedy": 891,
+    "Video": 413,
+    "General Utilities": 304,
+    "General Social Networking": 208,
+    "Photos": 106,
+    "Uncategorized": 60,
+    "Meetings": 57,
+    "General News & Opinion": 53,
+    "Search": 34,
+    "Engineering & Technology": 19,
+    "General Shopping": 12,
+    "Intelligence": 11,
+    "Browsers": 9,
+    "Anti-Virus & Spyware": 7,
+    "Internet Utilities": 4,
+    "General Entertainment": 2
   }
 }
