@@ -1,25 +1,98 @@
 [
   {
-    "categories": [],
+    "categories": [
+      {
+        "decimal": "0.15",
+        "digital": "0:09:47",
+        "hours": 0,
+        "minutes": 9,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 47,
+        "text": "9 mins",
+        "total_seconds": 587.81004
+      }
+    ],
     "dependencies": [],
-    "editors": [],
+    "editors": [
+      {
+        "decimal": "0.15",
+        "digital": "0:09:47",
+        "hours": 0,
+        "minutes": 9,
+        "name": "VS Code",
+        "percent": 100,
+        "seconds": 47,
+        "text": "9 mins",
+        "total_seconds": 587.81004
+      }
+    ],
     "grand_total": {
-      "decimal": "0.00",
-      "digital": "0:00",
+      "decimal": "0.15",
+      "digital": "0:09",
       "hours": 0,
-      "minutes": 0,
-      "text": "0 secs",
-      "total_seconds": 0
+      "minutes": 9,
+      "text": "9 mins",
+      "total_seconds": 587.81004
     },
-    "languages": [],
-    "machines": [],
-    "operating_systems": [],
-    "projects": [],
+    "languages": [
+      {
+        "decimal": "0.15",
+        "digital": "0:09:47",
+        "hours": 0,
+        "minutes": 9,
+        "name": "JavaScript",
+        "percent": 100,
+        "seconds": 47,
+        "text": "9 mins",
+        "total_seconds": 587.81004
+      }
+    ],
+    "machines": [
+      {
+        "decimal": "0.15",
+        "digital": "0:09:47",
+        "hours": 0,
+        "machine_name_id": "df09d899-7f9c-47fe-9066-c54f8d36653c",
+        "minutes": 9,
+        "name": "DESKTOP-2BJN15V",
+        "percent": 100,
+        "seconds": 47,
+        "text": "9 mins",
+        "total_seconds": 587.81004
+      }
+    ],
+    "operating_systems": [
+      {
+        "decimal": "0.15",
+        "digital": "0:09:47",
+        "hours": 0,
+        "minutes": 9,
+        "name": "Windows",
+        "percent": 100,
+        "seconds": 47,
+        "text": "9 mins",
+        "total_seconds": 587.81004
+      }
+    ],
+    "projects": [
+      {
+        "decimal": "0.15",
+        "digital": "0:09:47",
+        "hours": 0,
+        "minutes": 9,
+        "name": "speak-server",
+        "percent": 100,
+        "seconds": 47,
+        "text": "9 mins",
+        "total_seconds": 587.81004
+      }
+    ],
     "range": {
       "date": "2021-08-08",
       "end": "2021-08-09T03:59:59Z",
       "start": "2021-08-08T04:00:00Z",
-      "text": "Tomorrow",
+      "text": "Today",
       "timezone": "America/Toronto"
     }
   }
