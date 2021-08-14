@@ -133,33 +133,33 @@
   },
   {
     "Rank": 23,
+    "Time Spent (seconds)": 34,
+    "Number of People": 1,
+    "Category": "Video"
+  },
+  {
+    "Rank": 24,
     "Time Spent (seconds)": 31,
     "Number of People": 1,
     "Category": "Unknown"
   },
   {
-    "Rank": 24,
+    "Rank": 25,
     "Time Spent (seconds)": 19,
     "Number of People": 1,
     "Category": "Quality Assurance"
   },
   {
-    "Rank": 25,
+    "Rank": 26,
     "Time Spent (seconds)": 19,
     "Number of People": 1,
     "Category": "Engineering & Technology"
   },
   {
-    "Rank": 26,
+    "Rank": 27,
     "Time Spent (seconds)": 18,
     "Number of People": 1,
     "Category": "Writing"
-  },
-  {
-    "Rank": 27,
-    "Time Spent (seconds)": 13,
-    "Number of People": 1,
-    "Category": "Video"
   },
   {
     "Rank": 28,
@@ -190,5 +190,11 @@
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Category": "Customer Relations"
+  },
+  {
+    "Rank": 33,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Category": "Intelligence"
   }
 ]
