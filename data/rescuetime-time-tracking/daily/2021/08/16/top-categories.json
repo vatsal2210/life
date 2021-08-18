@@ -1,13 +1,13 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 15248,
+    "Time Spent (seconds)": 16839,
     "Number of People": 1,
     "Category": "Editing & IDEs"
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 1707,
+    "Time Spent (seconds)": 1721,
     "Number of People": 1,
     "Category": "General Software Development"
   },
@@ -25,7 +25,7 @@
   },
   {
     "Rank": 5,
-    "Time Spent (seconds)": 1096,
+    "Time Spent (seconds)": 1101,
     "Number of People": 1,
     "Category": "Instant Message"
   },
@@ -43,19 +43,19 @@
   },
   {
     "Rank": 8,
+    "Time Spent (seconds)": 713,
+    "Number of People": 1,
+    "Category": "Browsers"
+  },
+  {
+    "Rank": 9,
     "Time Spent (seconds)": 712,
     "Number of People": 1,
     "Category": "Uncategorized"
   },
   {
-    "Rank": 9,
-    "Time Spent (seconds)": 710,
-    "Number of People": 1,
-    "Category": "Browsers"
-  },
-  {
     "Rank": 10,
-    "Time Spent (seconds)": 614,
+    "Time Spent (seconds)": 616,
     "Number of People": 1,
     "Category": "Search"
   },
