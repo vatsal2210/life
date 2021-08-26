@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 4524,
+    "Time Spent (seconds)": 4539,
     "Number of People": 1,
     "Category": "Utilities"
   },
@@ -19,27 +19,27 @@
   },
   {
     "Rank": 4,
+    "Time Spent (seconds)": 1978,
+    "Number of People": 1,
+    "Category": "Entertainment"
+  },
+  {
+    "Rank": 5,
     "Time Spent (seconds)": 1724,
     "Number of People": 1,
     "Category": "Social Networking"
   },
   {
-    "Rank": 5,
+    "Rank": 6,
     "Time Spent (seconds)": 1495,
     "Number of People": 1,
     "Category": "Shopping"
   },
   {
-    "Rank": 6,
+    "Rank": 7,
     "Time Spent (seconds)": 1354,
     "Number of People": 1,
     "Category": "Reference & Learning"
-  },
-  {
-    "Rank": 7,
-    "Time Spent (seconds)": 595,
-    "Number of People": 1,
-    "Category": "Entertainment"
   },
   {
     "Rank": 8,

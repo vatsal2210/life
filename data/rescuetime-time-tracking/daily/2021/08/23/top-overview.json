@@ -1,68 +1,68 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 17234,
+    "Time Spent (seconds)": 17304,
     "Number of People": 1,
     "Category": "Software Development"
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 5824,
-    "Number of People": 1,
-    "Category": "Uncategorized"
-  },
-  {
-    "Rank": 3,
-    "Time Spent (seconds)": 3946,
+    "Time Spent (seconds)": 7124,
     "Number of People": 1,
     "Category": "Communication & Scheduling"
   },
   {
+    "Rank": 3,
+    "Time Spent (seconds)": 6618,
+    "Number of People": 1,
+    "Category": "Uncategorized"
+  },
+  {
     "Rank": 4,
-    "Time Spent (seconds)": 3160,
+    "Time Spent (seconds)": 4579,
     "Number of People": 1,
     "Category": "Utilities"
   },
   {
     "Rank": 5,
+    "Time Spent (seconds)": 4444,
+    "Number of People": 1,
+    "Category": "Social Networking"
+  },
+  {
+    "Rank": 6,
     "Time Spent (seconds)": 2742,
     "Number of People": 1,
     "Category": "Business"
   },
   {
-    "Rank": 6,
-    "Time Spent (seconds)": 1097,
+    "Rank": 7,
+    "Time Spent (seconds)": 2153,
+    "Number of People": 1,
+    "Category": "Entertainment"
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 1367,
     "Number of People": 1,
     "Category": "Reference & Learning"
   },
   {
-    "Rank": 7,
+    "Rank": 9,
     "Time Spent (seconds)": 753,
     "Number of People": 1,
     "Category": "Design & Composition"
   },
   {
-    "Rank": 8,
-    "Time Spent (seconds)": 388,
-    "Number of People": 1,
-    "Category": "Social Networking"
-  },
-  {
-    "Rank": 9,
-    "Time Spent (seconds)": 40,
-    "Number of People": 1,
-    "Category": "Entertainment"
-  },
-  {
     "Rank": 10,
-    "Time Spent (seconds)": 36,
+    "Time Spent (seconds)": 162,
     "Number of People": 1,
-    "Category": "News & Opinion"
+    "Category": "Shopping"
   },
   {
     "Rank": 11,
-    "Time Spent (seconds)": 15,
+    "Time Spent (seconds)": 48,
     "Number of People": 1,
-    "Category": "Shopping"
+    "Category": "News & Opinion"
   }
 ]
