@@ -2,13 +2,14 @@
   {
     "summary_date": "2021-09-02",
     "period_id": 1,
-    "score": 74,
+    "score": 71,
     "score_activity_balance": 83,
     "score_previous_day": 74,
-    "score_previous_night": 48,
+    "score_previous_night": 46,
     "score_recovery_index": 96,
     "score_resting_hr": 89,
-    "score_sleep_balance": 69,
-    "score_temperature": 99
+    "score_sleep_balance": 59,
+    "score_temperature": 96,
+    "score_hrv_balance": 69
   }
 ]
