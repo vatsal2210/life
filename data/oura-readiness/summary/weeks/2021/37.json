@@ -1,7 +1,5 @@
-[
-  {
-    "summary_date": "2021-09-05",
-    "period_id": 2,
+{
+  "2021-09-5": {
     "score": 72,
     "score_activity_balance": 0,
     "score_previous_day": 0,
@@ -10,5 +8,11 @@
     "score_resting_hr": 89,
     "score_sleep_balance": 56,
     "score_temperature": 96
-  }
-]
+  },
+  "2021-09-6": {},
+  "2021-09-7": {},
+  "2021-09-8": {},
+  "2021-09-9": {},
+  "2021-09-10": {},
+  "2021-09-11": {}
+}
