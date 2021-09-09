@@ -7,21 +7,21 @@
   },
   {
     "Rank": 2,
+    "Time Spent (seconds)": 3129,
+    "Number of People": 1,
+    "Category": "Instant Message"
+  },
+  {
+    "Rank": 3,
     "Time Spent (seconds)": 2831,
     "Number of People": 1,
     "Category": "Music"
   },
   {
-    "Rank": 3,
+    "Rank": 4,
     "Time Spent (seconds)": 2768,
     "Number of People": 1,
     "Category": "Video"
-  },
-  {
-    "Rank": 4,
-    "Time Spent (seconds)": 2548,
-    "Number of People": 1,
-    "Category": "Instant Message"
   },
   {
     "Rank": 5,
@@ -43,7 +43,7 @@
   },
   {
     "Rank": 8,
-    "Time Spent (seconds)": 1201,
+    "Time Spent (seconds)": 1435,
     "Number of People": 1,
     "Category": "General Utilities"
   },
