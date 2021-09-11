@@ -1,68 +1,68 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 12680,
+    "Time Spent (seconds)": 12712,
     "Number of People": 1,
     "Category": "Software Development"
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 6394,
+    "Time Spent (seconds)": 7513,
     "Number of People": 1,
     "Category": "Business"
   },
   {
     "Rank": 3,
-    "Time Spent (seconds)": 4552,
+    "Time Spent (seconds)": 5997,
     "Number of People": 1,
     "Category": "Communication & Scheduling"
   },
   {
     "Rank": 4,
-    "Time Spent (seconds)": 1867,
-    "Number of People": 1,
-    "Category": "Entertainment"
-  },
-  {
-    "Rank": 5,
-    "Time Spent (seconds)": 1617,
-    "Number of People": 1,
-    "Category": "Uncategorized"
-  },
-  {
-    "Rank": 6,
-    "Time Spent (seconds)": 953,
+    "Time Spent (seconds)": 3991,
     "Number of People": 1,
     "Category": "Utilities"
   },
   {
-    "Rank": 7,
-    "Time Spent (seconds)": 291,
+    "Rank": 5,
+    "Time Spent (seconds)": 3851,
     "Number of People": 1,
-    "Category": "Reference & Learning"
+    "Category": "Entertainment"
   },
   {
-    "Rank": 8,
-    "Time Spent (seconds)": 255,
+    "Rank": 6,
+    "Time Spent (seconds)": 3827,
     "Number of People": 1,
     "Category": "Social Networking"
   },
   {
+    "Rank": 7,
+    "Time Spent (seconds)": 1933,
+    "Number of People": 1,
+    "Category": "Uncategorized"
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 956,
+    "Number of People": 1,
+    "Category": "Reference & Learning"
+  },
+  {
     "Rank": 9,
-    "Time Spent (seconds)": 156,
+    "Time Spent (seconds)": 230,
+    "Number of People": 1,
+    "Category": "Design & Composition"
+  },
+  {
+    "Rank": 10,
+    "Time Spent (seconds)": 173,
     "Number of People": 1,
     "Category": "News & Opinion"
   },
   {
-    "Rank": 10,
-    "Time Spent (seconds)": 17,
+    "Rank": 11,
+    "Time Spent (seconds)": 38,
     "Number of People": 1,
     "Category": "Shopping"
-  },
-  {
-    "Rank": 11,
-    "Time Spent (seconds)": 3,
-    "Number of People": 1,
-    "Category": "Design & Composition"
   }
 ]
