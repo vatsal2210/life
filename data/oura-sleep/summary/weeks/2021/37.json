@@ -57,7 +57,16 @@
     "duration": 25800,
     "efficiency": 77,
     "light": 8910,
-    "score": 62
+    "score": 89
   },
-  "2021-09-11": {}
+  "2021-09-11": {
+    "total": 31620,
+    "rem": 8820,
+    "awake": 5160,
+    "deep": 8460,
+    "duration": 36780,
+    "efficiency": 86,
+    "light": 14340,
+    "score": 89
+  }
 }
