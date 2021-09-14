@@ -1,68 +1,68 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 6455,
+    "Time Spent (seconds)": 7119,
     "Number of People": 1,
     "Category": "Reference & Learning"
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 6219,
+    "Time Spent (seconds)": 6741,
     "Number of People": 1,
     "Category": "Communication & Scheduling"
   },
   {
     "Rank": 3,
-    "Time Spent (seconds)": 3912,
+    "Time Spent (seconds)": 5895,
     "Number of People": 1,
     "Category": "Social Networking"
   },
   {
     "Rank": 4,
-    "Time Spent (seconds)": 2712,
+    "Time Spent (seconds)": 4558,
     "Number of People": 1,
     "Category": "Utilities"
   },
   {
     "Rank": 5,
-    "Time Spent (seconds)": 2099,
+    "Time Spent (seconds)": 3490,
     "Number of People": 1,
     "Category": "Entertainment"
   },
   {
     "Rank": 6,
-    "Time Spent (seconds)": 1713,
+    "Time Spent (seconds)": 1869,
     "Number of People": 1,
     "Category": "Uncategorized"
   },
   {
     "Rank": 7,
-    "Time Spent (seconds)": 933,
-    "Number of People": 1,
-    "Category": "Software Development"
-  },
-  {
-    "Rank": 8,
-    "Time Spent (seconds)": 651,
+    "Time Spent (seconds)": 1243,
     "Number of People": 1,
     "Category": "Shopping"
   },
   {
+    "Rank": 8,
+    "Time Spent (seconds)": 954,
+    "Number of People": 1,
+    "Category": "Software Development"
+  },
+  {
     "Rank": 9,
-    "Time Spent (seconds)": 195,
+    "Time Spent (seconds)": 247,
     "Number of People": 1,
     "Category": "Design & Composition"
   },
   {
     "Rank": 10,
-    "Time Spent (seconds)": 127,
+    "Time Spent (seconds)": 214,
     "Number of People": 1,
-    "Category": "Business"
+    "Category": "News & Opinion"
   },
   {
     "Rank": 11,
-    "Time Spent (seconds)": 61,
+    "Time Spent (seconds)": 207,
     "Number of People": 1,
-    "Category": "News & Opinion"
+    "Category": "Business"
   }
 ]
