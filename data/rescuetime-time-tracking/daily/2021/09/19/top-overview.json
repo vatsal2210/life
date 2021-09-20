@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "Rank": 1,
+    "Time Spent (seconds)": 888,
+    "Number of People": 1,
+    "Category": "Social Networking"
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 815,
+    "Number of People": 1,
+    "Category": "Utilities"
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 238,
+    "Number of People": 1,
+    "Category": "Entertainment"
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 156,
+    "Number of People": 1,
+    "Category": "Reference & Learning"
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 144,
+    "Number of People": 1,
+    "Category": "Communication & Scheduling"
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 52,
+    "Number of People": 1,
+    "Category": "Uncategorized"
+  }
+]

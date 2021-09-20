@@ -213,19 +213,25 @@
     "Engineering & Technology": 11
   },
   "2021-09-18": {
-    "Instant Message": 3967,
-    "General Social Networking": 1667,
-    "Browsers": 817,
-    "Professional Networking": 771,
-    "General Utilities": 659,
-    "Email": 382,
-    "Uncategorized": 325,
-    "Health & Medicine": 107,
-    "Video": 73,
+    "Instant Message": 5529,
+    "General Social Networking": 5223,
+    "Video": 3164,
+    "Uncategorized": 1491,
+    "Browsers": 1262,
+    "General Utilities": 1210,
+    "Professional Networking": 904,
+    "Email": 642,
+    "Health & Medicine": 376,
+    "Maps & Regional": 322,
+    "Photos": 318,
+    "Music": 253,
+    "General Reference & Learning": 166,
+    "Search": 146,
+    "General Shopping": 97,
+    "General Software Development": 74,
+    "Calendars": 21,
     "Intelligence": 19,
     "Science & Technology": 18,
-    "Search": 12,
-    "General Reference & Learning": 12,
-    "Photos": 3
+    "Other": 8
   }
 }
