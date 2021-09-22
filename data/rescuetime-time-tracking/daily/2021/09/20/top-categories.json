@@ -1,61 +1,61 @@
 [
   {
     "Rank": 1,
+    "Time Spent (seconds)": 10702,
+    "Number of People": 1,
+    "Category": "General Software Development"
+  },
+  {
+    "Rank": 2,
     "Time Spent (seconds)": 8670,
     "Number of People": 1,
     "Category": "Editing & IDEs"
   },
   {
-    "Rank": 2,
-    "Time Spent (seconds)": 6904,
-    "Number of People": 1,
-    "Category": "General Software Development"
-  },
-  {
     "Rank": 3,
-    "Time Spent (seconds)": 3831,
+    "Time Spent (seconds)": 3837,
     "Number of People": 1,
     "Category": "Uncategorized"
   },
   {
     "Rank": 4,
-    "Time Spent (seconds)": 2622,
+    "Time Spent (seconds)": 2677,
     "Number of People": 1,
     "Category": "Email"
   },
   {
     "Rank": 5,
-    "Time Spent (seconds)": 1751,
+    "Time Spent (seconds)": 1761,
     "Number of People": 1,
     "Category": "General Business"
   },
   {
     "Rank": 6,
-    "Time Spent (seconds)": 1206,
+    "Time Spent (seconds)": 1503,
     "Number of People": 1,
     "Category": "Operations"
   },
   {
     "Rank": 7,
-    "Time Spent (seconds)": 1206,
+    "Time Spent (seconds)": 1238,
     "Number of People": 1,
     "Category": "General Utilities"
   },
   {
     "Rank": 8,
+    "Time Spent (seconds)": 1042,
+    "Number of People": 1,
+    "Category": "Instant Message"
+  },
+  {
+    "Rank": 9,
     "Time Spent (seconds)": 1023,
     "Number of People": 1,
     "Category": "Meetings"
   },
   {
-    "Rank": 9,
-    "Time Spent (seconds)": 994,
-    "Number of People": 1,
-    "Category": "Instant Message"
-  },
-  {
     "Rank": 10,
-    "Time Spent (seconds)": 694,
+    "Time Spent (seconds)": 726,
     "Number of People": 1,
     "Category": "Browsers"
   },
@@ -67,7 +67,7 @@
   },
   {
     "Rank": 12,
-    "Time Spent (seconds)": 315,
+    "Time Spent (seconds)": 331,
     "Number of People": 1,
     "Category": "Search"
   },
@@ -151,15 +151,15 @@
   },
   {
     "Rank": 26,
-    "Time Spent (seconds)": 8,
+    "Time Spent (seconds)": 14,
     "Number of People": 1,
-    "Category": "General Entertainment"
+    "Category": "Video"
   },
   {
     "Rank": 27,
-    "Time Spent (seconds)": 7,
+    "Time Spent (seconds)": 8,
     "Number of People": 1,
-    "Category": "Video"
+    "Category": "General Entertainment"
   },
   {
     "Rank": 28,
