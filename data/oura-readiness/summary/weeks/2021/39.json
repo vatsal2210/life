@@ -42,15 +42,25 @@
     "score_temperature": 99
   },
   "2021-09-23": {
-    "score": 88,
+    "score": 89,
     "score_activity_balance": 70,
     "score_previous_day": 79,
-    "score_previous_night": 67,
-    "score_recovery_index": 97,
+    "score_previous_night": 85,
+    "score_recovery_index": 84,
     "score_resting_hr": 100,
     "score_sleep_balance": 100,
     "score_temperature": 100
   },
-  "2021-09-24": {},
+  "2021-09-24": {
+    "score": 81,
+    "score_activity_balance": 81,
+    "score_hrv_balance": 96,
+    "score_previous_day": 64,
+    "score_previous_night": 45,
+    "score_recovery_index": 61,
+    "score_resting_hr": 98,
+    "score_sleep_balance": 100,
+    "score_temperature": 91
+  },
   "2021-09-25": {}
 }
