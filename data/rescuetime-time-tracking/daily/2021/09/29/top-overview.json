@@ -1,67 +1,67 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 8262,
-    "Number of People": 1,
-    "Category": "Communication & Scheduling"
-  },
-  {
-    "Rank": 2,
-    "Time Spent (seconds)": 7101,
+    "Time Spent (seconds)": 17239,
     "Number of People": 1,
     "Category": "Software Development"
   },
   {
-    "Rank": 3,
-    "Time Spent (seconds)": 2801,
+    "Rank": 2,
+    "Time Spent (seconds)": 10107,
     "Number of People": 1,
-    "Category": "Reference & Learning"
+    "Category": "Communication & Scheduling"
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 4676,
+    "Number of People": 1,
+    "Category": "Utilities"
   },
   {
     "Rank": 4,
-    "Time Spent (seconds)": 2473,
+    "Time Spent (seconds)": 3428,
     "Number of People": 1,
     "Category": "Business"
   },
   {
     "Rank": 5,
-    "Time Spent (seconds)": 2052,
+    "Time Spent (seconds)": 3179,
     "Number of People": 1,
-    "Category": "Uncategorized"
+    "Category": "Reference & Learning"
   },
   {
     "Rank": 6,
-    "Time Spent (seconds)": 1902,
-    "Number of People": 1,
-    "Category": "Utilities"
-  },
-  {
-    "Rank": 7,
-    "Time Spent (seconds)": 1438,
+    "Time Spent (seconds)": 3167,
     "Number of People": 1,
     "Category": "Social Networking"
   },
   {
+    "Rank": 7,
+    "Time Spent (seconds)": 2439,
+    "Number of People": 1,
+    "Category": "Uncategorized"
+  },
+  {
     "Rank": 8,
+    "Time Spent (seconds)": 1312,
+    "Number of People": 1,
+    "Category": "Entertainment"
+  },
+  {
+    "Rank": 9,
     "Time Spent (seconds)": 645,
     "Number of People": 1,
     "Category": "News & Opinion"
   },
   {
-    "Rank": 9,
+    "Rank": 10,
     "Time Spent (seconds)": 237,
     "Number of People": 1,
     "Category": "Design & Composition"
   },
   {
-    "Rank": 10,
-    "Time Spent (seconds)": 4,
-    "Number of People": 1,
-    "Category": "Entertainment"
-  },
-  {
     "Rank": 11,
-    "Time Spent (seconds)": 3,
+    "Time Spent (seconds)": 98,
     "Number of People": 1,
     "Category": "Shopping"
   }
