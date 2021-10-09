@@ -32,14 +32,23 @@
   "2021-10-6": {
     "total": 22200,
     "rem": 6450,
-    "awake": 4320,
+    "awake": 3360,
     "deep": 9120,
-    "duration": 26520,
-    "efficiency": 84,
+    "duration": 25560,
+    "efficiency": 87,
     "light": 6630,
-    "score": 73
+    "score": 72
   },
-  "2021-10-7": {},
+  "2021-10-7": {
+    "total": 23190,
+    "rem": 5190,
+    "awake": 7110,
+    "deep": 10860,
+    "duration": 30300,
+    "efficiency": 77,
+    "light": 7140,
+    "score": 89
+  },
   "2021-10-8": {},
   "2021-10-9": {}
 }

@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 3328,
+    "Time Spent (seconds)": 3443,
     "Number of People": 1,
     "Category": "Uncategorized"
   },
@@ -13,57 +13,57 @@
   },
   {
     "Rank": 3,
-    "Time Spent (seconds)": 2147,
+    "Time Spent (seconds)": 2418,
     "Number of People": 1,
     "Category": "Email"
   },
   {
     "Rank": 4,
+    "Time Spent (seconds)": 1679,
+    "Number of People": 1,
+    "Category": "Editing & IDEs"
+  },
+  {
+    "Rank": 5,
     "Time Spent (seconds)": 1639,
     "Number of People": 1,
     "Category": "Meetings"
   },
   {
-    "Rank": 5,
-    "Time Spent (seconds)": 971,
+    "Rank": 6,
+    "Time Spent (seconds)": 976,
     "Number of People": 1,
     "Category": "General Utilities"
   },
   {
-    "Rank": 6,
-    "Time Spent (seconds)": 873,
+    "Rank": 7,
+    "Time Spent (seconds)": 683,
     "Number of People": 1,
-    "Category": "Editing & IDEs"
+    "Category": "General Software Development"
   },
   {
-    "Rank": 7,
-    "Time Spent (seconds)": 654,
+    "Rank": 8,
+    "Time Spent (seconds)": 661,
     "Number of People": 1,
     "Category": "Browsers"
   },
   {
-    "Rank": 8,
-    "Time Spent (seconds)": 632,
+    "Rank": 9,
+    "Time Spent (seconds)": 642,
     "Number of People": 1,
     "Category": "Search"
   },
   {
-    "Rank": 9,
+    "Rank": 10,
     "Time Spent (seconds)": 628,
     "Number of People": 1,
     "Category": "General Social Networking"
   },
   {
-    "Rank": 10,
+    "Rank": 11,
     "Time Spent (seconds)": 342,
     "Number of People": 1,
     "Category": "General Shopping"
-  },
-  {
-    "Rank": 11,
-    "Time Spent (seconds)": 291,
-    "Number of People": 1,
-    "Category": "General Software Development"
   },
   {
     "Rank": 12,
