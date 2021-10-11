@@ -72,14 +72,15 @@
     "Entertainment": 72
   },
   "2021-10-9": {
-    "Reference & Learning": 979,
+    "Social Networking": 3314,
+    "Reference & Learning": 2357,
+    "Utilities": 2273,
+    "Communication & Scheduling": 2218,
+    "Uncategorized": 1296,
     "Design & Composition": 816,
-    "Utilities": 600,
-    "Uncategorized": 439,
-    "Social Networking": 370,
-    "Communication & Scheduling": 239,
-    "Software Development": 41,
-    "Shopping": 37,
-    "Business": 36
+    "Shopping": 463,
+    "Entertainment": 98,
+    "Business": 42,
+    "Software Development": 41
   }
 }
