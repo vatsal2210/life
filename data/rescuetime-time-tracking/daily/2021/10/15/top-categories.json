@@ -1,33 +1,33 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 5938,
+    "Time Spent (seconds)": 7323,
     "Number of People": 1,
-    "Category": "Meetings"
+    "Category": "Instant Message"
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 4383,
+    "Time Spent (seconds)": 6364,
     "Number of People": 1,
     "Category": "Uncategorized"
   },
   {
     "Rank": 3,
-    "Time Spent (seconds)": 3346,
+    "Time Spent (seconds)": 6046,
+    "Number of People": 1,
+    "Category": "Meetings"
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 3704,
     "Number of People": 1,
     "Category": "General Social Networking"
   },
   {
-    "Rank": 4,
-    "Time Spent (seconds)": 3269,
+    "Rank": 5,
+    "Time Spent (seconds)": 3449,
     "Number of People": 1,
     "Category": "Email"
-  },
-  {
-    "Rank": 5,
-    "Time Spent (seconds)": 2916,
-    "Number of People": 1,
-    "Category": "Instant Message"
   },
   {
     "Rank": 6,
@@ -37,13 +37,13 @@
   },
   {
     "Rank": 7,
-    "Time Spent (seconds)": 2106,
+    "Time Spent (seconds)": 2436,
     "Number of People": 1,
     "Category": "General Utilities"
   },
   {
     "Rank": 8,
-    "Time Spent (seconds)": 1804,
+    "Time Spent (seconds)": 2423,
     "Number of People": 1,
     "Category": "Browsers"
   },
@@ -67,141 +67,141 @@
   },
   {
     "Rank": 12,
+    "Time Spent (seconds)": 852,
+    "Number of People": 1,
+    "Category": "Music"
+  },
+  {
+    "Rank": 13,
     "Time Spent (seconds)": 816,
     "Number of People": 1,
     "Category": "Engineering & Technology"
   },
   {
-    "Rank": 13,
-    "Time Spent (seconds)": 526,
-    "Number of People": 1,
-    "Category": "Operations"
-  },
-  {
     "Rank": 14,
-    "Time Spent (seconds)": 417,
+    "Time Spent (seconds)": 742,
     "Number of People": 1,
     "Category": "Search"
   },
   {
     "Rank": 15,
+    "Time Spent (seconds)": 698,
+    "Number of People": 1,
+    "Category": "General News & Opinion"
+  },
+  {
+    "Rank": 16,
+    "Time Spent (seconds)": 526,
+    "Number of People": 1,
+    "Category": "Operations"
+  },
+  {
+    "Rank": 17,
+    "Time Spent (seconds)": 513,
+    "Number of People": 1,
+    "Category": "General Shopping"
+  },
+  {
+    "Rank": 18,
     "Time Spent (seconds)": 415,
     "Number of People": 1,
     "Category": "Intelligence"
   },
   {
-    "Rank": 16,
+    "Rank": 19,
+    "Time Spent (seconds)": 409,
+    "Number of People": 1,
+    "Category": "General Entertainment"
+  },
+  {
+    "Rank": 20,
     "Time Spent (seconds)": 373,
     "Number of People": 1,
     "Category": "Calendars"
   },
   {
-    "Rank": 17,
+    "Rank": 21,
+    "Time Spent (seconds)": 372,
+    "Number of People": 1,
+    "Category": "General Reference & Learning"
+  },
+  {
+    "Rank": 22,
     "Time Spent (seconds)": 367,
     "Number of People": 1,
     "Category": "Writing"
   },
   {
-    "Rank": 18,
-    "Time Spent (seconds)": 318,
-    "Number of People": 1,
-    "Category": "General Reference & Learning"
-  },
-  {
-    "Rank": 19,
-    "Time Spent (seconds)": 318,
+    "Rank": 23,
+    "Time Spent (seconds)": 345,
     "Number of People": 1,
     "Category": "Professional Networking"
   },
   {
-    "Rank": 20,
+    "Rank": 24,
     "Time Spent (seconds)": 289,
     "Number of People": 1,
     "Category": "Sports"
   },
   {
-    "Rank": 21,
-    "Time Spent (seconds)": 262,
-    "Number of People": 1,
-    "Category": "Music"
-  },
-  {
-    "Rank": 22,
-    "Time Spent (seconds)": 240,
-    "Number of People": 1,
-    "Category": "General Entertainment"
-  },
-  {
-    "Rank": 23,
-    "Time Spent (seconds)": 152,
-    "Number of People": 1,
-    "Category": "General News & Opinion"
-  },
-  {
-    "Rank": 24,
-    "Time Spent (seconds)": 144,
-    "Number of People": 1,
-    "Category": "General Shopping"
-  },
-  {
     "Rank": 25,
+    "Time Spent (seconds)": 191,
+    "Number of People": 1,
+    "Category": "General Communication & Scheduling"
+  },
+  {
+    "Rank": 26,
     "Time Spent (seconds)": 133,
     "Number of People": 1,
     "Category": "Presentation"
   },
   {
-    "Rank": 26,
+    "Rank": 27,
     "Time Spent (seconds)": 116,
     "Number of People": 1,
     "Category": "Health & Medicine"
   },
   {
-    "Rank": 27,
+    "Rank": 28,
     "Time Spent (seconds)": 112,
     "Number of People": 1,
     "Category": "Electronics"
   },
   {
-    "Rank": 28,
+    "Rank": 29,
     "Time Spent (seconds)": 98,
     "Number of People": 1,
     "Category": "Project Management"
   },
   {
-    "Rank": 29,
+    "Rank": 30,
     "Time Spent (seconds)": 47,
     "Number of People": 1,
     "Category": "Systems Operations"
   },
   {
-    "Rank": 30,
+    "Rank": 31,
     "Time Spent (seconds)": 37,
     "Number of People": 1,
     "Category": "Video"
   },
   {
-    "Rank": 31,
-    "Time Spent (seconds)": 32,
-    "Number of People": 1,
-    "Category": "General Communication & Scheduling"
-  },
-  {
     "Rank": 32,
-    "Time Spent (seconds)": 28,
+    "Time Spent (seconds)": 31,
     "Number of People": 1,
     "Category": "Internet Utilities"
   },
   {
     "Rank": 33,
-    "Time Spent (seconds)": 19,
+    "Time Spent (seconds)": 22,
     "Number of People": 1,
-    "Category": "Administration"
+    "Category": "Other"
   },
   {
     "Rank": 34,
-    "Time Spent (seconds)": 12,
+    "Time Spent (seconds)": 19,
     "Number of People": 1,
-    "Category": "Other"
+    "Category": "Administration"
   },
   {
     "Rank": 35,
