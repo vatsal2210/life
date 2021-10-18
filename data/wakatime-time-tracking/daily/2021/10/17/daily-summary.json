@@ -1,25 +1,98 @@
 [
   {
-    "categories": [],
+    "categories": [
+      {
+        "decimal": "0.00",
+        "digital": "0:00:00",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 0,
+        "text": "0 secs",
+        "total_seconds": 0.07374
+      }
+    ],
     "dependencies": [],
-    "editors": [],
+    "editors": [
+      {
+        "decimal": "0.00",
+        "digital": "0:00:00",
+        "hours": 0,
+        "minutes": 0,
+        "name": "VS Code",
+        "percent": 100,
+        "seconds": 0,
+        "text": "0 secs",
+        "total_seconds": 0.07374
+      }
+    ],
     "grand_total": {
       "decimal": "0.00",
       "digital": "0:00",
       "hours": 0,
       "minutes": 0,
       "text": "0 secs",
-      "total_seconds": 0
+      "total_seconds": 0.07374
     },
-    "languages": [],
-    "machines": [],
-    "operating_systems": [],
-    "projects": [],
+    "languages": [
+      {
+        "decimal": "0.00",
+        "digital": "0:00:00",
+        "hours": 0,
+        "minutes": 0,
+        "name": "HTML",
+        "percent": 100,
+        "seconds": 0,
+        "text": "0 secs",
+        "total_seconds": 0.07374
+      }
+    ],
+    "machines": [
+      {
+        "decimal": "0.00",
+        "digital": "0:00:00",
+        "hours": 0,
+        "machine_name_id": "df09d899-7f9c-47fe-9066-c54f8d36653c",
+        "minutes": 0,
+        "name": "DESKTOP-2BJN15V",
+        "percent": 100,
+        "seconds": 0,
+        "text": "0 secs",
+        "total_seconds": 0.07374
+      }
+    ],
+    "operating_systems": [
+      {
+        "decimal": "0.00",
+        "digital": "0:00:00",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Windows",
+        "percent": 100,
+        "seconds": 0,
+        "text": "0 secs",
+        "total_seconds": 0.07374
+      }
+    ],
+    "projects": [
+      {
+        "decimal": "0.00",
+        "digital": "0:00:00",
+        "hours": 0,
+        "minutes": 0,
+        "name": "speak-client",
+        "percent": 100,
+        "seconds": 0,
+        "text": "0 secs",
+        "total_seconds": 0.07374
+      }
+    ],
     "range": {
       "date": "2021-10-17",
       "end": "2021-10-18T03:59:59Z",
       "start": "2021-10-17T04:00:00Z",
-      "text": "Tomorrow",
+      "text": "Today",
       "timezone": "America/Toronto"
     }
   }
