@@ -59,19 +59,31 @@
     "Systems Operations": 1
   },
   "2021-10-19": {
+    "Instant Message": 769,
     "General Social Networking": 506,
-    "General Utilities": 261,
+    "General Utilities": 385,
+    "Photos": 356,
+    "Uncategorized": 240,
     "Browsers": 147,
-    "Email": 132,
+    "Email": 147,
     "Health & Medicine": 102,
-    "Uncategorized": 97,
     "Video": 92,
     "General Reference & Learning": 86,
-    "Instant Message": 46,
-    "Search": 39,
+    "Search": 45,
+    "Maps & Regional": 26,
     "Professional Networking": 21
   },
-  "2021-10-20": {},
+  "2021-10-20": {
+    "Instant Message": 410,
+    "General Utilities": 361,
+    "Photos": 119,
+    "Email": 87,
+    "Uncategorized": 46,
+    "Health & Medicine": 46,
+    "Professional Networking": 20,
+    "General Communication & Scheduling": 19,
+    "General Social Networking": 11
+  },
   "2021-10-21": {},
   "2021-10-22": {},
   "2021-10-23": {}

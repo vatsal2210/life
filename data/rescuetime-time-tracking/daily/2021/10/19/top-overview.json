@@ -1,38 +1,38 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 527,
+    "Time Spent (seconds)": 916,
     "Number of People": 1,
-    "Category": "Social Networking"
+    "Category": "Communication & Scheduling"
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 408,
+    "Time Spent (seconds)": 532,
     "Number of People": 1,
     "Category": "Utilities"
   },
   {
     "Rank": 3,
-    "Time Spent (seconds)": 227,
+    "Time Spent (seconds)": 527,
+    "Number of People": 1,
+    "Category": "Social Networking"
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 448,
+    "Number of People": 1,
+    "Category": "Entertainment"
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 259,
     "Number of People": 1,
     "Category": "Reference & Learning"
   },
   {
-    "Rank": 4,
-    "Time Spent (seconds)": 178,
-    "Number of People": 1,
-    "Category": "Communication & Scheduling"
-  },
-  {
-    "Rank": 5,
-    "Time Spent (seconds)": 97,
+    "Rank": 6,
+    "Time Spent (seconds)": 240,
     "Number of People": 1,
     "Category": "Uncategorized"
-  },
-  {
-    "Rank": 6,
-    "Time Spent (seconds)": 92,
-    "Number of People": 1,
-    "Category": "Entertainment"
   }
 ]

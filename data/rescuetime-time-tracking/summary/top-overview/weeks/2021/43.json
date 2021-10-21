@@ -25,14 +25,21 @@
     "Shopping": 14
   },
   "2021-10-19": {
+    "Communication & Scheduling": 916,
+    "Utilities": 532,
     "Social Networking": 527,
-    "Utilities": 408,
-    "Reference & Learning": 227,
-    "Communication & Scheduling": 178,
-    "Uncategorized": 97,
-    "Entertainment": 92
+    "Entertainment": 448,
+    "Reference & Learning": 259,
+    "Uncategorized": 240
   },
-  "2021-10-20": {},
+  "2021-10-20": {
+    "Communication & Scheduling": 516,
+    "Utilities": 361,
+    "Entertainment": 119,
+    "Reference & Learning": 46,
+    "Uncategorized": 46,
+    "Social Networking": 31
+  },
   "2021-10-21": {},
   "2021-10-22": {},
   "2021-10-23": {}
