@@ -55,5 +55,15 @@
     "score_sleep_balance": 85,
     "score_temperature": 76
   },
-  "2021-10-23": {}
+  "2021-10-23": {
+    "score": 84,
+    "score_activity_balance": 90,
+    "score_hrv_balance": 77,
+    "score_previous_day": 99,
+    "score_previous_night": 90,
+    "score_recovery_index": 38,
+    "score_resting_hr": 97,
+    "score_sleep_balance": 88,
+    "score_temperature": 81
+  }
 }
