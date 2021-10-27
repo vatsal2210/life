@@ -1,19 +1,19 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 13219,
+    "Time Spent (seconds)": 13692,
     "Number of People": 1,
     "Category": "Editing & IDEs"
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 3064,
+    "Time Spent (seconds)": 3230,
     "Number of People": 1,
     "Category": "General Software Development"
   },
   {
     "Rank": 3,
-    "Time Spent (seconds)": 2558,
+    "Time Spent (seconds)": 2592,
     "Number of People": 1,
     "Category": "Uncategorized"
   },
@@ -37,7 +37,7 @@
   },
   {
     "Rank": 7,
-    "Time Spent (seconds)": 1311,
+    "Time Spent (seconds)": 1344,
     "Number of People": 1,
     "Category": "Instant Message"
   },
@@ -55,21 +55,21 @@
   },
   {
     "Rank": 10,
-    "Time Spent (seconds)": 569,
+    "Time Spent (seconds)": 612,
     "Number of People": 1,
     "Category": "Search"
   },
   {
     "Rank": 11,
-    "Time Spent (seconds)": 363,
+    "Time Spent (seconds)": 366,
     "Number of People": 1,
-    "Category": "General Utilities"
+    "Category": "Browsers"
   },
   {
     "Rank": 12,
-    "Time Spent (seconds)": 344,
+    "Time Spent (seconds)": 363,
     "Number of People": 1,
-    "Category": "Browsers"
+    "Category": "General Utilities"
   },
   {
     "Rank": 13,
@@ -109,33 +109,33 @@
   },
   {
     "Rank": 19,
+    "Time Spent (seconds)": 121,
+    "Number of People": 1,
+    "Category": "General Reference & Learning"
+  },
+  {
+    "Rank": 20,
     "Time Spent (seconds)": 120,
     "Number of People": 1,
     "Category": "Music"
   },
   {
-    "Rank": 20,
+    "Rank": 21,
     "Time Spent (seconds)": 101,
     "Number of People": 1,
     "Category": "Writing"
   },
   {
-    "Rank": 21,
+    "Rank": 22,
     "Time Spent (seconds)": 99,
     "Number of People": 1,
     "Category": "General Entertainment"
   },
   {
-    "Rank": 22,
+    "Rank": 23,
     "Time Spent (seconds)": 67,
     "Number of People": 1,
     "Category": "Systems Operations"
-  },
-  {
-    "Rank": 23,
-    "Time Spent (seconds)": 62,
-    "Number of People": 1,
-    "Category": "General Reference & Learning"
   },
   {
     "Rank": 24,
@@ -151,21 +151,21 @@
   },
   {
     "Rank": 26,
-    "Time Spent (seconds)": 39,
+    "Time Spent (seconds)": 42,
     "Number of People": 1,
     "Category": "Internet Utilities"
   },
   {
     "Rank": 27,
-    "Time Spent (seconds)": 29,
+    "Time Spent (seconds)": 32,
     "Number of People": 1,
-    "Category": "Video"
+    "Category": "General Communication & Scheduling"
   },
   {
     "Rank": 28,
-    "Time Spent (seconds)": 24,
+    "Time Spent (seconds)": 29,
     "Number of People": 1,
-    "Category": "General Communication & Scheduling"
+    "Category": "Video"
   },
   {
     "Rank": 29,

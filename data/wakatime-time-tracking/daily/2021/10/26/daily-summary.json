@@ -1,25 +1,451 @@
 [
   {
-    "categories": [],
-    "dependencies": [],
-    "editors": [],
+    "categories": [
+      {
+        "decimal": "2.07",
+        "digital": "2:04:15",
+        "hours": 2,
+        "minutes": 4,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 15,
+        "text": "2 hrs 4 mins",
+        "total_seconds": 7455.169753
+      }
+    ],
+    "dependencies": [
+      {
+        "decimal": "0.53",
+        "digital": "0:32:23",
+        "hours": 0,
+        "minutes": 32,
+        "name": "logger",
+        "percent": 8.57,
+        "seconds": 23,
+        "text": "32 mins",
+        "total_seconds": 1943.639893
+      },
+      {
+        "decimal": "0.53",
+        "digital": "0:32:23",
+        "hours": 0,
+        "minutes": 32,
+        "name": "model",
+        "percent": 8.57,
+        "seconds": 23,
+        "text": "32 mins",
+        "total_seconds": 1943.639893
+      },
+      {
+        "decimal": "0.53",
+        "digital": "0:32:08",
+        "hours": 0,
+        "minutes": 32,
+        "name": "cron-job-manager",
+        "percent": 8.5,
+        "seconds": 8,
+        "text": "32 mins",
+        "total_seconds": 1928.097385
+      },
+      {
+        "decimal": "0.53",
+        "digital": "0:32:08",
+        "hours": 0,
+        "minutes": 32,
+        "name": "moment",
+        "percent": 8.5,
+        "seconds": 8,
+        "text": "32 mins",
+        "total_seconds": 1928.097385
+      },
+      {
+        "decimal": "0.53",
+        "digital": "0:32:08",
+        "hours": 0,
+        "minutes": 32,
+        "name": "config",
+        "percent": 8.5,
+        "seconds": 8,
+        "text": "32 mins",
+        "total_seconds": 1928.097385
+      },
+      {
+        "decimal": "0.47",
+        "digital": "0:28:00",
+        "hours": 0,
+        "minutes": 28,
+        "name": "flask_restful",
+        "percent": 7.41,
+        "seconds": 0,
+        "text": "28 mins",
+        "total_seconds": 1680.739528
+      },
+      {
+        "decimal": "0.47",
+        "digital": "0:28:00",
+        "hours": 0,
+        "minutes": 28,
+        "name": "logging",
+        "percent": 7.41,
+        "seconds": 0,
+        "text": "28 mins",
+        "total_seconds": 1680.739528
+      },
+      {
+        "decimal": "0.47",
+        "digital": "0:28:00",
+        "hours": 0,
+        "minutes": 28,
+        "name": "flask",
+        "percent": 7.41,
+        "seconds": 0,
+        "text": "28 mins",
+        "total_seconds": 1680.739528
+      },
+      {
+        "decimal": "0.23",
+        "digital": "0:14:34",
+        "hours": 0,
+        "minutes": 14,
+        "name": "re",
+        "percent": 3.86,
+        "seconds": 34,
+        "text": "14 mins",
+        "total_seconds": 874.540867
+      },
+      {
+        "decimal": "0.22",
+        "digital": "0:13:26",
+        "hours": 0,
+        "minutes": 13,
+        "name": "pythonjsonlogger",
+        "percent": 3.55,
+        "seconds": 26,
+        "text": "13 mins",
+        "total_seconds": 806.198661
+      },
+      {
+        "decimal": "0.22",
+        "digital": "0:13:26",
+        "hours": 0,
+        "minutes": 13,
+        "name": "api",
+        "percent": 3.55,
+        "seconds": 26,
+        "text": "13 mins",
+        "total_seconds": 806.198661
+      },
+      {
+        "decimal": "0.15",
+        "digital": "0:09:41",
+        "hours": 0,
+        "minutes": 9,
+        "name": "requests",
+        "percent": 2.56,
+        "seconds": 41,
+        "text": "9 mins",
+        "total_seconds": 581.832942
+      },
+      {
+        "decimal": "0.15",
+        "digital": "0:09:41",
+        "hours": 0,
+        "minutes": 9,
+        "name": "datetime",
+        "percent": 2.56,
+        "seconds": 41,
+        "text": "9 mins",
+        "total_seconds": 581.832942
+      },
+      {
+        "decimal": "0.15",
+        "digital": "0:09:41",
+        "hours": 0,
+        "minutes": 9,
+        "name": "pdf2docx",
+        "percent": 2.56,
+        "seconds": 41,
+        "text": "9 mins",
+        "total_seconds": 581.832942
+      },
+      {
+        "decimal": "0.15",
+        "digital": "0:09:41",
+        "hours": 0,
+        "minutes": 9,
+        "name": "time",
+        "percent": 2.56,
+        "seconds": 41,
+        "text": "9 mins",
+        "total_seconds": 581.832942
+      },
+      {
+        "decimal": "0.15",
+        "digital": "0:09:41",
+        "hours": 0,
+        "minutes": 9,
+        "name": "mammoth",
+        "percent": 2.56,
+        "seconds": 41,
+        "text": "9 mins",
+        "total_seconds": 581.832942
+      },
+      {
+        "decimal": "0.15",
+        "digital": "0:09:41",
+        "hours": 0,
+        "minutes": 9,
+        "name": "werkzeug",
+        "percent": 2.56,
+        "seconds": 41,
+        "text": "9 mins",
+        "total_seconds": 581.832942
+      },
+      {
+        "decimal": "0.15",
+        "digital": "0:09:09",
+        "hours": 0,
+        "minutes": 9,
+        "name": "interfaces",
+        "percent": 2.42,
+        "seconds": 9,
+        "text": "9 mins",
+        "total_seconds": 549.53389
+      },
+      {
+        "decimal": "0.13",
+        "digital": "0:08:22",
+        "hours": 0,
+        "minutes": 8,
+        "name": "mailer",
+        "percent": 2.21,
+        "seconds": 22,
+        "text": "8 mins",
+        "total_seconds": 502.124787
+      },
+      {
+        "decimal": "0.07",
+        "digital": "0:04:52",
+        "hours": 0,
+        "minutes": 4,
+        "name": "nltk",
+        "percent": 1.29,
+        "seconds": 52,
+        "text": "4 mins",
+        "total_seconds": 292.707925
+      },
+      {
+        "decimal": "0.07",
+        "digital": "0:04:52",
+        "hours": 0,
+        "minutes": 4,
+        "name": "en_core_web_lg",
+        "percent": 1.29,
+        "seconds": 52,
+        "text": "4 mins",
+        "total_seconds": 292.707925
+      },
+      {
+        "decimal": "0.07",
+        "digital": "0:04:52",
+        "hours": 0,
+        "minutes": 4,
+        "name": "collections",
+        "percent": 1.29,
+        "seconds": 52,
+        "text": "4 mins",
+        "total_seconds": 292.707925
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:15",
+        "hours": 0,
+        "minutes": 0,
+        "name": "lodash",
+        "percent": 0.07,
+        "seconds": 15,
+        "text": "15 secs",
+        "total_seconds": 15.542508
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:15",
+        "hours": 0,
+        "minutes": 0,
+        "name": "media",
+        "percent": 0.07,
+        "seconds": 15,
+        "text": "15 secs",
+        "total_seconds": 15.542508
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:15",
+        "hours": 0,
+        "minutes": 0,
+        "name": "ai",
+        "percent": 0.07,
+        "seconds": 15,
+        "text": "15 secs",
+        "total_seconds": 15.542508
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:15",
+        "hours": 0,
+        "minutes": 0,
+        "name": "constant",
+        "percent": 0.07,
+        "seconds": 15,
+        "text": "15 secs",
+        "total_seconds": 15.542508
+      }
+    ],
+    "editors": [
+      {
+        "decimal": "2.07",
+        "digital": "2:04:15",
+        "hours": 2,
+        "minutes": 4,
+        "name": "VS Code",
+        "percent": 100,
+        "seconds": 15,
+        "text": "2 hrs 4 mins",
+        "total_seconds": 7455.169753
+      }
+    ],
     "grand_total": {
-      "decimal": "0.00",
-      "digital": "0:00",
-      "hours": 0,
-      "minutes": 0,
-      "text": "0 secs",
-      "total_seconds": 0
+      "decimal": "2.07",
+      "digital": "2:04",
+      "hours": 2,
+      "minutes": 4,
+      "text": "2 hrs 4 mins",
+      "total_seconds": 7455.169753
     },
-    "languages": [],
-    "machines": [],
-    "operating_systems": [],
-    "projects": [],
+    "languages": [
+      {
+        "decimal": "0.95",
+        "digital": "0:57:42",
+        "hours": 0,
+        "minutes": 57,
+        "name": "Text",
+        "percent": 46.45,
+        "seconds": 42,
+        "text": "57 mins",
+        "total_seconds": 3462.953153
+      },
+      {
+        "decimal": "0.53",
+        "digital": "0:32:23",
+        "hours": 0,
+        "minutes": 32,
+        "name": "TypeScript",
+        "percent": 26.07,
+        "seconds": 23,
+        "text": "32 mins",
+        "total_seconds": 1943.639893
+      },
+      {
+        "decimal": "0.47",
+        "digital": "0:28:04",
+        "hours": 0,
+        "minutes": 28,
+        "name": "Python",
+        "percent": 22.59,
+        "seconds": 4,
+        "text": "28 mins",
+        "total_seconds": 1684.211925
+      },
+      {
+        "decimal": "0.08",
+        "digital": "0:05:49",
+        "hours": 0,
+        "minutes": 5,
+        "name": "YAML",
+        "percent": 4.68,
+        "seconds": 49,
+        "text": "5 mins",
+        "total_seconds": 349.239598
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:13",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Bash",
+        "percent": 0.18,
+        "seconds": 13,
+        "text": "13 secs",
+        "total_seconds": 13.086214
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:02",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Markdown",
+        "percent": 0.03,
+        "seconds": 2,
+        "text": "2 secs",
+        "total_seconds": 2.03897
+      }
+    ],
+    "machines": [
+      {
+        "decimal": "2.07",
+        "digital": "2:04:15",
+        "hours": 2,
+        "machine_name_id": "0f569284-8cd7-4db4-be63-071458a73b13",
+        "minutes": 4,
+        "name": "Vatsal",
+        "percent": 100,
+        "seconds": 15,
+        "text": "2 hrs 4 mins",
+        "total_seconds": 7455.169753
+      }
+    ],
+    "operating_systems": [
+      {
+        "decimal": "2.07",
+        "digital": "2:04:15",
+        "hours": 2,
+        "minutes": 4,
+        "name": "Windows",
+        "percent": 100,
+        "seconds": 15,
+        "text": "2 hrs 4 mins",
+        "total_seconds": 7455.169753
+      }
+    ],
+    "projects": [
+      {
+        "decimal": "1.52",
+        "digital": "1:31:38",
+        "hours": 1,
+        "minutes": 31,
+        "name": "speak-ai-middleware",
+        "percent": 73.75,
+        "seconds": 38,
+        "text": "1 hr 31 mins",
+        "total_seconds": 5498.443646
+      },
+      {
+        "decimal": "0.53",
+        "digital": "0:32:36",
+        "hours": 0,
+        "minutes": 32,
+        "name": "speak-server",
+        "percent": 26.25,
+        "seconds": 36,
+        "text": "32 mins",
+        "total_seconds": 1956.726107
+      }
+    ],
     "range": {
       "date": "2021-10-26",
       "end": "2021-10-27T03:59:59Z",
       "start": "2021-10-26T04:00:00Z",
-      "text": "Tomorrow",
+      "text": "Today",
       "timezone": "America/Toronto"
     }
   }
