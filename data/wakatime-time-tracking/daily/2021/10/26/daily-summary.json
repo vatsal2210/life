@@ -41,6 +41,17 @@
         "digital": "0:32:08",
         "hours": 0,
         "minutes": 32,
+        "name": "config",
+        "percent": 8.5,
+        "seconds": 8,
+        "text": "32 mins",
+        "total_seconds": 1928.097385
+      },
+      {
+        "decimal": "0.53",
+        "digital": "0:32:08",
+        "hours": 0,
+        "minutes": 32,
         "name": "cron-job-manager",
         "percent": 8.5,
         "seconds": 8,
@@ -59,15 +70,15 @@
         "total_seconds": 1928.097385
       },
       {
-        "decimal": "0.53",
-        "digital": "0:32:08",
+        "decimal": "0.47",
+        "digital": "0:28:00",
         "hours": 0,
-        "minutes": 32,
-        "name": "config",
-        "percent": 8.5,
-        "seconds": 8,
-        "text": "32 mins",
-        "total_seconds": 1928.097385
+        "minutes": 28,
+        "name": "flask",
+        "percent": 7.41,
+        "seconds": 0,
+        "text": "28 mins",
+        "total_seconds": 1680.739528
       },
       {
         "decimal": "0.47",
@@ -86,17 +97,6 @@
         "hours": 0,
         "minutes": 28,
         "name": "logging",
-        "percent": 7.41,
-        "seconds": 0,
-        "text": "28 mins",
-        "total_seconds": 1680.739528
-      },
-      {
-        "decimal": "0.47",
-        "digital": "0:28:00",
-        "hours": 0,
-        "minutes": 28,
-        "name": "flask",
         "percent": 7.41,
         "seconds": 0,
         "text": "28 mins",
@@ -140,28 +140,6 @@
         "digital": "0:09:41",
         "hours": 0,
         "minutes": 9,
-        "name": "requests",
-        "percent": 2.56,
-        "seconds": 41,
-        "text": "9 mins",
-        "total_seconds": 581.832942
-      },
-      {
-        "decimal": "0.15",
-        "digital": "0:09:41",
-        "hours": 0,
-        "minutes": 9,
-        "name": "datetime",
-        "percent": 2.56,
-        "seconds": 41,
-        "text": "9 mins",
-        "total_seconds": 581.832942
-      },
-      {
-        "decimal": "0.15",
-        "digital": "0:09:41",
-        "hours": 0,
-        "minutes": 9,
         "name": "pdf2docx",
         "percent": 2.56,
         "seconds": 41,
@@ -184,6 +162,17 @@
         "digital": "0:09:41",
         "hours": 0,
         "minutes": 9,
+        "name": "werkzeug",
+        "percent": 2.56,
+        "seconds": 41,
+        "text": "9 mins",
+        "total_seconds": 581.832942
+      },
+      {
+        "decimal": "0.15",
+        "digital": "0:09:41",
+        "hours": 0,
+        "minutes": 9,
         "name": "mammoth",
         "percent": 2.56,
         "seconds": 41,
@@ -195,7 +184,18 @@
         "digital": "0:09:41",
         "hours": 0,
         "minutes": 9,
-        "name": "werkzeug",
+        "name": "requests",
+        "percent": 2.56,
+        "seconds": 41,
+        "text": "9 mins",
+        "total_seconds": 581.832942
+      },
+      {
+        "decimal": "0.15",
+        "digital": "0:09:41",
+        "hours": 0,
+        "minutes": 9,
+        "name": "datetime",
         "percent": 2.56,
         "seconds": 41,
         "text": "9 mins",
@@ -228,6 +228,17 @@
         "digital": "0:04:52",
         "hours": 0,
         "minutes": 4,
+        "name": "collections",
+        "percent": 1.29,
+        "seconds": 52,
+        "text": "4 mins",
+        "total_seconds": 292.707925
+      },
+      {
+        "decimal": "0.07",
+        "digital": "0:04:52",
+        "hours": 0,
+        "minutes": 4,
         "name": "nltk",
         "percent": 1.29,
         "seconds": 52,
@@ -244,28 +255,6 @@
         "seconds": 52,
         "text": "4 mins",
         "total_seconds": 292.707925
-      },
-      {
-        "decimal": "0.07",
-        "digital": "0:04:52",
-        "hours": 0,
-        "minutes": 4,
-        "name": "collections",
-        "percent": 1.29,
-        "seconds": 52,
-        "text": "4 mins",
-        "total_seconds": 292.707925
-      },
-      {
-        "decimal": "0.00",
-        "digital": "0:00:15",
-        "hours": 0,
-        "minutes": 0,
-        "name": "lodash",
-        "percent": 0.07,
-        "seconds": 15,
-        "text": "15 secs",
-        "total_seconds": 15.542508
       },
       {
         "decimal": "0.00",
@@ -295,6 +284,17 @@
         "hours": 0,
         "minutes": 0,
         "name": "constant",
+        "percent": 0.07,
+        "seconds": 15,
+        "text": "15 secs",
+        "total_seconds": 15.542508
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:15",
+        "hours": 0,
+        "minutes": 0,
+        "name": "lodash",
         "percent": 0.07,
         "seconds": 15,
         "text": "15 secs",
@@ -445,7 +445,7 @@
       "date": "2021-10-26",
       "end": "2021-10-27T03:59:59Z",
       "start": "2021-10-26T04:00:00Z",
-      "text": "Today",
+      "text": "Yesterday",
       "timezone": "America/Toronto"
     }
   }
