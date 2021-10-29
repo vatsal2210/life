@@ -102,11 +102,31 @@
     "Music": 85,
     "Video": 77,
     "Internet Utilities": 45,
-    "Systems Operations": 32,
     "Other": 32,
+    "Systems Operations": 32,
     "General News & Opinion": 6
   },
-  "2021-10-28": {},
+  "2021-10-28": {
+    "Editing & IDEs": 1395,
+    "Instant Message": 938,
+    "General Software Development": 838,
+    "Meetings": 588,
+    "General Business": 390,
+    "Uncategorized": 319,
+    "Email": 176,
+    "Browsers": 169,
+    "Writing": 163,
+    "General Utilities": 132,
+    "Professional Networking": 86,
+    "Intelligence": 76,
+    "Search": 62,
+    "Calendars": 30,
+    "Engineering & Technology": 25,
+    "Other": 13,
+    "Internet Utilities": 7,
+    "Project Management": 6,
+    "Photos": 6
+  },
   "2021-10-29": {},
   "2021-10-30": {}
 }
