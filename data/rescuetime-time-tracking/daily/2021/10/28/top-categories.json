@@ -7,43 +7,43 @@
   },
   {
     "Rank": 2,
+    "Time Spent (seconds)": 996,
+    "Number of People": 1,
+    "Category": "Meetings"
+  },
+  {
+    "Rank": 3,
     "Time Spent (seconds)": 938,
     "Number of People": 1,
     "Category": "Instant Message"
   },
   {
-    "Rank": 3,
+    "Rank": 4,
     "Time Spent (seconds)": 838,
     "Number of People": 1,
     "Category": "General Software Development"
   },
   {
-    "Rank": 4,
-    "Time Spent (seconds)": 588,
+    "Rank": 5,
+    "Time Spent (seconds)": 547,
     "Number of People": 1,
-    "Category": "Meetings"
+    "Category": "Email"
   },
   {
-    "Rank": 5,
-    "Time Spent (seconds)": 390,
+    "Rank": 6,
+    "Time Spent (seconds)": 393,
     "Number of People": 1,
     "Category": "General Business"
   },
   {
-    "Rank": 6,
+    "Rank": 7,
     "Time Spent (seconds)": 319,
     "Number of People": 1,
     "Category": "Uncategorized"
   },
   {
-    "Rank": 7,
-    "Time Spent (seconds)": 176,
-    "Number of People": 1,
-    "Category": "Email"
-  },
-  {
     "Rank": 8,
-    "Time Spent (seconds)": 169,
+    "Time Spent (seconds)": 256,
     "Number of People": 1,
     "Category": "Browsers"
   },
@@ -67,33 +67,33 @@
   },
   {
     "Rank": 12,
+    "Time Spent (seconds)": 84,
+    "Number of People": 1,
+    "Category": "Search"
+  },
+  {
+    "Rank": 13,
     "Time Spent (seconds)": 76,
     "Number of People": 1,
     "Category": "Intelligence"
   },
   {
-    "Rank": 13,
-    "Time Spent (seconds)": 62,
+    "Rank": 14,
+    "Time Spent (seconds)": 44,
     "Number of People": 1,
-    "Category": "Search"
+    "Category": "Other"
   },
   {
-    "Rank": 14,
+    "Rank": 15,
     "Time Spent (seconds)": 30,
     "Number of People": 1,
     "Category": "Calendars"
   },
   {
-    "Rank": 15,
+    "Rank": 16,
     "Time Spent (seconds)": 25,
     "Number of People": 1,
     "Category": "Engineering & Technology"
-  },
-  {
-    "Rank": 16,
-    "Time Spent (seconds)": 13,
-    "Number of People": 1,
-    "Category": "Other"
   },
   {
     "Rank": 17,
