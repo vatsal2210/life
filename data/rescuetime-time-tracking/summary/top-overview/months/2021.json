@@ -82,7 +82,7 @@
   },
   "10": {
     "Software Development": 106224,
-    "Utilities": 98391,
+    "Utilities": 98397,
     "Communication & Scheduling": 164038,
     "Reference & Learning": 60499,
     "Business": 48080,
@@ -93,6 +93,17 @@
     "News & Opinion": 10394,
     "Design & Composition": 9051
   },
-  "11": {},
+  "11": {
+    "Software Development": 7114,
+    "Communication & Scheduling": 2338,
+    "Business": 1961,
+    "Social Networking": 1911,
+    "Reference & Learning": 773,
+    "Uncategorized": 457,
+    "Utilities": 378,
+    "Entertainment": 346,
+    "News & Opinion": 62,
+    "Design & Composition": 2
+  },
   "12": {}
 }

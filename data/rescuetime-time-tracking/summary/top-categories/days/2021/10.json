@@ -814,14 +814,14 @@
     "Professional Networking": 56,
     "Browsers": 51,
     "Search": 39,
-    "Engineering & Technology": 14,
     "Internet Utilities": 14,
     "Music": 14,
+    "Engineering & Technology": 14,
     "Other": 2
   },
   "31": {
     "Search": 662,
-    "Other": 653,
+    "Other": 659,
     "Email": 534,
     "Video": 395,
     "Writing": 378,
@@ -841,8 +841,8 @@
     "Internet Utilities": 9,
     "Presentation": 5,
     "General Social Networking": 5,
-    "General News & Opinion": 3,
     "General Shopping": 3,
+    "General News & Opinion": 3,
     "Anti-Virus & Spyware": 2
   }
 }

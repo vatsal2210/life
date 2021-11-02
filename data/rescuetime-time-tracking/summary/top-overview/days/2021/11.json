@@ -1,6 +1,25 @@
 {
-  "1": {},
-  "2": {},
+  "1": {
+    "Software Development": 7106,
+    "Communication & Scheduling": 2322,
+    "Business": 1907,
+    "Social Networking": 1040,
+    "Reference & Learning": 769,
+    "Uncategorized": 442,
+    "Utilities": 374,
+    "Entertainment": 346,
+    "News & Opinion": 62,
+    "Design & Composition": 2
+  },
+  "2": {
+    "Social Networking": 871,
+    "Business": 54,
+    "Communication & Scheduling": 16,
+    "Uncategorized": 15,
+    "Software Development": 8,
+    "Utilities": 4,
+    "Reference & Learning": 4
+  },
   "3": {},
   "4": {},
   "5": {},
