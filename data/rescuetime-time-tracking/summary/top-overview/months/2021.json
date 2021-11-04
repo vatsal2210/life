@@ -82,28 +82,29 @@
   },
   "10": {
     "Software Development": 106224,
-    "Utilities": 98397,
-    "Communication & Scheduling": 164038,
-    "Reference & Learning": 60499,
-    "Business": 48080,
-    "Uncategorized": 77883,
-    "Social Networking": 65785,
-    "Entertainment": 36248,
-    "Shopping": 13383,
+    "Utilities": 100426,
+    "Communication & Scheduling": 165636,
+    "Reference & Learning": 63376,
+    "Business": 48168,
+    "Uncategorized": 79578,
+    "Social Networking": 68101,
+    "Entertainment": 36428,
+    "Shopping": 13574,
     "News & Opinion": 10394,
-    "Design & Composition": 9051
+    "Design & Composition": 9133
   },
   "11": {
-    "Software Development": 19882,
-    "Communication & Scheduling": 5110,
-    "Business": 2489,
-    "Social Networking": 2644,
-    "Reference & Learning": 890,
-    "Uncategorized": 1199,
-    "Utilities": 1150,
-    "Entertainment": 460,
-    "News & Opinion": 62,
-    "Design & Composition": 2
+    "Software Development": 24886,
+    "Communication & Scheduling": 18192,
+    "Utilities": 8745,
+    "Social Networking": 10434,
+    "Reference & Learning": 4627,
+    "Business": 5233,
+    "Uncategorized": 5264,
+    "Entertainment": 1875,
+    "News & Opinion": 123,
+    "Shopping": 86,
+    "Design & Composition": 350
   },
   "12": {}
 }
