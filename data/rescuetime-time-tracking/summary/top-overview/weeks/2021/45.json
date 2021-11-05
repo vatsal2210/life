@@ -49,7 +49,24 @@
     "Shopping": 72,
     "News & Opinion": 37
   },
-  "2021-11-4": {},
-  "2021-11-5": {},
+  "2021-11-4": {
+    "Software Development": 13212,
+    "Communication & Scheduling": 6656,
+    "Uncategorized": 3368,
+    "Shopping": 1552,
+    "Utilities": 1549,
+    "Business": 1272,
+    "Reference & Learning": 1185,
+    "News & Opinion": 79,
+    "Social Networking": 42,
+    "Entertainment": 19,
+    "Design & Composition": 2
+  },
+  "2021-11-5": {
+    "Communication & Scheduling": 111,
+    "Utilities": 82,
+    "Reference & Learning": 10,
+    "Uncategorized": 7
+  },
   "2021-11-6": {}
 }
