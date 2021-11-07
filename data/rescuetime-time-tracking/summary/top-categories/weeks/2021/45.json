@@ -164,11 +164,13 @@
     "Instant Message": 110,
     "General Utilities": 60,
     "Browsers": 19,
-    "Uncategorized": 7,
     "Engineering & Technology": 7,
-    "Internet Utilities": 3,
+    "Uncategorized": 7,
     "Search": 3,
+    "Internet Utilities": 3,
     "Meetings": 1
   },
-  "2021-11-6": {}
+  "2021-11-6": {
+    "Other": 9
+  }
 }
