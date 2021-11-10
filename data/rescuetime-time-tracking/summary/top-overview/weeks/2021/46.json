@@ -24,14 +24,26 @@
     "News & Opinion": 30
   },
   "2021-11-9": {
-    "Software Development": 2215,
-    "Utilities": 1397,
-    "Communication & Scheduling": 406,
-    "Entertainment": 132,
-    "Business": 70,
+    "Software Development": 12929,
+    "Communication & Scheduling": 5670,
+    "Utilities": 2422,
+    "Entertainment": 1916,
+    "Uncategorized": 1491,
+    "Reference & Learning": 1192,
+    "Business": 725,
+    "News & Opinion": 95,
+    "Social Networking": 20,
     "Design & Composition": 2
   },
-  "2021-11-10": {},
+  "2021-11-10": {
+    "Software Development": 3332,
+    "Entertainment": 1073,
+    "Utilities": 457,
+    "Communication & Scheduling": 56,
+    "Business": 28,
+    "Uncategorized": 5,
+    "Reference & Learning": 2
+  },
   "2021-11-11": {},
   "2021-11-12": {},
   "2021-11-13": {}
