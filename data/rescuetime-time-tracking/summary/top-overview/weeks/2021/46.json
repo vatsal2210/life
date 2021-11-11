@@ -36,15 +36,24 @@
     "Design & Composition": 2
   },
   "2021-11-10": {
-    "Software Development": 3332,
-    "Entertainment": 1073,
-    "Utilities": 457,
-    "Communication & Scheduling": 56,
-    "Business": 28,
-    "Uncategorized": 5,
-    "Reference & Learning": 2
+    "Software Development": 7492,
+    "Communication & Scheduling": 4863,
+    "Entertainment": 2420,
+    "Uncategorized": 1964,
+    "Utilities": 1324,
+    "Shopping": 1110,
+    "Business": 672,
+    "Reference & Learning": 379,
+    "Social Networking": 178,
+    "Design & Composition": 3
   },
-  "2021-11-11": {},
+  "2021-11-11": {
+    "Communication & Scheduling": 80,
+    "Utilities": 46,
+    "Business": 21,
+    "Software Development": 15,
+    "Uncategorized": 2
+  },
   "2021-11-12": {},
   "2021-11-13": {}
 }
