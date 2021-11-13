@@ -133,6 +133,29 @@
     "General Communication & Scheduling": 6,
     "Intelligence": 6
   },
-  "2021-11-12": {},
+  "2021-11-12": {
+    "Meetings": 4843,
+    "Editing & IDEs": 4168,
+    "Instant Message": 1685,
+    "Professional Networking": 1310,
+    "Email": 1244,
+    "Uncategorized": 1001,
+    "General Social Networking": 998,
+    "General Software Development": 471,
+    "Search": 175,
+    "General Business": 175,
+    "Other": 149,
+    "Browsers": 147,
+    "Engineering & Technology": 128,
+    "Video": 125,
+    "General Utilities": 103,
+    "General Communication & Scheduling": 61,
+    "Systems Operations": 61,
+    "Music": 31,
+    "General News & Opinion": 13,
+    "General Reference & Learning": 8,
+    "Internet Utilities": 7,
+    "Anti-Virus & Spyware": 1
+  },
   "2021-11-13": {}
 }
