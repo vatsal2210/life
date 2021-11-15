@@ -127,8 +127,8 @@
     "General Entertainment": 85,
     "Calendars": 33,
     "General Utilities": 25,
-    "Data Modeling & Analysis": 15,
     "Video": 15,
+    "Data Modeling & Analysis": 15,
     "Internet Utilities": 9,
     "General Communication & Scheduling": 6,
     "Intelligence": 6
@@ -160,18 +160,18 @@
   "2021-11-13": {
     "General Software Development": 3409,
     "Editing & IDEs": 3140,
-    "Search": 721,
+    "Search": 1077,
     "Engineering & Technology": 612,
-    "Uncategorized": 371,
+    "Uncategorized": 412,
     "Other": 301,
     "General Business": 223,
     "Instant Message": 184,
-    "Browsers": 84,
+    "Browsers": 116,
     "General Reference & Learning": 37,
     "Calendars": 31,
+    "General Utilities": 18,
     "Systems Operations": 18,
     "Internet Utilities": 16,
-    "General Utilities": 15,
     "Operations": 10,
     "General Communication & Scheduling": 3
   }

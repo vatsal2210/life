@@ -129,13 +129,21 @@
   },
   "13": {
     "Software Development": 6567,
-    "Reference & Learning": 1370,
-    "Utilities": 416,
-    "Uncategorized": 371,
+    "Reference & Learning": 1726,
+    "Utilities": 451,
+    "Uncategorized": 412,
     "Business": 233,
     "Communication & Scheduling": 218
   },
-  "14": {},
+  "14": {
+    "Social Networking": 1729,
+    "Utilities": 313,
+    "Uncategorized": 254,
+    "Communication & Scheduling": 196,
+    "Reference & Learning": 107,
+    "News & Opinion": 92,
+    "Business": 52
+  },
   "15": {},
   "16": {},
   "17": {},
