@@ -1,19 +1,19 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 1729,
+    "Time Spent (seconds)": 1792,
     "Number of People": 1,
     "Category": "Social Networking"
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 313,
+    "Time Spent (seconds)": 321,
     "Number of People": 1,
     "Category": "Utilities"
   },
   {
     "Rank": 3,
-    "Time Spent (seconds)": 254,
+    "Time Spent (seconds)": 305,
     "Number of People": 1,
     "Category": "Uncategorized"
   },
@@ -40,5 +40,11 @@
     "Time Spent (seconds)": 52,
     "Number of People": 1,
     "Category": "Business"
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 25,
+    "Number of People": 1,
+    "Category": "Entertainment"
   }
 ]

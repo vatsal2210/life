@@ -1,13 +1,13 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 1619,
+    "Time Spent (seconds)": 1682,
     "Number of People": 1,
     "Category": "General Social Networking"
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 254,
+    "Time Spent (seconds)": 305,
     "Number of People": 1,
     "Category": "Uncategorized"
   },
@@ -61,18 +61,30 @@
   },
   {
     "Rank": 11,
-    "Time Spent (seconds)": 7,
+    "Time Spent (seconds)": 15,
     "Number of People": 1,
     "Category": "Other"
   },
   {
     "Rank": 12,
+    "Time Spent (seconds)": 13,
+    "Number of People": 1,
+    "Category": "Video"
+  },
+  {
+    "Rank": 13,
+    "Time Spent (seconds)": 12,
+    "Number of People": 1,
+    "Category": "Music"
+  },
+  {
+    "Rank": 14,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
     "Category": "General Business"
   },
   {
-    "Rank": 13,
+    "Rank": 15,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Category": "Internet Utilities"
