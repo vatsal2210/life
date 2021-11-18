@@ -1,13 +1,13 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 7055,
+    "Time Spent (seconds)": 7136,
     "Number of People": 1,
     "Category": "General Utilities"
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 4234,
+    "Time Spent (seconds)": 5922,
     "Number of People": 1,
     "Category": "Editing & IDEs"
   },
@@ -19,13 +19,13 @@
   },
   {
     "Rank": 4,
-    "Time Spent (seconds)": 1585,
+    "Time Spent (seconds)": 1595,
     "Number of People": 1,
     "Category": "Instant Message"
   },
   {
     "Rank": 5,
-    "Time Spent (seconds)": 1272,
+    "Time Spent (seconds)": 1404,
     "Number of People": 1,
     "Category": "General Software Development"
   },
@@ -37,33 +37,33 @@
   },
   {
     "Rank": 7,
-    "Time Spent (seconds)": 1032,
+    "Time Spent (seconds)": 1048,
     "Number of People": 1,
     "Category": "Uncategorized"
   },
   {
     "Rank": 8,
-    "Time Spent (seconds)": 797,
+    "Time Spent (seconds)": 805,
     "Number of People": 1,
     "Category": "Intelligence"
   },
   {
     "Rank": 9,
-    "Time Spent (seconds)": 746,
+    "Time Spent (seconds)": 760,
+    "Number of People": 1,
+    "Category": "General Business"
+  },
+  {
+    "Rank": 10,
+    "Time Spent (seconds)": 756,
     "Number of People": 1,
     "Category": "General Entertainment"
   },
   {
-    "Rank": 10,
+    "Rank": 11,
     "Time Spent (seconds)": 671,
     "Number of People": 1,
     "Category": "Video"
-  },
-  {
-    "Rank": 11,
-    "Time Spent (seconds)": 437,
-    "Number of People": 1,
-    "Category": "General Business"
   },
   {
     "Rank": 12,
@@ -73,7 +73,7 @@
   },
   {
     "Rank": 13,
-    "Time Spent (seconds)": 417,
+    "Time Spent (seconds)": 422,
     "Number of People": 1,
     "Category": "Search"
   },
@@ -91,7 +91,7 @@
   },
   {
     "Rank": 16,
-    "Time Spent (seconds)": 223,
+    "Time Spent (seconds)": 226,
     "Number of People": 1,
     "Category": "Browsers"
   },
