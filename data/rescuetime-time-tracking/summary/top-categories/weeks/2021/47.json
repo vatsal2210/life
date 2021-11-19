@@ -96,7 +96,29 @@
     "Engineering & Technology": 6,
     "Anti-Virus & Spyware": 2
   },
-  "2021-11-18": {},
+  "2021-11-18": {
+    "Meetings": 4653,
+    "General Software Development": 3685,
+    "Editing & IDEs": 2707,
+    "Instant Message": 1347,
+    "Uncategorized": 640,
+    "Data Modeling & Analysis": 404,
+    "Browsers": 149,
+    "Search": 147,
+    "General Business": 107,
+    "General Utilities": 89,
+    "Email": 81,
+    "Intelligence": 74,
+    "Project Management": 70,
+    "General Reference & Learning": 46,
+    "Systems Operations": 33,
+    "Calendars": 29,
+    "Music": 14,
+    "Operations": 13,
+    "Internet Utilities": 12,
+    "Engineering & Technology": 4,
+    "Other": 2
+  },
   "2021-11-19": {},
   "2021-11-20": {}
 }
