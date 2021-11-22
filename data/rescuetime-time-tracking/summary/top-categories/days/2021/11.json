@@ -474,8 +474,25 @@
     "General Utilities": 8,
     "Internet Utilities": 3
   },
-  "21": {},
-  "22": {},
+  "21": {
+    "General Utilities": 488,
+    "Uncategorized": 120,
+    "Anti-Virus & Spyware": 43,
+    "Systems Operations": 41,
+    "Instant Message": 22,
+    "Browsers": 21,
+    "Engineering & Technology": 9,
+    "Intelligence": 6,
+    "Search": 4,
+    "Other": 2,
+    "Operations": 1
+  },
+  "22": {
+    "Systems Operations": 73,
+    "Video": 12,
+    "Intelligence": 2,
+    "General Utilities": 1
+  },
   "23": {},
   "24": {},
   "25": {},
