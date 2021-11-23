@@ -216,12 +216,23 @@
     "Business": 7
   },
   "22": {
-    "Software Development": 73,
-    "Entertainment": 12,
-    "Business": 2,
-    "Utilities": 1
+    "Communication & Scheduling": 6973,
+    "Software Development": 5563,
+    "Business": 2213,
+    "Uncategorized": 1600,
+    "Utilities": 1528,
+    "Reference & Learning": 349,
+    "Design & Composition": 232,
+    "Social Networking": 95,
+    "News & Opinion": 91,
+    "Entertainment": 52
   },
-  "23": {},
+  "23": {
+    "Software Development": 548,
+    "Utilities": 36,
+    "Communication & Scheduling": 10,
+    "Reference & Learning": 9
+  },
   "24": {},
   "25": {},
   "26": {},
