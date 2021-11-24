@@ -228,12 +228,24 @@
     "Entertainment": 52
   },
   "23": {
-    "Software Development": 548,
-    "Utilities": 36,
-    "Communication & Scheduling": 10,
-    "Reference & Learning": 9
+    "Communication & Scheduling": 6523,
+    "Software Development": 4873,
+    "Business": 2982,
+    "Reference & Learning": 2122,
+    "Utilities": 1934,
+    "Uncategorized": 1283,
+    "Design & Composition": 1167,
+    "Social Networking": 320,
+    "Entertainment": 49,
+    "News & Opinion": 33
   },
-  "24": {},
+  "24": {
+    "Utilities": 88,
+    "Communication & Scheduling": 32,
+    "Uncategorized": 27,
+    "Software Development": 15,
+    "Reference & Learning": 7
+  },
   "25": {},
   "26": {},
   "27": {},
