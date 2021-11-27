@@ -128,6 +128,21 @@
     "Calendars": 5,
     "General Communication & Scheduling": 2
   },
-  "2021-11-26": {},
+  "2021-11-26": {
+    "Meetings": 4689,
+    "Editing & IDEs": 1121,
+    "General Utilities": 456,
+    "Uncategorized": 446,
+    "General Software Development": 423,
+    "Instant Message": 418,
+    "Professional Networking": 322,
+    "Project Management": 197,
+    "Browsers": 110,
+    "Search": 46,
+    "Email": 26,
+    "Internet Utilities": 12,
+    "General Business": 4,
+    "Calendars": 4
+  },
   "2021-11-27": {}
 }
