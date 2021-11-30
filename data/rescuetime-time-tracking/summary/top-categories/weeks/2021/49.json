@@ -1,0 +1,31 @@
+{
+  "2021-11-28": {},
+  "2021-11-29": {
+    "Meetings": 2719,
+    "Writing": 2527,
+    "Instant Message": 1618,
+    "Uncategorized": 1583,
+    "General Business": 1531,
+    "Browsers": 426,
+    "General Software Development": 418,
+    "Editing & IDEs": 390,
+    "Email": 385,
+    "Calendars": 329,
+    "Intelligence": 328,
+    "Data Modeling & Analysis": 217,
+    "Project Management": 145,
+    "General Utilities": 85,
+    "Search": 82,
+    "Internet Utilities": 29,
+    "Engineering & Technology": 29,
+    "Systems Operations": 29,
+    "General Reference & Learning": 12,
+    "Anti-Virus & Spyware": 7,
+    "Other": 4
+  },
+  "2021-11-30": {
+    "Writing": 676,
+    "General Business": 44,
+    "Project Management": 24
+  }
+}
