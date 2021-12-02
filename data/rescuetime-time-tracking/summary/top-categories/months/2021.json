@@ -410,5 +410,34 @@
     "Unknown": 11,
     "General Design & Composition": 201
   },
-  "12": {}
+  "12": {
+    "Uncategorized": 3377,
+    "Presentation": 2064,
+    "General Business": 1728,
+    "Editing & IDEs": 1583,
+    "Meetings": 1278,
+    "Search": 1140,
+    "Instant Message": 1121,
+    "General Software Development": 1097,
+    "Engineering & Technology": 967,
+    "General Utilities": 930,
+    "Email": 770,
+    "Professional Networking": 690,
+    "General Entertainment": 667,
+    "Browsers": 559,
+    "Writing": 486,
+    "Intelligence": 296,
+    "General News & Opinion": 295,
+    "Systems Operations": 71,
+    "Video": 61,
+    "Calendars": 56,
+    "General Design & Composition": 49,
+    "Graphic Design": 22,
+    "Other": 20,
+    "Internet Utilities": 12,
+    "Unknown": 10,
+    "Project Management": 8,
+    "General Reference & Learning": 5,
+    "Anti-Virus & Spyware": 5
+  }
 }
