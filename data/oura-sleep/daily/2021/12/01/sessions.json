@@ -135,6 +135,8 @@
       68,
       0
     ],
+    "hr_average": 58.59,
+    "hr_lowest": 54,
     "hypnogram_5min": "42222211111111224411111111132133222242211111111221433442244242221111222344443442422222111111111343444244422222424344",
     "rmssd": 44,
     "rmssd_5min": [
@@ -268,8 +270,6 @@
     "bedtime_start_delta": 3420,
     "bedtime_end_delta": 38100,
     "midpoint_at_delta": 19170,
-    "temperature_delta": -0.07,
-    "hr_lowest": 54,
-    "hr_average": 58.59
+    "temperature_delta": -0.07
   }
 ]

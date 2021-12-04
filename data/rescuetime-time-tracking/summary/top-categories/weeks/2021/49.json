@@ -50,8 +50,8 @@
     "Project Management": 24,
     "Marketing": 19,
     "Systems Operations": 15,
-    "Other": 6,
-    "Unknown": 6
+    "Unknown": 6,
+    "Other": 6
   },
   "2021-12-1": {
     "Uncategorized": 3377,
@@ -110,6 +110,28 @@
     "Anti-Virus & Spyware": 4,
     "Unknown": 3
   },
-  "2021-12-3": {},
+  "2021-12-3": {
+    "Meetings": 3982,
+    "Editing & IDEs": 3434,
+    "Uncategorized": 2492,
+    "Systems Operations": 1132,
+    "Email": 905,
+    "Instant Message": 719,
+    "General Software Development": 554,
+    "Search": 517,
+    "Browsers": 456,
+    "General Utilities": 359,
+    "Intelligence": 317,
+    "General Business": 166,
+    "Data Modeling & Analysis": 88,
+    "Professional Networking": 49,
+    "Engineering & Technology": 30,
+    "Project Management": 25,
+    "Internet Utilities": 19,
+    "Video": 10,
+    "General News & Opinion": 7,
+    "Calendars": 6,
+    "Anti-Virus & Spyware": 6
+  },
   "2021-12-4": {}
 }
