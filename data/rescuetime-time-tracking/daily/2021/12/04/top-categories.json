@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "Rank": 1,
+    "Time Spent (seconds)": 6805,
+    "Number of People": 1,
+    "Category": "Editing & IDEs"
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 145,
+    "Number of People": 1,
+    "Category": "Instant Message"
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 93,
+    "Number of People": 1,
+    "Category": "General Utilities"
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 48,
+    "Number of People": 1,
+    "Category": "Other"
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Category": "Uncategorized"
+  }
+]

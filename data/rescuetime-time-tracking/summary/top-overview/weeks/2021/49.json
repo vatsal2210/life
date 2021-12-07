@@ -56,5 +56,10 @@
     "Entertainment": 10,
     "News & Opinion": 7
   },
-  "2021-12-4": {}
+  "2021-12-4": {
+    "Software Development": 6805,
+    "Communication & Scheduling": 145,
+    "Utilities": 141,
+    "Uncategorized": 2
+  }
 }

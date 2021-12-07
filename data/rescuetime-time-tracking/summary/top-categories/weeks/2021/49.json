@@ -130,8 +130,14 @@
     "Internet Utilities": 19,
     "Video": 10,
     "General News & Opinion": 7,
-    "Calendars": 6,
-    "Anti-Virus & Spyware": 6
+    "Anti-Virus & Spyware": 6,
+    "Calendars": 6
   },
-  "2021-12-4": {}
+  "2021-12-4": {
+    "Editing & IDEs": 6805,
+    "Instant Message": 145,
+    "General Utilities": 93,
+    "Other": 48,
+    "Uncategorized": 2
+  }
 }
