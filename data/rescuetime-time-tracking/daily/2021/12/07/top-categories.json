@@ -7,7 +7,7 @@
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 5247,
+    "Time Spent (seconds)": 5259,
     "Number of People": 1,
     "Category": "Editing & IDEs"
   },
@@ -19,33 +19,33 @@
   },
   {
     "Rank": 4,
-    "Time Spent (seconds)": 1319,
+    "Time Spent (seconds)": 1579,
     "Number of People": 1,
     "Category": "Instant Message"
   },
   {
     "Rank": 5,
-    "Time Spent (seconds)": 1262,
+    "Time Spent (seconds)": 1267,
     "Number of People": 1,
     "Category": "General Software Development"
   },
   {
     "Rank": 6,
-    "Time Spent (seconds)": 806,
+    "Time Spent (seconds)": 857,
+    "Number of People": 1,
+    "Category": "Email"
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 852,
     "Number of People": 1,
     "Category": "General Social Networking"
   },
   {
-    "Rank": 7,
-    "Time Spent (seconds)": 769,
+    "Rank": 8,
+    "Time Spent (seconds)": 824,
     "Number of People": 1,
     "Category": "Uncategorized"
-  },
-  {
-    "Rank": 8,
-    "Time Spent (seconds)": 746,
-    "Number of People": 1,
-    "Category": "Email"
   },
   {
     "Rank": 9,
@@ -67,15 +67,15 @@
   },
   {
     "Rank": 12,
-    "Time Spent (seconds)": 320,
+    "Time Spent (seconds)": 355,
     "Number of People": 1,
-    "Category": "General Business"
+    "Category": "Browsers"
   },
   {
     "Rank": 13,
-    "Time Spent (seconds)": 317,
+    "Time Spent (seconds)": 320,
     "Number of People": 1,
-    "Category": "Browsers"
+    "Category": "General Business"
   },
   {
     "Rank": 14,
@@ -91,60 +91,72 @@
   },
   {
     "Rank": 16,
-    "Time Spent (seconds)": 165,
+    "Time Spent (seconds)": 175,
     "Number of People": 1,
     "Category": "Search"
   },
   {
     "Rank": 17,
+    "Time Spent (seconds)": 147,
+    "Number of People": 1,
+    "Category": "General Reference & Learning"
+  },
+  {
+    "Rank": 18,
     "Time Spent (seconds)": 135,
     "Number of People": 1,
     "Category": "Systems Operations"
   },
   {
-    "Rank": 18,
+    "Rank": 19,
     "Time Spent (seconds)": 98,
     "Number of People": 1,
     "Category": "Data Modeling & Analysis"
   },
   {
-    "Rank": 19,
-    "Time Spent (seconds)": 60,
+    "Rank": 20,
+    "Time Spent (seconds)": 62,
     "Number of People": 1,
     "Category": "General Utilities"
   },
   {
-    "Rank": 20,
+    "Rank": 21,
     "Time Spent (seconds)": 45,
     "Number of People": 1,
     "Category": "Legal & Gov't"
   },
   {
-    "Rank": 21,
-    "Time Spent (seconds)": 31,
-    "Number of People": 1,
-    "Category": "Music"
-  },
-  {
     "Rank": 22,
-    "Time Spent (seconds)": 27,
+    "Time Spent (seconds)": 34,
     "Number of People": 1,
     "Category": "Internet Utilities"
   },
   {
     "Rank": 23,
+    "Time Spent (seconds)": 31,
+    "Number of People": 1,
+    "Category": "Music"
+  },
+  {
+    "Rank": 24,
+    "Time Spent (seconds)": 22,
+    "Number of People": 1,
+    "Category": "Business & Finance"
+  },
+  {
+    "Rank": 25,
     "Time Spent (seconds)": 10,
     "Number of People": 1,
     "Category": "General News & Opinion"
   },
   {
-    "Rank": 24,
+    "Rank": 26,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
     "Category": "Other"
   },
   {
-    "Rank": 25,
+    "Rank": 27,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Category": "Anti-Virus & Spyware"
