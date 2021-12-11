@@ -71,8 +71,8 @@
     "Photos": 135,
     "Internet Utilities": 43,
     "Professional Networking": 27,
-    "Calendars": 21,
     "Other": 21,
+    "Calendars": 21,
     "Business & Finance": 18,
     "Video": 12
   },
@@ -103,6 +103,32 @@
     "Internet Utilities": 12,
     "Presentation": 10
   },
-  "2021-12-10": {},
+  "2021-12-10": {
+    "General Software Development": 3672,
+    "Meetings": 3250,
+    "Editing & IDEs": 2159,
+    "Instant Message": 1510,
+    "Email": 1094,
+    "Uncategorized": 969,
+    "Intelligence": 753,
+    "General Business": 702,
+    "General Utilities": 653,
+    "Browsers": 562,
+    "General Social Networking": 517,
+    "Internet Utilities": 414,
+    "Video": 379,
+    "Systems Operations": 229,
+    "Professional Networking": 213,
+    "Data Modeling & Analysis": 204,
+    "Writing": 174,
+    "Project Management": 117,
+    "Search": 44,
+    "Engineering & Technology": 44,
+    "Unknown": 33,
+    "General News & Opinion": 11,
+    "Calendars": 2,
+    "Anti-Virus & Spyware": 2,
+    "Other": 2
+  },
   "2021-12-11": {}
 }
