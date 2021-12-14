@@ -110,8 +110,26 @@
     "Social Networking": 288
   },
   "12": {},
-  "13": {},
-  "14": {},
+  "13": {
+    "Communication & Scheduling": 5883,
+    "Software Development": 4546,
+    "Utilities": 2894,
+    "Uncategorized": 1686,
+    "Business": 935,
+    "Design & Composition": 860,
+    "Reference & Learning": 543,
+    "Social Networking": 241,
+    "News & Opinion": 183
+  },
+  "14": {
+    "Software Development": 2830,
+    "Utilities": 60,
+    "Uncategorized": 50,
+    "Reference & Learning": 28,
+    "Communication & Scheduling": 17,
+    "Business": 12,
+    "Social Networking": 3
+  },
   "15": {},
   "16": {},
   "17": {},
