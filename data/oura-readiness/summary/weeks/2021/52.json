@@ -1,7 +1,5 @@
-[
-  {
-    "summary_date": "2021-12-19",
-    "period_id": 0,
+{
+  "2021-12-19": {
     "score": 64,
     "score_activity_balance": 65,
     "score_previous_day": 98,
@@ -10,5 +8,11 @@
     "score_resting_hr": 54,
     "score_sleep_balance": 44,
     "score_temperature": 90
-  }
-]
+  },
+  "2021-12-20": {},
+  "2021-12-21": {},
+  "2021-12-22": {},
+  "2021-12-23": {},
+  "2021-12-24": {},
+  "2021-12-25": {}
+}
