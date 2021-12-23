@@ -20,7 +20,17 @@
     "score_sleep_balance": 47,
     "score_temperature": 100
   },
-  "2021-12-21": {},
+  "2021-12-21": {
+    "score": 57,
+    "score_activity_balance": 75,
+    "score_hrv_balance": 52,
+    "score_previous_day": 93,
+    "score_previous_night": 33,
+    "score_recovery_index": 100,
+    "score_resting_hr": 39,
+    "score_sleep_balance": 46,
+    "score_temperature": 77
+  },
   "2021-12-22": {},
   "2021-12-23": {},
   "2021-12-24": {},

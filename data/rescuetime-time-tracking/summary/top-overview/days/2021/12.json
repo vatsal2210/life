@@ -161,7 +161,15 @@
     "News & Opinion": 150,
     "Entertainment": 98
   },
-  "22": {},
+  "22": {
+    "Software Development": 4396,
+    "Communication & Scheduling": 3798,
+    "Utilities": 968,
+    "Business": 437,
+    "Uncategorized": 261,
+    "Social Networking": 209,
+    "Reference & Learning": 59
+  },
   "23": {},
   "24": {},
   "25": {},
