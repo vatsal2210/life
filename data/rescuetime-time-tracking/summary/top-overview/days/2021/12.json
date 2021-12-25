@@ -182,7 +182,16 @@
     "Shopping": 50,
     "News & Opinion": 13
   },
-  "24": {},
+  "24": {
+    "Business": 1062,
+    "Utilities": 471,
+    "Communication & Scheduling": 230,
+    "Reference & Learning": 196,
+    "Entertainment": 71,
+    "Uncategorized": 64,
+    "Software Development": 10,
+    "Design & Composition": 4
+  },
   "25": {},
   "26": {},
   "27": {},
