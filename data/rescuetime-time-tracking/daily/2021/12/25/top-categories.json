@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "Rank": 1,
+    "Time Spent (seconds)": 70,
+    "Number of People": 1,
+    "Category": "Project Management"
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 55,
+    "Number of People": 1,
+    "Category": "Electronics"
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 39,
+    "Number of People": 1,
+    "Category": "Email"
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 8,
+    "Number of People": 1,
+    "Category": "Browsers"
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 3,
+    "Number of People": 1,
+    "Category": "Uncategorized"
+  }
+]
