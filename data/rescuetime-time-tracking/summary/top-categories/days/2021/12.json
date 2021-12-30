@@ -502,6 +502,27 @@
     "Operations": 9,
     "Other": 5
   },
-  "29": {},
+  "29": {
+    "Meetings": 4121,
+    "Editing & IDEs": 1681,
+    "General Software Development": 832,
+    "General Business": 540,
+    "Search": 283,
+    "Email": 225,
+    "Uncategorized": 144,
+    "General Communication & Scheduling": 118,
+    "Browsers": 87,
+    "Instant Message": 51,
+    "Project Management": 46,
+    "General Reference & Learning": 39,
+    "General Utilities": 35,
+    "Engineering & Technology": 22,
+    "General News & Opinion": 21,
+    "Professional Networking": 18,
+    "Internet Utilities": 16,
+    "Calendars": 12,
+    "Anti-Virus & Spyware": 9,
+    "Intelligence": 4
+  },
   "30": {}
 }
