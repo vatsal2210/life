@@ -92,5 +92,27 @@
     "Anti-Virus & Spyware": 9,
     "Intelligence": 4
   },
-  "2021-12-30": {}
+  "2021-12-30": {
+    "Editing & IDEs": 6870,
+    "General Business": 2013,
+    "General Software Development": 1535,
+    "Uncategorized": 1137,
+    "Email": 968,
+    "Instant Message": 664,
+    "General Utilities": 425,
+    "Data Modeling & Analysis": 328,
+    "Search": 292,
+    "Browsers": 271,
+    "Engineering & Technology": 132,
+    "Accounting": 74,
+    "Systems Operations": 37,
+    "General News & Opinion": 20,
+    "General Social Networking": 18,
+    "Other": 13,
+    "Internet Utilities": 13,
+    "Video": 10,
+    "Photos": 4,
+    "Marketing": 2,
+    "Intelligence": 1
+  }
 }
