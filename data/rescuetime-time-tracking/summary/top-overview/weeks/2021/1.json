@@ -53,5 +53,13 @@
     "News & Opinion": 20,
     "Social Networking": 18,
     "Entertainment": 14
+  },
+  "2021-12-31": {
+    "Communication & Scheduling": 3269,
+    "Software Development": 261,
+    "Utilities": 65,
+    "Social Networking": 55,
+    "Reference & Learning": 42,
+    "Uncategorized": 3
   }
 }

@@ -114,5 +114,19 @@
     "Photos": 4,
     "Marketing": 2,
     "Intelligence": 1
+  },
+  "2021-12-31": {
+    "Meetings": 3005,
+    "General Software Development": 261,
+    "Instant Message": 254,
+    "Professional Networking": 55,
+    "Browsers": 48,
+    "Search": 42,
+    "General Utilities": 12,
+    "Calendars": 10,
+    "Uncategorized": 3,
+    "Other": 2,
+    "Internet Utilities": 2,
+    "Anti-Virus & Spyware": 1
   }
 }
