@@ -1,5 +1,5 @@
 {
-  "1": {
+  "2022-01-1": {
     "Business": 816,
     "Communication & Scheduling": 613,
     "Design & Composition": 577,
@@ -10,16 +10,5 @@
     "Entertainment": 14,
     "Software Development": 6,
     "News & Opinion": 6
-  },
-  "2": {},
-  "3": {},
-  "4": {},
-  "5": {},
-  "6": {},
-  "7": {},
-  "8": {},
-  "9": {},
-  "10": {},
-  "11": {},
-  "12": {}
+  }
 }

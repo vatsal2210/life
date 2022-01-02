@@ -16,10 +16,10 @@
     "operating_systems": [],
     "projects": [],
     "range": {
-      "date": "2021-12-31",
-      "end": "2022-01-01T04:59:59Z",
-      "start": "2021-12-31T05:00:00Z",
-      "text": "Yesterday",
+      "date": "2022-01-02",
+      "end": "2022-01-03T04:59:59Z",
+      "start": "2022-01-02T05:00:00Z",
+      "text": "Tomorrow",
       "timezone": "America/Toronto"
     }
   }
