@@ -1,5 +1,15 @@
 {
-  "1": {},
+  "1": {
+    "score": 45,
+    "score_activity_balance": 81,
+    "score_hrv_balance": 53,
+    "score_previous_day": 100,
+    "score_previous_night": 35,
+    "score_recovery_index": 41,
+    "score_resting_hr": 38,
+    "score_sleep_balance": 64,
+    "score_temperature": 38
+  },
   "2": {},
   "3": {},
   "4": {},
