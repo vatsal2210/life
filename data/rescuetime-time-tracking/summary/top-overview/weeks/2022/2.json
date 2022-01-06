@@ -15,15 +15,26 @@
   },
   "2022-01-4": {
     "Software Development": 6560,
-    "Communication & Scheduling": 3005,
-    "Utilities": 1449,
-    "Uncategorized": 755,
-    "Business": 590,
+    "Communication & Scheduling": 3358,
+    "Utilities": 1450,
+    "Uncategorized": 757,
+    "Business": 625,
     "Reference & Learning": 224,
     "Design & Composition": 188,
     "Social Networking": 9
   },
-  "2022-01-5": {},
+  "2022-01-5": {
+    "Software Development": 6653,
+    "Communication & Scheduling": 3242,
+    "Reference & Learning": 2656,
+    "Business": 1693,
+    "Social Networking": 1566,
+    "Uncategorized": 407,
+    "Utilities": 236,
+    "Design & Composition": 181,
+    "News & Opinion": 156,
+    "Entertainment": 17
+  },
   "2022-01-6": {},
   "2022-01-7": {},
   "2022-01-8": {}
