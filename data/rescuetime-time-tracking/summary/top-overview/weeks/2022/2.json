@@ -35,7 +35,18 @@
     "News & Opinion": 156,
     "Entertainment": 17
   },
-  "2022-01-6": {},
+  "2022-01-6": {
+    "Software Development": 16487,
+    "Communication & Scheduling": 4997,
+    "Utilities": 1341,
+    "Uncategorized": 752,
+    "Reference & Learning": 703,
+    "Business": 216,
+    "Social Networking": 89,
+    "Design & Composition": 66,
+    "News & Opinion": 29,
+    "Entertainment": 12
+  },
   "2022-01-7": {},
   "2022-01-8": {}
 }
