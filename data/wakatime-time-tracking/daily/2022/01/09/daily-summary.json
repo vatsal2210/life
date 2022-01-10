@@ -1,25 +1,198 @@
 [
   {
-    "categories": [],
-    "dependencies": [],
-    "editors": [],
+    "categories": [
+      {
+        "decimal": "0.00",
+        "digital": "0:00:40",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 40,
+        "text": "40 secs",
+        "total_seconds": 40.979152
+      }
+    ],
+    "dependencies": [
+      {
+        "decimal": "0.00",
+        "digital": "0:00:40",
+        "hours": 0,
+        "minutes": 0,
+        "name": "logger",
+        "percent": 11.11,
+        "seconds": 40,
+        "text": "40 secs",
+        "total_seconds": 40.979152
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:40",
+        "hours": 0,
+        "minutes": 0,
+        "name": "lodash",
+        "percent": 11.11,
+        "seconds": 40,
+        "text": "40 secs",
+        "total_seconds": 40.979152
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:40",
+        "hours": 0,
+        "minutes": 0,
+        "name": "responses",
+        "percent": 11.11,
+        "seconds": 40,
+        "text": "40 secs",
+        "total_seconds": 40.979152
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:40",
+        "hours": 0,
+        "minutes": 0,
+        "name": "model",
+        "percent": 11.11,
+        "seconds": 40,
+        "text": "40 secs",
+        "total_seconds": 40.979152
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:40",
+        "hours": 0,
+        "minutes": 0,
+        "name": "ai",
+        "percent": 11.11,
+        "seconds": 40,
+        "text": "40 secs",
+        "total_seconds": 40.979152
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:40",
+        "hours": 0,
+        "minutes": 0,
+        "name": "enum",
+        "percent": 11.11,
+        "seconds": 40,
+        "text": "40 secs",
+        "total_seconds": 40.979152
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:40",
+        "hours": 0,
+        "minutes": 0,
+        "name": "mongoose",
+        "percent": 11.11,
+        "seconds": 40,
+        "text": "40 secs",
+        "total_seconds": 40.979152
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:40",
+        "hours": 0,
+        "minutes": 0,
+        "name": "express",
+        "percent": 11.11,
+        "seconds": 40,
+        "text": "40 secs",
+        "total_seconds": 40.979152
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:40",
+        "hours": 0,
+        "minutes": 0,
+        "name": "analytics",
+        "percent": 11.11,
+        "seconds": 40,
+        "text": "40 secs",
+        "total_seconds": 40.979152
+      }
+    ],
+    "editors": [
+      {
+        "decimal": "0.00",
+        "digital": "0:00:40",
+        "hours": 0,
+        "minutes": 0,
+        "name": "VS Code",
+        "percent": 100,
+        "seconds": 40,
+        "text": "40 secs",
+        "total_seconds": 40.979152
+      }
+    ],
     "grand_total": {
       "decimal": "0.00",
       "digital": "0:00",
       "hours": 0,
       "minutes": 0,
       "text": "0 secs",
-      "total_seconds": 0
+      "total_seconds": 40.979152
     },
-    "languages": [],
-    "machines": [],
-    "operating_systems": [],
-    "projects": [],
+    "languages": [
+      {
+        "decimal": "0.00",
+        "digital": "0:00:40",
+        "hours": 0,
+        "minutes": 0,
+        "name": "TypeScript",
+        "percent": 100,
+        "seconds": 40,
+        "text": "40 secs",
+        "total_seconds": 40.979152
+      }
+    ],
+    "machines": [
+      {
+        "decimal": "0.00",
+        "digital": "0:00:40",
+        "hours": 0,
+        "machine_name_id": "9021ee1b-15e5-4deb-a966-17a2f397cd17",
+        "minutes": 0,
+        "name": "Vatsal",
+        "percent": 100,
+        "seconds": 40,
+        "text": "40 secs",
+        "total_seconds": 40.979152
+      }
+    ],
+    "operating_systems": [
+      {
+        "decimal": "0.00",
+        "digital": "0:00:40",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Windows",
+        "percent": 100,
+        "seconds": 40,
+        "text": "40 secs",
+        "total_seconds": 40.979152
+      }
+    ],
+    "projects": [
+      {
+        "decimal": "0.00",
+        "digital": "0:00:40",
+        "hours": 0,
+        "minutes": 0,
+        "name": "speak-server",
+        "percent": 100,
+        "seconds": 40,
+        "text": "40 secs",
+        "total_seconds": 40.979152
+      }
+    ],
     "range": {
       "date": "2022-01-09",
       "end": "2022-01-10T04:59:59Z",
       "start": "2022-01-09T05:00:00Z",
-      "text": "Tomorrow",
+      "text": "Today",
       "timezone": "America/Toronto"
     }
   }

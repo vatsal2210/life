@@ -72,13 +72,22 @@
     "News & Opinion": 47
   },
   "8": {
-    "Software Development": 1540,
-    "Uncategorized": 270,
-    "Communication & Scheduling": 49,
-    "Utilities": 42,
+    "Software Development": 2464,
+    "Uncategorized": 458,
+    "Communication & Scheduling": 224,
+    "Utilities": 75,
     "Reference & Learning": 23
   },
-  "9": {},
+  "9": {
+    "Reference & Learning": 1530,
+    "Social Networking": 1294,
+    "Uncategorized": 1082,
+    "Utilities": 450,
+    "News & Opinion": 174,
+    "Communication & Scheduling": 66,
+    "Business": 55,
+    "Software Development": 54
+  },
   "10": {},
   "11": {},
   "12": {},

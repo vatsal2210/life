@@ -132,16 +132,18 @@
     "Other": 3
   },
   "2022-01-8": {
-    "Editing & IDEs": 931,
-    "General Software Development": 532,
-    "Uncategorized": 270,
+    "Editing & IDEs": 1365,
+    "General Software Development": 979,
+    "Uncategorized": 458,
+    "Instant Message": 174,
     "Systems Operations": 77,
+    "Data Modeling & Analysis": 43,
+    "Browsers": 30,
     "Email": 29,
-    "Browsers": 26,
+    "General Utilities": 28,
+    "General Communication & Scheduling": 21,
     "Engineering & Technology": 19,
-    "General Communication & Scheduling": 16,
-    "General Utilities": 16,
-    "Search": 4,
-    "Instant Message": 4
+    "Other": 17,
+    "Search": 4
   }
 }
