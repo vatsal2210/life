@@ -44,14 +44,14 @@
     "score_temperature": 100
   },
   "2022-01-13": {
-    "score": 59,
+    "score": 65,
     "score_activity_balance": 82,
-    "score_hrv_balance": 57,
+    "score_hrv_balance": 58,
     "score_previous_day": 100,
-    "score_previous_night": 15,
-    "score_recovery_index": 62,
+    "score_previous_night": 25,
+    "score_recovery_index": 96,
     "score_resting_hr": 64,
-    "score_sleep_balance": 55,
+    "score_sleep_balance": 61,
     "score_temperature": 100
   },
   "2022-01-14": {},
