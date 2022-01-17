@@ -65,5 +65,15 @@
     "score_sleep_balance": 63,
     "score_temperature": 100
   },
-  "2022-01-15": {}
+  "2022-01-15": {
+    "score": 83,
+    "score_activity_balance": 85,
+    "score_hrv_balance": 61,
+    "score_previous_day": 98,
+    "score_previous_night": 100,
+    "score_recovery_index": 100,
+    "score_resting_hr": 82,
+    "score_sleep_balance": 74,
+    "score_temperature": 96
+  }
 }

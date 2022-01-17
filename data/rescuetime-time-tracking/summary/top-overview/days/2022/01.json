@@ -146,7 +146,7 @@
   "15": {
     "Software Development": 5267,
     "Uncategorized": 2688,
-    "Utilities": 2475,
+    "Utilities": 2477,
     "Business": 2012,
     "Communication & Scheduling": 1385,
     "Reference & Learning": 840,
@@ -156,7 +156,17 @@
     "Entertainment": 46,
     "Shopping": 3
   },
-  "16": {},
+  "16": {
+    "Software Development": 12854,
+    "Utilities": 1035,
+    "Uncategorized": 969,
+    "Reference & Learning": 296,
+    "Design & Composition": 212,
+    "Communication & Scheduling": 165,
+    "Social Networking": 122,
+    "Business": 75,
+    "News & Opinion": 11
+  },
   "17": {},
   "18": {},
   "19": {},
