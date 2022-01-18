@@ -167,7 +167,16 @@
     "Business": 75,
     "News & Opinion": 11
   },
-  "17": {},
+  "17": {
+    "Software Development": 13057,
+    "Communication & Scheduling": 3850,
+    "Utilities": 1551,
+    "Business": 1247,
+    "Uncategorized": 520,
+    "Reference & Learning": 233,
+    "News & Opinion": 15,
+    "Entertainment": 7
+  },
   "18": {},
   "19": {},
   "20": {},

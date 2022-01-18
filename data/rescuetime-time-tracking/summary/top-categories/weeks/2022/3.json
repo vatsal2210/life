@@ -143,11 +143,11 @@
     "Internet Utilities": 25,
     "General Reference & Learning": 21,
     "General Business": 6,
-    "Intelligence": 5,
     "Calendars": 5,
-    "Anti-Virus & Spyware": 2,
+    "Intelligence": 5,
     "Other": 2,
-    "Unknown": 2
+    "Unknown": 2,
+    "Anti-Virus & Spyware": 2
   },
   "2022-01-15": {
     "Editing & IDEs": 3261,
