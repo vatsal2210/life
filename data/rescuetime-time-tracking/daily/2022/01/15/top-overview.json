@@ -25,15 +25,15 @@
   },
   {
     "Rank": 5,
-    "Time Spent (seconds)": 1385,
-    "Number of People": 1,
-    "Category": "Communication & Scheduling"
-  },
-  {
-    "Rank": 6,
     "Time Spent (seconds)": 840,
     "Number of People": 1,
     "Category": "Reference & Learning"
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 740,
+    "Number of People": 1,
+    "Category": "Other Work"
   },
   {
     "Rank": 7,
@@ -43,24 +43,30 @@
   },
   {
     "Rank": 8,
+    "Time Spent (seconds)": 645,
+    "Number of People": 1,
+    "Category": "Communication & Scheduling"
+  },
+  {
+    "Rank": 9,
     "Time Spent (seconds)": 368,
     "Number of People": 1,
     "Category": "Social Networking"
   },
   {
-    "Rank": 9,
+    "Rank": 10,
     "Time Spent (seconds)": 83,
     "Number of People": 1,
     "Category": "Design & Composition"
   },
   {
-    "Rank": 10,
+    "Rank": 11,
     "Time Spent (seconds)": 46,
     "Number of People": 1,
     "Category": "Entertainment"
   },
   {
-    "Rank": 11,
+    "Rank": 12,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
     "Category": "Shopping"
