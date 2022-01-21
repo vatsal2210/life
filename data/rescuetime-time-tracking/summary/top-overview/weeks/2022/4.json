@@ -47,14 +47,18 @@
     "Entertainment": 19
   },
   "2022-01-20": {
-    "Software Development": 2203,
+    "Software Development": 17626,
+    "Communication & Scheduling": 2228,
+    "Other Work": 829,
+    "Uncategorized": 701,
+    "Business": 531,
+    "Utilities": 335,
     "Entertainment": 323,
-    "Other Work": 158,
-    "Uncategorized": 87,
-    "Communication & Scheduling": 39,
-    "Utilities": 25,
-    "Reference & Learning": 23
+    "Reference & Learning": 199,
+    "News & Opinion": 50
   },
-  "2022-01-21": {},
+  "2022-01-21": {
+    "Software Development": 132
+  },
   "2022-01-22": {}
 }

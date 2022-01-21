@@ -205,15 +205,19 @@
     "Entertainment": 19
   },
   "20": {
-    "Software Development": 2203,
+    "Software Development": 17626,
+    "Communication & Scheduling": 2228,
+    "Other Work": 829,
+    "Uncategorized": 701,
+    "Business": 531,
+    "Utilities": 335,
     "Entertainment": 323,
-    "Other Work": 158,
-    "Uncategorized": 87,
-    "Communication & Scheduling": 39,
-    "Utilities": 25,
-    "Reference & Learning": 23
+    "Reference & Learning": 199,
+    "News & Opinion": 50
   },
-  "21": {},
+  "21": {
+    "Software Development": 132
+  },
   "22": {},
   "23": {},
   "24": {},

@@ -88,8 +88,8 @@
     "Calendars": 270,
     "Search": 87,
     "General Social Networking": 58,
-    "Instant Message": 42,
     "Graphic Design": 42,
+    "Instant Message": 42,
     "Writing": 32,
     "Professional Networking": 26,
     "Internet Utilities": 20,
@@ -98,18 +98,32 @@
     "Engineering & Technology": 3
   },
   "2022-01-20": {
-    "Editing & IDEs": 1423,
-    "General Software Development": 780,
+    "Editing & IDEs": 11530,
+    "General Software Development": 5782,
+    "Meetings": 1611,
+    "Communications": 829,
+    "Uncategorized": 701,
+    "Email": 608,
+    "Project Management": 526,
     "General Entertainment": 323,
-    "Communications": 158,
-    "Uncategorized": 87,
-    "Email": 39,
-    "Search": 19,
-    "Browsers": 11,
-    "General Utilities": 9,
-    "Internet Utilities": 5,
-    "Engineering & Technology": 4
+    "Data Modeling & Analysis": 241,
+    "General Utilities": 190,
+    "Search": 146,
+    "Browsers": 122,
+    "Systems Operations": 73,
+    "Engineering & Technology": 53,
+    "General News & Opinion": 50,
+    "Internet Utilities": 11,
+    "Other": 6,
+    "Anti-Virus & Spyware": 6,
+    "General Communication & Scheduling": 5,
+    "Calendars": 4,
+    "Intelligence": 4,
+    "General Business": 1
   },
-  "2022-01-21": {},
+  "2022-01-21": {
+    "Editing & IDEs": 70,
+    "General Software Development": 62
+  },
   "2022-01-22": {}
 }
