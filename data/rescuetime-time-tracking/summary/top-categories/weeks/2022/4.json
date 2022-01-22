@@ -122,8 +122,31 @@
     "General Business": 1
   },
   "2022-01-21": {
-    "Editing & IDEs": 70,
-    "General Software Development": 62
+    "Meetings": 5458,
+    "Editing & IDEs": 3737,
+    "General Software Development": 2748,
+    "Uncategorized": 1077,
+    "Intelligence": 376,
+    "General Business": 342,
+    "Communications": 289,
+    "Email": 270,
+    "Graphic Design": 238,
+    "Professional Networking": 164,
+    "Browsers": 140,
+    "Project Management": 126,
+    "General Utilities": 103,
+    "Search": 89,
+    "Video": 73,
+    "Data Modeling & Analysis": 66,
+    "General Reference & Learning": 40,
+    "Instant Message": 32,
+    "Internet Utilities": 19,
+    "General Communication & Scheduling": 18,
+    "Calendars": 8,
+    "Electronics": 7,
+    "Other": 4,
+    "Photos": 3,
+    "General Entertainment": 2
   },
   "2022-01-22": {}
 }
