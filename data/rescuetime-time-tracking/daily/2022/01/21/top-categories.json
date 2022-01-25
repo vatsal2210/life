@@ -1,49 +1,49 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 5458,
+    "Time Spent (seconds)": 5551,
     "Number of People": 1,
     "Category": "Meetings"
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 3737,
+    "Time Spent (seconds)": 3905,
     "Number of People": 1,
     "Category": "Editing & IDEs"
   },
   {
     "Rank": 3,
-    "Time Spent (seconds)": 2748,
+    "Time Spent (seconds)": 2942,
     "Number of People": 1,
     "Category": "General Software Development"
   },
   {
     "Rank": 4,
-    "Time Spent (seconds)": 1077,
+    "Time Spent (seconds)": 1211,
     "Number of People": 1,
     "Category": "Uncategorized"
   },
   {
     "Rank": 5,
-    "Time Spent (seconds)": 376,
+    "Time Spent (seconds)": 635,
+    "Number of People": 1,
+    "Category": "Communications"
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 495,
     "Number of People": 1,
     "Category": "Intelligence"
   },
   {
-    "Rank": 6,
+    "Rank": 7,
     "Time Spent (seconds)": 342,
     "Number of People": 1,
     "Category": "General Business"
   },
   {
-    "Rank": 7,
-    "Time Spent (seconds)": 289,
-    "Number of People": 1,
-    "Category": "Communications"
-  },
-  {
     "Rank": 8,
-    "Time Spent (seconds)": 270,
+    "Time Spent (seconds)": 308,
     "Number of People": 1,
     "Category": "Email"
   },
@@ -55,27 +55,27 @@
   },
   {
     "Rank": 10,
+    "Time Spent (seconds)": 167,
+    "Number of People": 1,
+    "Category": "General Utilities"
+  },
+  {
+    "Rank": 11,
     "Time Spent (seconds)": 164,
     "Number of People": 1,
     "Category": "Professional Networking"
   },
   {
-    "Rank": 11,
-    "Time Spent (seconds)": 140,
-    "Number of People": 1,
-    "Category": "Browsers"
-  },
-  {
     "Rank": 12,
-    "Time Spent (seconds)": 126,
+    "Time Spent (seconds)": 157,
     "Number of People": 1,
     "Category": "Project Management"
   },
   {
     "Rank": 13,
-    "Time Spent (seconds)": 103,
+    "Time Spent (seconds)": 152,
     "Number of People": 1,
-    "Category": "General Utilities"
+    "Category": "Browsers"
   },
   {
     "Rank": 14,
@@ -109,7 +109,7 @@
   },
   {
     "Rank": 19,
-    "Time Spent (seconds)": 19,
+    "Time Spent (seconds)": 22,
     "Number of People": 1,
     "Category": "Internet Utilities"
   },
