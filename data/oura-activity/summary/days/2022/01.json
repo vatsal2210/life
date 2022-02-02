@@ -203,10 +203,17 @@
     "score": 90
   },
   "30": {
-    "steps": 3894,
-    "total": 163,
-    "cal_active": 172,
-    "cal_total": 2091,
-    "score": 89
+    "steps": 6987,
+    "total": 292,
+    "cal_active": 303,
+    "cal_total": 2379,
+    "score": 90
+  },
+  "31": {
+    "steps": 8168,
+    "total": 265,
+    "cal_active": 331,
+    "cal_total": 2485,
+    "score": 86
   }
 }

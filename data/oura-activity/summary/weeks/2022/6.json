@@ -1,12 +1,25 @@
 {
   "2022-01-30": {
-    "steps": 3894,
-    "total": 163,
-    "cal_active": 172,
-    "cal_total": 2091,
-    "score": 89
+    "steps": 6987,
+    "total": 292,
+    "cal_active": 303,
+    "cal_total": 2379,
+    "score": 90
   },
-  "2022-02-1": {},
+  "2022-01-31": {
+    "steps": 8168,
+    "total": 265,
+    "cal_active": 331,
+    "cal_total": 2485,
+    "score": 86
+  },
+  "2022-02-1": {
+    "steps": 4066,
+    "total": 118,
+    "cal_active": 177,
+    "cal_total": 2065,
+    "score": 78
+  },
   "2022-02-2": {},
   "2022-02-3": {},
   "2022-02-4": {},
