@@ -59,15 +59,24 @@
     "News & Opinion": 37
   },
   "9": {
-    "Software Development": 4431,
-    "Reference & Learning": 103,
-    "Other Work": 37,
-    "Uncategorized": 34,
-    "Business": 18,
-    "Utilities": 16,
-    "Communication & Scheduling": 11
+    "Software Development": 5879,
+    "Communication & Scheduling": 1529,
+    "Business": 1084,
+    "Design & Composition": 403,
+    "Uncategorized": 357,
+    "Other Work": 206,
+    "Utilities": 139,
+    "Reference & Learning": 115
   },
-  "10": {},
+  "10": {
+    "Software Development": 1910,
+    "Entertainment": 177,
+    "Other Work": 172,
+    "Communication & Scheduling": 128,
+    "Uncategorized": 122,
+    "Utilities": 14,
+    "Reference & Learning": 7
+  },
   "11": {},
   "12": {},
   "13": {},
