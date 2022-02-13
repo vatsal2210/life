@@ -32,11 +32,11 @@
     "Reference & Learning": 115
   },
   "2022-02-10": {
-    "Software Development": 7492,
-    "Communication & Scheduling": 1492,
-    "Uncategorized": 892,
-    "Other Work": 692,
-    "Utilities": 265,
+    "Software Development": 7945,
+    "Communication & Scheduling": 1510,
+    "Uncategorized": 1347,
+    "Other Work": 729,
+    "Utilities": 276,
     "Reference & Learning": 177,
     "Entertainment": 177,
     "News & Opinion": 70,
@@ -45,5 +45,15 @@
     "Design & Composition": 2
   },
   "2022-02-11": {},
-  "2022-02-12": {}
+  "2022-02-12": {
+    "Software Development": 1821,
+    "Communication & Scheduling": 351,
+    "Social Networking": 90,
+    "Other Work": 77,
+    "Reference & Learning": 58,
+    "Utilities": 54,
+    "Uncategorized": 38,
+    "Business": 20,
+    "Design & Composition": 13
+  }
 }

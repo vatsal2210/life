@@ -1,55 +1,55 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 3767,
+    "Time Spent (seconds)": 3953,
     "Number of People": 1,
     "Category": "Editing & IDEs"
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 3277,
+    "Time Spent (seconds)": 3410,
     "Number of People": 1,
     "Category": "General Software Development"
   },
   {
     "Rank": 3,
-    "Time Spent (seconds)": 1492,
+    "Time Spent (seconds)": 1510,
     "Number of People": 1,
     "Category": "Email"
   },
   {
     "Rank": 4,
-    "Time Spent (seconds)": 892,
+    "Time Spent (seconds)": 1347,
     "Number of People": 1,
     "Category": "Uncategorized"
   },
   {
     "Rank": 5,
-    "Time Spent (seconds)": 692,
+    "Time Spent (seconds)": 729,
     "Number of People": 1,
     "Category": "Communications"
   },
   {
     "Rank": 6,
+    "Time Spent (seconds)": 291,
+    "Number of People": 1,
+    "Category": "Data Modeling & Analysis"
+  },
+  {
+    "Rank": 7,
     "Time Spent (seconds)": 272,
     "Number of People": 1,
     "Category": "Systems Operations"
   },
   {
-    "Rank": 7,
+    "Rank": 8,
     "Time Spent (seconds)": 177,
     "Number of People": 1,
     "Category": "Video"
   },
   {
-    "Rank": 8,
-    "Time Spent (seconds)": 157,
-    "Number of People": 1,
-    "Category": "Data Modeling & Analysis"
-  },
-  {
     "Rank": 9,
-    "Time Spent (seconds)": 116,
+    "Time Spent (seconds)": 127,
     "Number of People": 1,
     "Category": "General Utilities"
   },

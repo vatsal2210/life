@@ -70,15 +70,15 @@
     "Anti-Virus & Spyware": 2
   },
   "2022-02-10": {
-    "Editing & IDEs": 3767,
-    "General Software Development": 3277,
-    "Email": 1492,
-    "Uncategorized": 892,
-    "Communications": 692,
+    "Editing & IDEs": 3953,
+    "General Software Development": 3410,
+    "Email": 1510,
+    "Uncategorized": 1347,
+    "Communications": 729,
+    "Data Modeling & Analysis": 291,
     "Systems Operations": 272,
     "Video": 177,
-    "Data Modeling & Analysis": 157,
-    "General Utilities": 116,
+    "General Utilities": 127,
     "Search": 92,
     "Engineering & Technology": 85,
     "Browsers": 77,
@@ -94,5 +94,18 @@
     "Writing": 2
   },
   "2022-02-11": {},
-  "2022-02-12": {}
+  "2022-02-12": {
+    "Editing & IDEs": 1645,
+    "Email": 351,
+    "General Software Development": 176,
+    "Professional Networking": 90,
+    "Communications": 77,
+    "Search": 58,
+    "Uncategorized": 38,
+    "Browsers": 34,
+    "Project Management": 20,
+    "General Utilities": 15,
+    "Writing": 13,
+    "Internet Utilities": 5
+  }
 }
