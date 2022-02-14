@@ -250,7 +250,7 @@
         "digital": "0:02:30",
         "hours": 0,
         "minutes": 2,
-        "name": "officegen",
+        "name": "path",
         "percent": 0.69,
         "seconds": 30,
         "text": "2 mins",
@@ -261,7 +261,7 @@
         "digital": "0:02:30",
         "hours": 0,
         "minutes": 2,
-        "name": "path",
+        "name": "officegen",
         "percent": 0.69,
         "seconds": 30,
         "text": "2 mins",
@@ -456,7 +456,7 @@
       "date": "2022-02-12",
       "end": "2022-02-13T04:59:59Z",
       "start": "2022-02-12T05:00:00Z",
-      "text": "Today",
+      "text": "Yesterday",
       "timezone": "America/Toronto"
     }
   }
