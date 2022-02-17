@@ -25,7 +25,16 @@
     "News & Opinion": 27,
     "Shopping": 19
   },
-  "2022-02-16": {},
+  "2022-02-16": {
+    "Software Development": 6081,
+    "Communication & Scheduling": 2490,
+    "Uncategorized": 1730,
+    "Other Work": 1131,
+    "Utilities": 710,
+    "Business": 390,
+    "Reference & Learning": 123,
+    "Design & Composition": 2
+  },
   "2022-02-17": {},
   "2022-02-18": {},
   "2022-02-19": {}
