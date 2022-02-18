@@ -129,8 +129,23 @@
     "Reference & Learning": 123,
     "Design & Composition": 2
   },
-  "17": {},
-  "18": {},
+  "17": {
+    "Software Development": 13284,
+    "Communication & Scheduling": 4421,
+    "Design & Composition": 1736,
+    "Other Work": 1080,
+    "Uncategorized": 961,
+    "Business": 844,
+    "Reference & Learning": 743,
+    "Utilities": 456,
+    "Social Networking": 156
+  },
+  "18": {
+    "Software Development": 476,
+    "Uncategorized": 300,
+    "Design & Composition": 28,
+    "Utilities": 11
+  },
   "19": {},
   "20": {},
   "21": {},
