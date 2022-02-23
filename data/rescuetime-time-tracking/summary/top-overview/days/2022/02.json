@@ -153,8 +153,22 @@
   "19": {},
   "20": {},
   "21": {},
-  "22": {},
-  "23": {},
+  "22": {
+    "Software Development": 8818,
+    "Communication & Scheduling": 2647,
+    "Utilities": 1691,
+    "Other Work": 974,
+    "Uncategorized": 935,
+    "Reference & Learning": 471,
+    "Business": 245,
+    "Entertainment": 205,
+    "News & Opinion": 29,
+    "Shopping": 25
+  },
+  "23": {
+    "Software Development": 34,
+    "Communication & Scheduling": 7
+  },
   "24": {},
   "25": {},
   "26": {},
