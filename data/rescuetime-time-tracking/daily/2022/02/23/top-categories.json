@@ -1,20 +1,98 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 23,
-    "Number of People": 1,
-    "Category": "Editing & IDEs"
-  },
-  {
-    "Rank": 2,
-    "Time Spent (seconds)": 11,
+    "Time Spent (seconds)": 3144,
     "Number of People": 1,
     "Category": "General Software Development"
   },
   {
+    "Rank": 2,
+    "Time Spent (seconds)": 2213,
+    "Number of People": 1,
+    "Category": "Editing & IDEs"
+  },
+  {
     "Rank": 3,
-    "Time Spent (seconds)": 7,
+    "Time Spent (seconds)": 1653,
+    "Number of People": 1,
+    "Category": "Engineering & Technology"
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 1541,
+    "Number of People": 1,
+    "Category": "Data Modeling & Analysis"
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 938,
+    "Number of People": 1,
+    "Category": "Communications"
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 738,
+    "Number of People": 1,
+    "Category": "Uncategorized"
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 505,
+    "Number of People": 1,
+    "Category": "Meetings"
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 298,
     "Number of People": 1,
     "Category": "Email"
+  },
+  {
+    "Rank": 9,
+    "Time Spent (seconds)": 239,
+    "Number of People": 1,
+    "Category": "General Utilities"
+  },
+  {
+    "Rank": 10,
+    "Time Spent (seconds)": 201,
+    "Number of People": 1,
+    "Category": "General Business"
+  },
+  {
+    "Rank": 11,
+    "Time Spent (seconds)": 117,
+    "Number of People": 1,
+    "Category": "Writing"
+  },
+  {
+    "Rank": 12,
+    "Time Spent (seconds)": 87,
+    "Number of People": 1,
+    "Category": "Search"
+  },
+  {
+    "Rank": 13,
+    "Time Spent (seconds)": 58,
+    "Number of People": 1,
+    "Category": "Browsers"
+  },
+  {
+    "Rank": 14,
+    "Time Spent (seconds)": 15,
+    "Number of People": 1,
+    "Category": "Music"
+  },
+  {
+    "Rank": 15,
+    "Time Spent (seconds)": 3,
+    "Number of People": 1,
+    "Category": "Intelligence"
+  },
+  {
+    "Rank": 16,
+    "Time Spent (seconds)": 3,
+    "Number of People": 1,
+    "Category": "Systems Operations"
   }
 ]
