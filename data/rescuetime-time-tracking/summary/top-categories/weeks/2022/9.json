@@ -45,7 +45,26 @@
     "Intelligence": 3,
     "Systems Operations": 3
   },
-  "2022-02-24": {},
+  "2022-02-24": {
+    "Meetings": 1496,
+    "Writing": 1181,
+    "Search": 662,
+    "Email": 485,
+    "Data Modeling & Analysis": 339,
+    "Uncategorized": 168,
+    "Communications": 130,
+    "Editing & IDEs": 120,
+    "General Utilities": 94,
+    "General Business": 86,
+    "General Software Development": 67,
+    "General News & Opinion": 56,
+    "Browsers": 56,
+    "Other": 37,
+    "Systems Operations": 28,
+    "Engineering & Technology": 24,
+    "Project Management": 7,
+    "Intelligence": 4
+  },
   "2022-02-25": {},
   "2022-02-26": {}
 }
