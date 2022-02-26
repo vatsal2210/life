@@ -7,7 +7,7 @@
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 1181,
+    "Time Spent (seconds)": 1184,
     "Number of People": 1,
     "Category": "Writing"
   },
@@ -31,25 +31,25 @@
   },
   {
     "Rank": 6,
-    "Time Spent (seconds)": 168,
+    "Time Spent (seconds)": 208,
     "Number of People": 1,
     "Category": "Uncategorized"
   },
   {
     "Rank": 7,
-    "Time Spent (seconds)": 130,
+    "Time Spent (seconds)": 148,
     "Number of People": 1,
     "Category": "Communications"
   },
   {
     "Rank": 8,
-    "Time Spent (seconds)": 120,
+    "Time Spent (seconds)": 133,
     "Number of People": 1,
     "Category": "Editing & IDEs"
   },
   {
     "Rank": 9,
-    "Time Spent (seconds)": 94,
+    "Time Spent (seconds)": 132,
     "Number of People": 1,
     "Category": "General Utilities"
   },
@@ -79,7 +79,7 @@
   },
   {
     "Rank": 14,
-    "Time Spent (seconds)": 37,
+    "Time Spent (seconds)": 40,
     "Number of People": 1,
     "Category": "Other"
   },
@@ -97,12 +97,18 @@
   },
   {
     "Rank": 17,
+    "Time Spent (seconds)": 22,
+    "Number of People": 1,
+    "Category": "Graphic Design"
+  },
+  {
+    "Rank": 18,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
     "Category": "Project Management"
   },
   {
-    "Rank": 18,
+    "Rank": 19,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
     "Category": "Intelligence"
