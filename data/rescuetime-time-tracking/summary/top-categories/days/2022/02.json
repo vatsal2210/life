@@ -353,8 +353,8 @@
     "Search": 87,
     "Browsers": 58,
     "Music": 15,
-    "Systems Operations": 3,
-    "Intelligence": 3
+    "Intelligence": 3,
+    "Systems Operations": 3
   },
   "24": {
     "Meetings": 1496,
@@ -408,19 +408,23 @@
     "Anti-Virus & Spyware": 2
   },
   "26": {
-    "General Software Development": 780,
-    "General Reference & Learning": 743,
-    "Uncategorized": 187,
+    "General Software Development": 998,
+    "Editing & IDEs": 878,
+    "General Reference & Learning": 833,
+    "Uncategorized": 363,
+    "Browsers": 198,
     "General News & Opinion": 179,
-    "Search": 134,
-    "Browsers": 93,
+    "General Utilities": 161,
+    "Search": 140,
+    "Systems Operations": 120,
+    "Engineering & Technology": 118,
     "Professional Networking": 76,
     "Operations": 60,
+    "Other": 55,
     "Communications": 36,
-    "General Utilities": 33,
     "Internet Utilities": 31,
-    "Engineering & Technology": 10,
-    "Marketing": 9
+    "Marketing": 9,
+    "Data Modeling & Analysis": 7
   },
   "27": {}
 }
