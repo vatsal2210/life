@@ -13,7 +13,7 @@
   },
   {
     "Rank": 3,
-    "Time Spent (seconds)": 821,
+    "Time Spent (seconds)": 828,
     "Number of People": 1,
     "Category": "Uncategorized"
   },
@@ -25,33 +25,33 @@
   },
   {
     "Rank": 5,
-    "Time Spent (seconds)": 693,
+    "Time Spent (seconds)": 719,
     "Number of People": 1,
     "Category": "Data Modeling & Analysis"
   },
   {
     "Rank": 6,
-    "Time Spent (seconds)": 463,
+    "Time Spent (seconds)": 548,
     "Number of People": 1,
     "Category": "Communications"
   },
   {
     "Rank": 7,
-    "Time Spent (seconds)": 310,
+    "Time Spent (seconds)": 402,
     "Number of People": 1,
     "Category": "Email"
   },
   {
     "Rank": 8,
-    "Time Spent (seconds)": 269,
+    "Time Spent (seconds)": 391,
     "Number of People": 1,
-    "Category": "Intelligence"
+    "Category": "General Business"
   },
   {
     "Rank": 9,
-    "Time Spent (seconds)": 229,
+    "Time Spent (seconds)": 269,
     "Number of People": 1,
-    "Category": "General Business"
+    "Category": "Intelligence"
   },
   {
     "Rank": 10,
@@ -67,7 +67,7 @@
   },
   {
     "Rank": 12,
-    "Time Spent (seconds)": 71,
+    "Time Spent (seconds)": 89,
     "Number of People": 1,
     "Category": "Browsers"
   },
@@ -79,31 +79,37 @@
   },
   {
     "Rank": 14,
-    "Time Spent (seconds)": 57,
+    "Time Spent (seconds)": 62,
     "Number of People": 1,
     "Category": "Search"
   },
   {
     "Rank": 15,
+    "Time Spent (seconds)": 53,
+    "Number of People": 1,
+    "Category": "Professional Networking"
+  },
+  {
+    "Rank": 16,
     "Time Spent (seconds)": 43,
     "Number of People": 1,
     "Category": "Calendars"
   },
   {
-    "Rank": 16,
-    "Time Spent (seconds)": 29,
+    "Rank": 17,
+    "Time Spent (seconds)": 10,
     "Number of People": 1,
-    "Category": "Professional Networking"
+    "Category": "Instant Message"
   },
   {
-    "Rank": 17,
+    "Rank": 18,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
     "Category": "General Software Development"
   },
   {
-    "Rank": 18,
-    "Time Spent (seconds)": 3,
+    "Rank": 19,
+    "Time Spent (seconds)": 6,
     "Number of People": 1,
     "Category": "Internet Utilities"
   }
