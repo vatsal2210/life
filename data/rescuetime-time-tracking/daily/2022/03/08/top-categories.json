@@ -1,110 +1,164 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 1140,
+    "Time Spent (seconds)": 8923,
     "Number of People": 1,
-    "Category": "Uncategorized"
+    "Category": "Editing & IDEs"
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 223,
+    "Time Spent (seconds)": 3778,
     "Number of People": 1,
     "Category": "General Software Development"
   },
   {
     "Rank": 3,
-    "Time Spent (seconds)": 182,
+    "Time Spent (seconds)": 3363,
+    "Number of People": 1,
+    "Category": "Uncategorized"
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 1436,
+    "Number of People": 1,
+    "Category": "Meetings"
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 929,
+    "Number of People": 1,
+    "Category": "Communications"
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 335,
+    "Number of People": 1,
+    "Category": "Email"
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 334,
+    "Number of People": 1,
+    "Category": "General Utilities"
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 308,
     "Number of People": 1,
     "Category": "Search"
   },
   {
-    "Rank": 4,
+    "Rank": 9,
+    "Time Spent (seconds)": 294,
+    "Number of People": 1,
+    "Category": "Other"
+  },
+  {
+    "Rank": 10,
+    "Time Spent (seconds)": 252,
+    "Number of People": 1,
+    "Category": "Browsers"
+  },
+  {
+    "Rank": 11,
+    "Time Spent (seconds)": 222,
+    "Number of People": 1,
+    "Category": "Data Modeling & Analysis"
+  },
+  {
+    "Rank": 12,
     "Time Spent (seconds)": 181,
     "Number of People": 1,
     "Category": "Professional Networking"
   },
   {
-    "Rank": 5,
+    "Rank": 13,
     "Time Spent (seconds)": 149,
     "Number of People": 1,
     "Category": "General News & Opinion"
   },
   {
-    "Rank": 6,
+    "Rank": 14,
+    "Time Spent (seconds)": 142,
+    "Number of People": 1,
+    "Category": "General Business"
+  },
+  {
+    "Rank": 15,
     "Time Spent (seconds)": 114,
     "Number of People": 1,
     "Category": "Project Management"
   },
   {
-    "Rank": 7,
+    "Rank": 16,
+    "Time Spent (seconds)": 102,
+    "Number of People": 1,
+    "Category": "Video"
+  },
+  {
+    "Rank": 17,
     "Time Spent (seconds)": 77,
     "Number of People": 1,
     "Category": "General Reference & Learning"
   },
   {
-    "Rank": 8,
+    "Rank": 18,
     "Time Spent (seconds)": 74,
     "Number of People": 1,
     "Category": "Photos"
   },
   {
-    "Rank": 9,
-    "Time Spent (seconds)": 42,
+    "Rank": 19,
+    "Time Spent (seconds)": 50,
     "Number of People": 1,
     "Category": "General Communication & Scheduling"
   },
   {
-    "Rank": 10,
-    "Time Spent (seconds)": 33,
+    "Rank": 20,
+    "Time Spent (seconds)": 30,
     "Number of People": 1,
-    "Category": "Communications"
+    "Category": "Intelligence"
   },
   {
-    "Rank": 11,
-    "Time Spent (seconds)": 25,
-    "Number of People": 1,
-    "Category": "Browsers"
-  },
-  {
-    "Rank": 12,
+    "Rank": 21,
     "Time Spent (seconds)": 20,
     "Number of People": 1,
     "Category": "Marketing"
   },
   {
-    "Rank": 13,
+    "Rank": 22,
     "Time Spent (seconds)": 15,
     "Number of People": 1,
     "Category": "Internet Utilities"
   },
   {
-    "Rank": 14,
+    "Rank": 23,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
     "Category": "Operations"
   },
   {
-    "Rank": 15,
-    "Time Spent (seconds)": 6,
+    "Rank": 24,
+    "Time Spent (seconds)": 4,
     "Number of People": 1,
-    "Category": "General Business"
+    "Category": "General Entertainment"
   },
   {
-    "Rank": 16,
-    "Time Spent (seconds)": 3,
-    "Number of People": 1,
-    "Category": "General Utilities"
-  },
-  {
-    "Rank": 17,
+    "Rank": 25,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
     "Category": "Engineering & Technology"
   },
   {
-    "Rank": 18,
+    "Rank": 26,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Category": "General Social Networking"
+  },
+  {
+    "Rank": 27,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Category": "Anti-Virus & Spyware"
   }
 ]
