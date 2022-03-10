@@ -26,13 +26,30 @@
     "News & Opinion": 149
   },
   "2022-03-9": {
-    "Software Development": 2371,
-    "Other Work": 197,
-    "Reference & Learning": 48,
-    "Uncategorized": 39,
-    "Utilities": 29
+    "Software Development": 10792,
+    "Communication & Scheduling": 6275,
+    "Other Work": 1281,
+    "Uncategorized": 853,
+    "Business": 801,
+    "Reference & Learning": 648,
+    "Utilities": 494,
+    "Design & Composition": 48,
+    "Entertainment": 33,
+    "Social Networking": 29,
+    "News & Opinion": 7
   },
-  "2022-03-10": {},
+  "2022-03-10": {
+    "Software Development": 2497,
+    "Business": 1577,
+    "Design & Composition": 710,
+    "Other Work": 647,
+    "Communication & Scheduling": 634,
+    "Uncategorized": 549,
+    "Utilities": 350,
+    "Reference & Learning": 252,
+    "Shopping": 29,
+    "News & Opinion": 3
+  },
   "2022-03-11": {},
   "2022-03-12": {}
 }
