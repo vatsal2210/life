@@ -110,7 +110,17 @@
     "Shopping": 29,
     "News & Opinion": 9
   },
-  "11": {},
+  "11": {
+    "Software Development": 3353,
+    "Utilities": 2304,
+    "Communication & Scheduling": 1541,
+    "Other Work": 638,
+    "Uncategorized": 378,
+    "Design & Composition": 104,
+    "Business": 88,
+    "Reference & Learning": 76,
+    "Social Networking": 24
+  },
   "12": {},
   "13": {},
   "14": {},
