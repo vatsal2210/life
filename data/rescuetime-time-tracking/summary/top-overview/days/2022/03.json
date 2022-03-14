@@ -122,16 +122,22 @@
     "Social Networking": 24
   },
   "12": {
-    "Software Development": 2030,
-    "Utilities": 1051,
+    "Software Development": 2630,
+    "Utilities": 1072,
     "Design & Composition": 335,
     "Other Work": 152,
-    "Uncategorized": 66,
+    "Uncategorized": 143,
+    "Business": 61,
     "Communication & Scheduling": 40,
-    "Business": 33,
     "Reference & Learning": 22
   },
-  "13": {},
+  "13": {
+    "Software Development": 1364,
+    "Utilities": 972,
+    "Reference & Learning": 274,
+    "Uncategorized": 138,
+    "News & Opinion": 13
+  },
   "14": {},
   "15": {},
   "16": {},

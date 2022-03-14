@@ -138,17 +138,18 @@
     "General Reference & Learning": 3
   },
   "2022-03-12": {
-    "Editing & IDEs": 932,
-    "General Software Development": 858,
-    "Browsers": 822,
+    "Editing & IDEs": 1266,
+    "General Software Development": 1097,
+    "Browsers": 826,
     "Presentation": 335,
-    "Data Modeling & Analysis": 240,
-    "General Utilities": 227,
+    "Data Modeling & Analysis": 267,
+    "General Utilities": 240,
     "Communications": 152,
-    "Uncategorized": 66,
+    "Uncategorized": 143,
+    "Project Management": 59,
     "Email": 40,
-    "Project Management": 31,
     "Search": 22,
+    "Other": 4,
     "Anti-Virus & Spyware": 2,
     "Intelligence": 2
   }
