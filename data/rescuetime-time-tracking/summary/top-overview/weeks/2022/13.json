@@ -67,12 +67,14 @@
     "News & Opinion": 21
   },
   "2022-03-26": {
+    "Shopping": 1384,
     "Software Development": 330,
-    "Communication & Scheduling": 210,
+    "Reference & Learning": 250,
+    "Communication & Scheduling": 242,
+    "Utilities": 163,
     "Design & Composition": 140,
-    "Other Work": 128,
-    "Uncategorized": 95,
-    "Utilities": 5,
-    "Reference & Learning": 4
+    "Other Work": 132,
+    "Uncategorized": 102,
+    "Business": 2
   }
 }

@@ -153,13 +153,20 @@
     "Instant Message": 4
   },
   "2022-03-26": {
+    "General Shopping": 1384,
     "General Software Development": 330,
-    "Email": 197,
+    "Engineering & Technology": 223,
+    "Email": 202,
     "Writing": 140,
-    "Communications": 128,
-    "Uncategorized": 95,
+    "Communications": 132,
+    "General Utilities": 124,
+    "Uncategorized": 102,
+    "Browsers": 37,
+    "Instant Message": 27,
+    "Search": 16,
     "Calendars": 13,
-    "Browsers": 5,
-    "Search": 4
+    "General Reference & Learning": 11,
+    "Intelligence": 2,
+    "Internet Utilities": 2
   }
 }
