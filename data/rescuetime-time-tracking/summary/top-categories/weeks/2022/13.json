@@ -145,8 +145,8 @@
     "General Social Networking": 39,
     "Project Management": 37,
     "Systems Operations": 32,
-    "General News & Opinion": 21,
     "Internet Utilities": 21,
+    "General News & Opinion": 21,
     "Games": 12,
     "General Communication & Scheduling": 8,
     "Operations": 6,
@@ -166,7 +166,7 @@
     "Search": 16,
     "Calendars": 13,
     "General Reference & Learning": 11,
-    "Internet Utilities": 2,
-    "Intelligence": 2
+    "Intelligence": 2,
+    "Internet Utilities": 2
   }
 }
