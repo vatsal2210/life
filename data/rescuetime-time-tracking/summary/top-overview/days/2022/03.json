@@ -316,13 +316,18 @@
     "Entertainment": 70
   },
   "29": {
-    "Software Development": 3610,
-    "Entertainment": 300,
-    "Other Work": 171,
-    "Communication & Scheduling": 71,
-    "Utilities": 51,
-    "Reference & Learning": 7,
-    "Uncategorized": 7
+    "Software Development": 20087,
+    "Reference & Learning": 3697,
+    "Communication & Scheduling": 2026,
+    "Entertainment": 1689,
+    "Business": 1250,
+    "Other Work": 1013,
+    "Uncategorized": 938,
+    "Utilities": 693,
+    "Design & Composition": 572,
+    "Social Networking": 305,
+    "Shopping": 160,
+    "News & Opinion": 47
   },
   "30": {}
 }
