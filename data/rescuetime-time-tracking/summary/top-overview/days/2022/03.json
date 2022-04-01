@@ -343,10 +343,16 @@
     "News & Opinion": 283
   },
   "31": {
-    "Communication & Scheduling": 4684,
-    "Other Work": 604,
-    "Design & Composition": 496,
-    "Utilities": 99,
-    "Uncategorized": 3
+    "Communication & Scheduling": 7723,
+    "Software Development": 4721,
+    "Reference & Learning": 3832,
+    "Uncategorized": 3420,
+    "Other Work": 1510,
+    "Utilities": 1113,
+    "Business": 843,
+    "Design & Composition": 661,
+    "Entertainment": 145,
+    "News & Opinion": 134,
+    "Social Networking": 72
   }
 }

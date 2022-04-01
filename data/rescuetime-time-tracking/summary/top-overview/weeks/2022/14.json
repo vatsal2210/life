@@ -52,10 +52,28 @@
     "News & Opinion": 283
   },
   "2022-03-31": {
-    "Communication & Scheduling": 4684,
-    "Other Work": 604,
-    "Design & Composition": 496,
-    "Utilities": 99,
-    "Uncategorized": 3
-  }
+    "Communication & Scheduling": 7723,
+    "Software Development": 4721,
+    "Reference & Learning": 3832,
+    "Uncategorized": 3420,
+    "Other Work": 1510,
+    "Utilities": 1113,
+    "Business": 843,
+    "Design & Composition": 661,
+    "Entertainment": 145,
+    "News & Opinion": 134,
+    "Social Networking": 72
+  },
+  "2022-04-1": {
+    "Software Development": 2182,
+    "Other Work": 752,
+    "Communication & Scheduling": 274,
+    "Uncategorized": 170,
+    "Reference & Learning": 169,
+    "Entertainment": 133,
+    "Utilities": 80,
+    "Business": 28,
+    "Design & Composition": 3
+  },
+  "2022-04-2": {}
 }
