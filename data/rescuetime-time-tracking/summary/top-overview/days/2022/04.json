@@ -38,8 +38,8 @@
     "Software Development": 13999,
     "Communication & Scheduling": 5800,
     "Business": 3033,
-    "Uncategorized": 2418,
     "Other Work": 2418,
+    "Uncategorized": 2418,
     "Entertainment": 1041,
     "Shopping": 1038,
     "Utilities": 947,
@@ -49,9 +49,18 @@
     "Social Networking": 5
   },
   "8": {
-    "Other Work": 209,
-    "Social Networking": 68,
-    "Utilities": 6
+    "Software Development": 10226,
+    "Business": 5353,
+    "Communication & Scheduling": 4718,
+    "Other Work": 3569,
+    "Entertainment": 1647,
+    "Uncategorized": 1425,
+    "Utilities": 965,
+    "Reference & Learning": 466,
+    "Social Networking": 274,
+    "Shopping": 60,
+    "Design & Composition": 45,
+    "News & Opinion": 39
   },
   "9": {},
   "10": {},
