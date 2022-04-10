@@ -66,25 +66,25 @@
     "Entertainment": 14
   },
   "2022": {
-    "Writing": 29131,
+    "Writing": 29157,
     "Operations": 3316,
     "Uncategorized": 112471,
     "Professional Networking": 13947,
-    "Email": 67431,
+    "Email": 67502,
     "Other": 15823,
     "Project Management": 11964,
-    "Instant Message": 14880,
-    "General Reference & Learning": 8599,
-    "Search": 34765,
+    "Instant Message": 15234,
+    "General Reference & Learning": 8652,
+    "Search": 34792,
     "Calendars": 5046,
-    "General Business": 47029,
-    "Browsers": 22977,
-    "General Utilities": 43454,
-    "Internet Utilities": 7195,
+    "General Business": 50362,
+    "Browsers": 23192,
+    "General Utilities": 44579,
+    "Internet Utilities": 7202,
     "Games": 211,
     "General Communication & Scheduling": 1735,
     "Intelligence": 12833,
-    "Presentation": 906,
+    "Presentation": 918,
     "General Software Development": 226618,
     "General News & Opinion": 7604,
     "General Social Networking": 4914,
@@ -119,6 +119,6 @@
     "Engineering & Drafting": 10,
     "Employment": 15,
     "Quality Assurance": 45,
-    "Administration": 46
+    "Administration": 108
   }
 }
