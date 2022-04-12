@@ -92,16 +92,21 @@
     "Intelligence": 3
   },
   "2022-04-9": {
-    "General Business": 3333,
-    "General Utilities": 1125,
-    "Instant Message": 214,
+    "General Business": 3625,
+    "General Utilities": 1593,
+    "Instant Message": 223,
+    "General Software Development": 88,
     "Email": 71,
+    "Uncategorized": 66,
     "Administration": 62,
-    "General Reference & Learning": 53,
-    "Browsers": 32,
-    "Search": 27,
-    "Writing": 26,
+    "General Reference & Learning": 59,
+    "Browsers": 36,
+    "Search": 32,
+    "Writing": 30,
+    "Communications": 16,
+    "Video": 14,
     "Presentation": 12,
-    "Internet Utilities": 7
+    "Internet Utilities": 7,
+    "General Design & Composition": 6
   }
 }

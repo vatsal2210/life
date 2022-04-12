@@ -65,5 +65,15 @@
     "score_sleep_balance": 46,
     "score_temperature": 92
   },
-  "2022-04-9": {}
+  "2022-04-9": {
+    "score": 79,
+    "score_activity_balance": 70,
+    "score_hrv_balance": 76,
+    "score_previous_day": 100,
+    "score_previous_night": 85,
+    "score_recovery_index": 100,
+    "score_resting_hr": 92,
+    "score_sleep_balance": 58,
+    "score_temperature": 100
+  }
 }

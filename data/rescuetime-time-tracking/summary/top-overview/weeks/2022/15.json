@@ -48,10 +48,14 @@
     "News & Opinion": 39
   },
   "2022-04-9": {
-    "Business": 3395,
-    "Utilities": 1164,
-    "Communication & Scheduling": 285,
-    "Reference & Learning": 80,
-    "Design & Composition": 38
+    "Business": 3687,
+    "Utilities": 1636,
+    "Communication & Scheduling": 294,
+    "Reference & Learning": 91,
+    "Software Development": 88,
+    "Uncategorized": 66,
+    "Design & Composition": 48,
+    "Other Work": 16,
+    "Entertainment": 14
   }
 }

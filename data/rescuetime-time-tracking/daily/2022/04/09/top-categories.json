@@ -1,68 +1,98 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 3333,
+    "Time Spent (seconds)": 3625,
     "Number of People": 1,
     "Category": "General Business"
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 1125,
+    "Time Spent (seconds)": 1593,
     "Number of People": 1,
     "Category": "General Utilities"
   },
   {
     "Rank": 3,
-    "Time Spent (seconds)": 214,
+    "Time Spent (seconds)": 223,
     "Number of People": 1,
     "Category": "Instant Message"
   },
   {
     "Rank": 4,
+    "Time Spent (seconds)": 88,
+    "Number of People": 1,
+    "Category": "General Software Development"
+  },
+  {
+    "Rank": 5,
     "Time Spent (seconds)": 71,
     "Number of People": 1,
     "Category": "Email"
   },
   {
-    "Rank": 5,
+    "Rank": 6,
+    "Time Spent (seconds)": 66,
+    "Number of People": 1,
+    "Category": "Uncategorized"
+  },
+  {
+    "Rank": 7,
     "Time Spent (seconds)": 62,
     "Number of People": 1,
     "Category": "Administration"
   },
   {
-    "Rank": 6,
-    "Time Spent (seconds)": 53,
+    "Rank": 8,
+    "Time Spent (seconds)": 59,
     "Number of People": 1,
     "Category": "General Reference & Learning"
   },
   {
-    "Rank": 7,
-    "Time Spent (seconds)": 32,
+    "Rank": 9,
+    "Time Spent (seconds)": 36,
     "Number of People": 1,
     "Category": "Browsers"
   },
   {
-    "Rank": 8,
-    "Time Spent (seconds)": 27,
+    "Rank": 10,
+    "Time Spent (seconds)": 32,
     "Number of People": 1,
     "Category": "Search"
   },
   {
-    "Rank": 9,
-    "Time Spent (seconds)": 26,
+    "Rank": 11,
+    "Time Spent (seconds)": 30,
     "Number of People": 1,
     "Category": "Writing"
   },
   {
-    "Rank": 10,
+    "Rank": 12,
+    "Time Spent (seconds)": 16,
+    "Number of People": 1,
+    "Category": "Communications"
+  },
+  {
+    "Rank": 13,
+    "Time Spent (seconds)": 14,
+    "Number of People": 1,
+    "Category": "Video"
+  },
+  {
+    "Rank": 14,
     "Time Spent (seconds)": 12,
     "Number of People": 1,
     "Category": "Presentation"
   },
   {
-    "Rank": 11,
+    "Rank": 15,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
     "Category": "Internet Utilities"
+  },
+  {
+    "Rank": 16,
+    "Time Spent (seconds)": 6,
+    "Number of People": 1,
+    "Category": "General Design & Composition"
   }
 ]
