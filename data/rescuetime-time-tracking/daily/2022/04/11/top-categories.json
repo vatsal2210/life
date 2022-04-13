@@ -1,19 +1,19 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 4384,
-    "Number of People": 1,
-    "Category": "Editing & IDEs"
-  },
-  {
-    "Rank": 2,
-    "Time Spent (seconds)": 4292,
+    "Time Spent (seconds)": 4593,
     "Number of People": 1,
     "Category": "General Software Development"
   },
   {
+    "Rank": 2,
+    "Time Spent (seconds)": 4400,
+    "Number of People": 1,
+    "Category": "Editing & IDEs"
+  },
+  {
     "Rank": 3,
-    "Time Spent (seconds)": 2956,
+    "Time Spent (seconds)": 3466,
     "Number of People": 1,
     "Category": "Uncategorized"
   },
@@ -31,7 +31,7 @@
   },
   {
     "Rank": 6,
-    "Time Spent (seconds)": 1386,
+    "Time Spent (seconds)": 1745,
     "Number of People": 1,
     "Category": "Communications"
   },
@@ -49,7 +49,7 @@
   },
   {
     "Rank": 9,
-    "Time Spent (seconds)": 498,
+    "Time Spent (seconds)": 512,
     "Number of People": 1,
     "Category": "General Utilities"
   },
@@ -67,13 +67,13 @@
   },
   {
     "Rank": 12,
-    "Time Spent (seconds)": 237,
+    "Time Spent (seconds)": 240,
     "Number of People": 1,
     "Category": "Data Modeling & Analysis"
   },
   {
     "Rank": 13,
-    "Time Spent (seconds)": 228,
+    "Time Spent (seconds)": 239,
     "Number of People": 1,
     "Category": "Browsers"
   },
@@ -85,7 +85,7 @@
   },
   {
     "Rank": 15,
-    "Time Spent (seconds)": 132,
+    "Time Spent (seconds)": 135,
     "Number of People": 1,
     "Category": "Search"
   },
@@ -99,13 +99,13 @@
     "Rank": 17,
     "Time Spent (seconds)": 28,
     "Number of People": 1,
-    "Category": "Engineering & Technology"
+    "Category": "Project Management"
   },
   {
     "Rank": 18,
     "Time Spent (seconds)": 28,
     "Number of People": 1,
-    "Category": "Project Management"
+    "Category": "Engineering & Technology"
   },
   {
     "Rank": 19,
