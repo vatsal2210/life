@@ -57,7 +57,16 @@
     "duration": 29460,
     "efficiency": 80,
     "light": 12930,
-    "score": 62
+    "score": 78
   },
-  "2022-04-23": {}
+  "2022-04-23": {
+    "total": 21270,
+    "rem": 2010,
+    "awake": 4050,
+    "deep": 8670,
+    "duration": 25320,
+    "efficiency": 84,
+    "light": 10590,
+    "score": 68
+  }
 }
