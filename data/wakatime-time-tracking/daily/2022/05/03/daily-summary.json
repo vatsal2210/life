@@ -1,25 +1,242 @@
 [
   {
-    "categories": [],
-    "dependencies": [],
-    "editors": [],
+    "categories": [
+      {
+        "decimal": "0.15",
+        "digital": "0:09:14",
+        "hours": 0,
+        "minutes": 9,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 14,
+        "text": "9 mins",
+        "total_seconds": 554.652923
+      }
+    ],
+    "dependencies": [
+      {
+        "decimal": "0.15",
+        "digital": "0:09:13",
+        "hours": 0,
+        "minutes": 9,
+        "name": "auth",
+        "percent": 10.61,
+        "seconds": 13,
+        "text": "9 mins",
+        "total_seconds": 553.623308
+      },
+      {
+        "decimal": "0.12",
+        "digital": "0:07:24",
+        "hours": 0,
+        "minutes": 7,
+        "name": "amplitude.service",
+        "percent": 8.52,
+        "seconds": 24,
+        "text": "7 mins",
+        "total_seconds": 444.683792
+      },
+      {
+        "decimal": "0.12",
+        "digital": "0:07:24",
+        "hours": 0,
+        "minutes": 7,
+        "name": "reducers",
+        "percent": 8.52,
+        "seconds": 24,
+        "text": "7 mins",
+        "total_seconds": 444.683792
+      },
+      {
+        "decimal": "0.12",
+        "digital": "0:07:24",
+        "hours": 0,
+        "minutes": 7,
+        "name": "ng-bootstrap",
+        "percent": 8.52,
+        "seconds": 24,
+        "text": "7 mins",
+        "total_seconds": 444.683792
+      },
+      {
+        "decimal": "0.12",
+        "digital": "0:07:24",
+        "hours": 0,
+        "minutes": 7,
+        "name": "core",
+        "percent": 8.52,
+        "seconds": 24,
+        "text": "7 mins",
+        "total_seconds": 444.683792
+      },
+      {
+        "decimal": "0.12",
+        "digital": "0:07:24",
+        "hours": 0,
+        "minutes": 7,
+        "name": "subscription",
+        "percent": 8.52,
+        "seconds": 24,
+        "text": "7 mins",
+        "total_seconds": 444.683792
+      },
+      {
+        "decimal": "0.12",
+        "digital": "0:07:24",
+        "hours": 0,
+        "minutes": 7,
+        "name": "lodash",
+        "percent": 8.52,
+        "seconds": 24,
+        "text": "7 mins",
+        "total_seconds": 444.683792
+      },
+      {
+        "decimal": "0.12",
+        "digital": "0:07:24",
+        "hours": 0,
+        "minutes": 7,
+        "name": "platform-browser",
+        "percent": 8.52,
+        "seconds": 24,
+        "text": "7 mins",
+        "total_seconds": 444.683792
+      },
+      {
+        "decimal": "0.12",
+        "digital": "0:07:24",
+        "hours": 0,
+        "minutes": 7,
+        "name": "services",
+        "percent": 8.52,
+        "seconds": 24,
+        "text": "7 mins",
+        "total_seconds": 444.683792
+      },
+      {
+        "decimal": "0.12",
+        "digital": "0:07:24",
+        "hours": 0,
+        "minutes": 7,
+        "name": "store",
+        "percent": 8.52,
+        "seconds": 24,
+        "text": "7 mins",
+        "total_seconds": 444.683792
+      },
+      {
+        "decimal": "0.12",
+        "digital": "0:07:24",
+        "hours": 0,
+        "minutes": 7,
+        "name": "pricing",
+        "percent": 8.52,
+        "seconds": 24,
+        "text": "7 mins",
+        "total_seconds": 444.683792
+      },
+      {
+        "decimal": "0.02",
+        "digital": "0:01:48",
+        "hours": 0,
+        "minutes": 1,
+        "name": "individualMediaShare",
+        "percent": 2.09,
+        "seconds": 48,
+        "text": "1 min",
+        "total_seconds": 108.939516
+      },
+      {
+        "decimal": "0.02",
+        "digital": "0:01:48",
+        "hours": 0,
+        "minutes": 1,
+        "name": "types",
+        "percent": 2.09,
+        "seconds": 48,
+        "text": "1 min",
+        "total_seconds": 108.939516
+      }
+    ],
+    "editors": [
+      {
+        "decimal": "0.15",
+        "digital": "0:09:14",
+        "hours": 0,
+        "minutes": 9,
+        "name": "VS Code",
+        "percent": 100,
+        "seconds": 14,
+        "text": "9 mins",
+        "total_seconds": 554.652923
+      }
+    ],
     "grand_total": {
-      "decimal": "0.00",
-      "digital": "0:00",
+      "decimal": "0.15",
+      "digital": "0:09",
       "hours": 0,
-      "minutes": 0,
-      "text": "0 secs",
-      "total_seconds": 0
+      "minutes": 9,
+      "text": "9 mins",
+      "total_seconds": 554.652923
     },
-    "languages": [],
-    "machines": [],
-    "operating_systems": [],
-    "projects": [],
+    "languages": [
+      {
+        "decimal": "0.15",
+        "digital": "0:09:14",
+        "hours": 0,
+        "minutes": 9,
+        "name": "TypeScript",
+        "percent": 100,
+        "seconds": 14,
+        "text": "9 mins",
+        "total_seconds": 554.652923
+      }
+    ],
+    "machines": [
+      {
+        "decimal": "0.15",
+        "digital": "0:09:14",
+        "hours": 0,
+        "machine_name_id": "ee4fafde-b0d5-408b-8175-33d11e7b81d2",
+        "minutes": 9,
+        "name": "Vatsal-Shah-MacBook-Pro.local",
+        "percent": 100,
+        "seconds": 14,
+        "text": "9 mins",
+        "total_seconds": 554.652923
+      }
+    ],
+    "operating_systems": [
+      {
+        "decimal": "0.15",
+        "digital": "0:09:14",
+        "hours": 0,
+        "minutes": 9,
+        "name": "Mac",
+        "percent": 100,
+        "seconds": 14,
+        "text": "9 mins",
+        "total_seconds": 554.652923
+      }
+    ],
+    "projects": [
+      {
+        "decimal": "0.15",
+        "digital": "0:09:14",
+        "hours": 0,
+        "minutes": 9,
+        "name": "speak-client",
+        "percent": 100,
+        "seconds": 14,
+        "text": "9 mins",
+        "total_seconds": 554.652923
+      }
+    ],
     "range": {
       "date": "2022-05-03",
       "end": "2022-05-04T03:59:59Z",
       "start": "2022-05-03T04:00:00Z",
-      "text": "Tomorrow",
+      "text": "Today",
       "timezone": "America/Toronto"
     }
   }
