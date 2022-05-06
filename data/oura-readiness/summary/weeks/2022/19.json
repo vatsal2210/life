@@ -22,7 +22,17 @@
     "score_temperature": 100
   },
   "2022-05-3": {},
-  "2022-05-4": {},
+  "2022-05-4": {
+    "score": 82,
+    "score_activity_balance": 51,
+    "score_hrv_balance": 100,
+    "score_previous_day": 84,
+    "score_previous_night": 90,
+    "score_recovery_index": 90,
+    "score_resting_hr": 77,
+    "score_sleep_balance": 66,
+    "score_temperature": 96
+  },
   "2022-05-5": {},
   "2022-05-6": {},
   "2022-05-7": {}
