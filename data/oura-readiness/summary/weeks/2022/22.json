@@ -1,7 +1,5 @@
-[
-  {
-    "summary_date": "2022-05-22",
-    "period_id": 0,
+{
+  "2022-05-22": {
     "score": 39,
     "score_activity_balance": 33,
     "score_hrv_balance": 56,
@@ -10,7 +8,12 @@
     "score_recovery_index": 39,
     "score_resting_hr": 69,
     "score_sleep_balance": 24,
-    "score_temperature": 100,
-    "rest_mode_state": 0
-  }
-]
+    "score_temperature": 100
+  },
+  "2022-05-23": {},
+  "2022-05-24": {},
+  "2022-05-25": {},
+  "2022-05-26": {},
+  "2022-05-27": {},
+  "2022-05-28": {}
+}
