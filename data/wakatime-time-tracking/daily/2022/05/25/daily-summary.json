@@ -1,25 +1,275 @@
 [
   {
-    "categories": [],
-    "dependencies": [],
-    "editors": [],
+    "categories": [
+      {
+        "decimal": "0.58",
+        "digital": "0:35:45",
+        "hours": 0,
+        "minutes": 35,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 45,
+        "text": "35 mins",
+        "total_seconds": 2145.478906
+      }
+    ],
+    "dependencies": [
+      {
+        "decimal": "0.08",
+        "digital": "0:05:03",
+        "hours": 0,
+        "minutes": 5,
+        "name": "amplitude.service",
+        "percent": 8.38,
+        "seconds": 3,
+        "text": "5 mins",
+        "total_seconds": 303.30897
+      },
+      {
+        "decimal": "0.08",
+        "digital": "0:05:03",
+        "hours": 0,
+        "minutes": 5,
+        "name": "services",
+        "percent": 8.38,
+        "seconds": 3,
+        "text": "5 mins",
+        "total_seconds": 303.30897
+      },
+      {
+        "decimal": "0.08",
+        "digital": "0:05:03",
+        "hours": 0,
+        "minutes": 5,
+        "name": "core",
+        "percent": 8.38,
+        "seconds": 3,
+        "text": "5 mins",
+        "total_seconds": 303.30897
+      },
+      {
+        "decimal": "0.08",
+        "digital": "0:05:03",
+        "hours": 0,
+        "minutes": 5,
+        "name": "types",
+        "percent": 8.38,
+        "seconds": 3,
+        "text": "5 mins",
+        "total_seconds": 303.30897
+      },
+      {
+        "decimal": "0.08",
+        "digital": "0:05:01",
+        "hours": 0,
+        "minutes": 5,
+        "name": "router",
+        "percent": 8.34,
+        "seconds": 1,
+        "text": "5 mins",
+        "total_seconds": 301.950605
+      },
+      {
+        "decimal": "0.07",
+        "digital": "0:04:59",
+        "hours": 0,
+        "minutes": 4,
+        "name": "user.model",
+        "percent": 8.28,
+        "seconds": 59,
+        "text": "4 mins",
+        "total_seconds": 299.648834
+      },
+      {
+        "decimal": "0.07",
+        "digital": "0:04:59",
+        "hours": 0,
+        "minutes": 4,
+        "name": "http",
+        "percent": 8.28,
+        "seconds": 59,
+        "text": "4 mins",
+        "total_seconds": 299.648834
+      },
+      {
+        "decimal": "0.07",
+        "digital": "0:04:59",
+        "hours": 0,
+        "minutes": 4,
+        "name": "import.service",
+        "percent": 8.28,
+        "seconds": 59,
+        "text": "4 mins",
+        "total_seconds": 299.648834
+      },
+      {
+        "decimal": "0.07",
+        "digital": "0:04:59",
+        "hours": 0,
+        "minutes": 4,
+        "name": "platform-browser",
+        "percent": 8.28,
+        "seconds": 59,
+        "text": "4 mins",
+        "total_seconds": 299.648834
+      },
+      {
+        "decimal": "0.07",
+        "digital": "0:04:59",
+        "hours": 0,
+        "minutes": 4,
+        "name": "store",
+        "percent": 8.28,
+        "seconds": 59,
+        "text": "4 mins",
+        "total_seconds": 299.648834
+      },
+      {
+        "decimal": "0.07",
+        "digital": "0:04:59",
+        "hours": 0,
+        "minutes": 4,
+        "name": "reducers",
+        "percent": 8.28,
+        "seconds": 59,
+        "text": "4 mins",
+        "total_seconds": 299.648834
+      },
+      {
+        "decimal": "0.07",
+        "digital": "0:04:59",
+        "hours": 0,
+        "minutes": 4,
+        "name": "auth",
+        "percent": 8.28,
+        "seconds": 59,
+        "text": "4 mins",
+        "total_seconds": 299.648834
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:02",
+        "hours": 0,
+        "minutes": 0,
+        "name": "rxjs",
+        "percent": 0.06,
+        "seconds": 2,
+        "text": "2 secs",
+        "total_seconds": 2.301771
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:02",
+        "hours": 0,
+        "minutes": 0,
+        "name": "folder",
+        "percent": 0.06,
+        "seconds": 2,
+        "text": "2 secs",
+        "total_seconds": 2.301771
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:01",
+        "hours": 0,
+        "minutes": 0,
+        "name": "lodash",
+        "percent": 0.04,
+        "seconds": 1,
+        "text": "1 sec",
+        "total_seconds": 1.358365
+      }
+    ],
+    "editors": [
+      {
+        "decimal": "0.58",
+        "digital": "0:35:45",
+        "hours": 0,
+        "minutes": 35,
+        "name": "VS Code",
+        "percent": 100,
+        "seconds": 45,
+        "text": "35 mins",
+        "total_seconds": 2145.478906
+      }
+    ],
     "grand_total": {
-      "decimal": "0.00",
-      "digital": "0:00",
+      "decimal": "0.58",
+      "digital": "0:35",
       "hours": 0,
-      "minutes": 0,
-      "text": "0 secs",
-      "total_seconds": 0
+      "minutes": 35,
+      "text": "35 mins",
+      "total_seconds": 2145.478906
     },
-    "languages": [],
-    "machines": [],
-    "operating_systems": [],
-    "projects": [],
+    "languages": [
+      {
+        "decimal": "0.40",
+        "digital": "0:24:30",
+        "hours": 0,
+        "minutes": 24,
+        "name": "HTML",
+        "percent": 68.52,
+        "seconds": 30,
+        "text": "24 mins",
+        "total_seconds": 1470.117772
+      },
+      {
+        "decimal": "0.18",
+        "digital": "0:11:15",
+        "hours": 0,
+        "minutes": 11,
+        "name": "TypeScript",
+        "percent": 31.48,
+        "seconds": 15,
+        "text": "11 mins",
+        "total_seconds": 675.361134
+      }
+    ],
+    "machines": [
+      {
+        "decimal": "0.58",
+        "digital": "0:35:45",
+        "hours": 0,
+        "machine_name_id": "2bc66669-f991-47f3-a568-c7042c7bb34b",
+        "minutes": 35,
+        "name": "Vatsal-Shah-MacBook-Pro.local",
+        "percent": 100,
+        "seconds": 45,
+        "text": "35 mins",
+        "total_seconds": 2145.478906
+      }
+    ],
+    "operating_systems": [
+      {
+        "decimal": "0.58",
+        "digital": "0:35:45",
+        "hours": 0,
+        "minutes": 35,
+        "name": "Mac",
+        "percent": 100,
+        "seconds": 45,
+        "text": "35 mins",
+        "total_seconds": 2145.478906
+      }
+    ],
+    "projects": [
+      {
+        "decimal": "0.58",
+        "digital": "0:35:45",
+        "hours": 0,
+        "minutes": 35,
+        "name": "speak-client",
+        "percent": 100,
+        "seconds": 45,
+        "text": "35 mins",
+        "total_seconds": 2145.478906
+      }
+    ],
     "range": {
       "date": "2022-05-25",
       "end": "2022-05-26T03:59:59Z",
       "start": "2022-05-25T04:00:00Z",
-      "text": "Tomorrow",
+      "text": "Today",
       "timezone": "America/Toronto"
     }
   }
