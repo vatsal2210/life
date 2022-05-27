@@ -1,25 +1,385 @@
 [
   {
-    "categories": [],
-    "dependencies": [],
-    "editors": [],
+    "categories": [
+      {
+        "decimal": "0.02",
+        "digital": "0:01:50",
+        "hours": 0,
+        "minutes": 1,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 50,
+        "text": "1 min",
+        "total_seconds": 110.470789
+      }
+    ],
+    "dependencies": [
+      {
+        "decimal": "0.02",
+        "digital": "0:01:47",
+        "hours": 0,
+        "minutes": 1,
+        "name": "flask",
+        "percent": 25,
+        "seconds": 47,
+        "text": "1 min",
+        "total_seconds": 107.461376
+      },
+      {
+        "decimal": "0.02",
+        "digital": "0:01:47",
+        "hours": 0,
+        "minutes": 1,
+        "name": "logging",
+        "percent": 25,
+        "seconds": 47,
+        "text": "1 min",
+        "total_seconds": 107.461376
+      },
+      {
+        "decimal": "0.02",
+        "digital": "0:01:47",
+        "hours": 0,
+        "minutes": 1,
+        "name": "flask_restful",
+        "percent": 25,
+        "seconds": 47,
+        "text": "1 min",
+        "total_seconds": 107.461376
+      },
+      {
+        "decimal": "0.02",
+        "digital": "0:01:47",
+        "hours": 0,
+        "minutes": 1,
+        "name": "nltk",
+        "percent": 25,
+        "seconds": 47,
+        "text": "1 min",
+        "total_seconds": 107.461376
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:00",
+        "hours": 0,
+        "minutes": 0,
+        "name": "model",
+        "percent": 0,
+        "seconds": 0,
+        "text": "0 secs",
+        "total_seconds": 0
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:00",
+        "hours": 0,
+        "minutes": 0,
+        "name": "interfaces",
+        "percent": 0,
+        "seconds": 0,
+        "text": "0 secs",
+        "total_seconds": 0
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:00",
+        "hours": 0,
+        "minutes": 0,
+        "name": "utils",
+        "percent": 0,
+        "seconds": 0,
+        "text": "0 secs",
+        "total_seconds": 0
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:00",
+        "hours": 0,
+        "minutes": 0,
+        "name": "enum",
+        "percent": 0,
+        "seconds": 0,
+        "text": "0 secs",
+        "total_seconds": 0
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:00",
+        "hours": 0,
+        "minutes": 0,
+        "name": "activecampaign",
+        "percent": 0,
+        "seconds": 0,
+        "text": "0 secs",
+        "total_seconds": 0
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:00",
+        "hours": 0,
+        "minutes": 0,
+        "name": "sendgrid",
+        "percent": 0,
+        "seconds": 0,
+        "text": "0 secs",
+        "total_seconds": 0
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:00",
+        "hours": 0,
+        "minutes": 0,
+        "name": "geolocation",
+        "percent": 0,
+        "seconds": 0,
+        "text": "0 secs",
+        "total_seconds": 0
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:00",
+        "hours": 0,
+        "minutes": 0,
+        "name": "mailer",
+        "percent": 0,
+        "seconds": 0,
+        "text": "0 secs",
+        "total_seconds": 0
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:00",
+        "hours": 0,
+        "minutes": 0,
+        "name": "express",
+        "percent": 0,
+        "seconds": 0,
+        "text": "0 secs",
+        "total_seconds": 0
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:00",
+        "hours": 0,
+        "minutes": 0,
+        "name": "templates",
+        "percent": 0,
+        "seconds": 0,
+        "text": "0 secs",
+        "total_seconds": 0
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:00",
+        "hours": 0,
+        "minutes": 0,
+        "name": "crypto",
+        "percent": 0,
+        "seconds": 0,
+        "text": "0 secs",
+        "total_seconds": 0
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:00",
+        "hours": 0,
+        "minutes": 0,
+        "name": "generate-password",
+        "percent": 0,
+        "seconds": 0,
+        "text": "0 secs",
+        "total_seconds": 0
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:00",
+        "hours": 0,
+        "minutes": 0,
+        "name": "subscription",
+        "percent": 0,
+        "seconds": 0,
+        "text": "0 secs",
+        "total_seconds": 0
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:00",
+        "hours": 0,
+        "minutes": 0,
+        "name": "config",
+        "percent": 0,
+        "seconds": 0,
+        "text": "0 secs",
+        "total_seconds": 0
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:00",
+        "hours": 0,
+        "minutes": 0,
+        "name": "logger",
+        "percent": 0,
+        "seconds": 0,
+        "text": "0 secs",
+        "total_seconds": 0
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:00",
+        "hours": 0,
+        "minutes": 0,
+        "name": "responses",
+        "percent": 0,
+        "seconds": 0,
+        "text": "0 secs",
+        "total_seconds": 0
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:00",
+        "hours": 0,
+        "minutes": 0,
+        "name": "bcryptjs",
+        "percent": 0,
+        "seconds": 0,
+        "text": "0 secs",
+        "total_seconds": 0
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:00",
+        "hours": 0,
+        "minutes": 0,
+        "name": "moment",
+        "percent": 0,
+        "seconds": 0,
+        "text": "0 secs",
+        "total_seconds": 0
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:00",
+        "hours": 0,
+        "minutes": 0,
+        "name": "notification",
+        "percent": 0,
+        "seconds": 0,
+        "text": "0 secs",
+        "total_seconds": 0
+      }
+    ],
+    "editors": [
+      {
+        "decimal": "0.02",
+        "digital": "0:01:50",
+        "hours": 0,
+        "minutes": 1,
+        "name": "VS Code",
+        "percent": 100,
+        "seconds": 50,
+        "text": "1 min",
+        "total_seconds": 110.470789
+      }
+    ],
     "grand_total": {
-      "decimal": "0.00",
-      "digital": "0:00",
+      "decimal": "0.02",
+      "digital": "0:01",
       "hours": 0,
-      "minutes": 0,
-      "text": "0 secs",
-      "total_seconds": 0
+      "minutes": 1,
+      "text": "1 min",
+      "total_seconds": 110.470789
     },
-    "languages": [],
-    "machines": [],
-    "operating_systems": [],
-    "projects": [],
+    "languages": [
+      {
+        "decimal": "0.02",
+        "digital": "0:01:47",
+        "hours": 0,
+        "minutes": 1,
+        "name": "Python",
+        "percent": 97.28,
+        "seconds": 47,
+        "text": "1 min",
+        "total_seconds": 107.461376
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:03",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Bash",
+        "percent": 2.72,
+        "seconds": 3,
+        "text": "3 secs",
+        "total_seconds": 3.009413
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:00",
+        "hours": 0,
+        "minutes": 0,
+        "name": "TypeScript",
+        "percent": 0,
+        "seconds": 0,
+        "text": "0 secs",
+        "total_seconds": 0
+      }
+    ],
+    "machines": [
+      {
+        "decimal": "0.02",
+        "digital": "0:01:50",
+        "hours": 0,
+        "machine_name_id": "2bc66669-f991-47f3-a568-c7042c7bb34b",
+        "minutes": 1,
+        "name": "Vatsal-Shah-MacBook-Pro.local",
+        "percent": 100,
+        "seconds": 50,
+        "text": "1 min",
+        "total_seconds": 110.470789
+      }
+    ],
+    "operating_systems": [
+      {
+        "decimal": "0.02",
+        "digital": "0:01:50",
+        "hours": 0,
+        "minutes": 1,
+        "name": "Mac",
+        "percent": 100,
+        "seconds": 50,
+        "text": "1 min",
+        "total_seconds": 110.470789
+      }
+    ],
+    "projects": [
+      {
+        "decimal": "0.02",
+        "digital": "0:01:47",
+        "hours": 0,
+        "minutes": 1,
+        "name": "speak-ai-middleware",
+        "percent": 97.28,
+        "seconds": 47,
+        "text": "1 min",
+        "total_seconds": 107.461376
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:03",
+        "hours": 0,
+        "minutes": 0,
+        "name": "speak-server",
+        "percent": 2.72,
+        "seconds": 3,
+        "text": "3 secs",
+        "total_seconds": 3.009413
+      }
+    ],
     "range": {
       "date": "2022-05-26",
       "end": "2022-05-27T03:59:59Z",
       "start": "2022-05-26T04:00:00Z",
-      "text": "Tomorrow",
+      "text": "Today",
       "timezone": "America/Toronto"
     }
   }

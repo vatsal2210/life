@@ -32,7 +32,17 @@
     "score_sleep_balance": 41,
     "score_temperature": 100
   },
-  "2022-05-25": {},
+  "2022-05-25": {
+    "score": 61,
+    "score_activity_balance": 51,
+    "score_hrv_balance": 68,
+    "score_previous_day": 90,
+    "score_previous_night": 53,
+    "score_recovery_index": 78,
+    "score_resting_hr": 71,
+    "score_sleep_balance": 43,
+    "score_temperature": 91
+  },
   "2022-05-26": {},
   "2022-05-27": {},
   "2022-05-28": {}
