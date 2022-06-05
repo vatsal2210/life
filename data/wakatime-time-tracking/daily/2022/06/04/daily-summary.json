@@ -1,25 +1,341 @@
 [
   {
-    "categories": [],
-    "dependencies": [],
-    "editors": [],
+    "categories": [
+      {
+        "decimal": "0.05",
+        "digital": "0:03:44",
+        "hours": 0,
+        "minutes": 3,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 44,
+        "text": "3 mins",
+        "total_seconds": 224.054087
+      }
+    ],
+    "dependencies": [
+      {
+        "decimal": "0.05",
+        "digital": "0:03:44",
+        "hours": 0,
+        "minutes": 3,
+        "name": "utils",
+        "percent": 32.62,
+        "seconds": 44,
+        "text": "3 mins",
+        "total_seconds": 224.054087
+      },
+      {
+        "decimal": "0.05",
+        "digital": "0:03:38",
+        "hours": 0,
+        "minutes": 3,
+        "name": "mongoose",
+        "percent": 31.79,
+        "seconds": 38,
+        "text": "3 mins",
+        "total_seconds": 218.357738
+      },
+      {
+        "decimal": "0.03",
+        "digital": "0:02:16",
+        "hours": 0,
+        "minutes": 2,
+        "name": "media",
+        "percent": 19.84,
+        "seconds": 16,
+        "text": "2 mins",
+        "total_seconds": 136.300491
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:05",
+        "hours": 0,
+        "minutes": 0,
+        "name": "model",
+        "percent": 0.83,
+        "seconds": 5,
+        "text": "5 secs",
+        "total_seconds": 5.696349
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:05",
+        "hours": 0,
+        "minutes": 0,
+        "name": "interfaces",
+        "percent": 0.83,
+        "seconds": 5,
+        "text": "5 secs",
+        "total_seconds": 5.696349
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:05",
+        "hours": 0,
+        "minutes": 0,
+        "name": "webhookController",
+        "percent": 0.83,
+        "seconds": 5,
+        "text": "5 secs",
+        "total_seconds": 5.696349
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:05",
+        "hours": 0,
+        "minutes": 0,
+        "name": "fs-extra",
+        "percent": 0.83,
+        "seconds": 5,
+        "text": "5 secs",
+        "total_seconds": 5.696349
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:05",
+        "hours": 0,
+        "minutes": 0,
+        "name": "path",
+        "percent": 0.83,
+        "seconds": 5,
+        "text": "5 secs",
+        "total_seconds": 5.696349
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:05",
+        "hours": 0,
+        "minutes": 0,
+        "name": "webhook",
+        "percent": 0.83,
+        "seconds": 5,
+        "text": "5 secs",
+        "total_seconds": 5.696349
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:05",
+        "hours": 0,
+        "minutes": 0,
+        "name": "azure",
+        "percent": 0.83,
+        "seconds": 5,
+        "text": "5 secs",
+        "total_seconds": 5.696349
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:05",
+        "hours": 0,
+        "minutes": 0,
+        "name": "enum",
+        "percent": 0.83,
+        "seconds": 5,
+        "text": "5 secs",
+        "total_seconds": 5.696349
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:05",
+        "hours": 0,
+        "minutes": 0,
+        "name": "payment",
+        "percent": 0.83,
+        "seconds": 5,
+        "text": "5 secs",
+        "total_seconds": 5.696349
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:05",
+        "hours": 0,
+        "minutes": 0,
+        "name": "geolocation",
+        "percent": 0.83,
+        "seconds": 5,
+        "text": "5 secs",
+        "total_seconds": 5.696349
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:05",
+        "hours": 0,
+        "minutes": 0,
+        "name": "archiver",
+        "percent": 0.83,
+        "seconds": 5,
+        "text": "5 secs",
+        "total_seconds": 5.696349
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:05",
+        "hours": 0,
+        "minutes": 0,
+        "name": "export",
+        "percent": 0.83,
+        "seconds": 5,
+        "text": "5 secs",
+        "total_seconds": 5.696349
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:05",
+        "hours": 0,
+        "minutes": 0,
+        "name": "exportMedia",
+        "percent": 0.83,
+        "seconds": 5,
+        "text": "5 secs",
+        "total_seconds": 5.696349
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:05",
+        "hours": 0,
+        "minutes": 0,
+        "name": "express",
+        "percent": 0.83,
+        "seconds": 5,
+        "text": "5 secs",
+        "total_seconds": 5.696349
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:05",
+        "hours": 0,
+        "minutes": 0,
+        "name": "insightCategories",
+        "percent": 0.83,
+        "seconds": 5,
+        "text": "5 secs",
+        "total_seconds": 5.696349
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:05",
+        "hours": 0,
+        "minutes": 0,
+        "name": "logger",
+        "percent": 0.83,
+        "seconds": 5,
+        "text": "5 secs",
+        "total_seconds": 5.696349
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:05",
+        "hours": 0,
+        "minutes": 0,
+        "name": "lodash",
+        "percent": 0.83,
+        "seconds": 5,
+        "text": "5 secs",
+        "total_seconds": 5.696349
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:05",
+        "hours": 0,
+        "minutes": 0,
+        "name": "responses",
+        "percent": 0.83,
+        "seconds": 5,
+        "text": "5 secs",
+        "total_seconds": 5.696349
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:05",
+        "hours": 0,
+        "minutes": 0,
+        "name": "notification",
+        "percent": 0.83,
+        "seconds": 5,
+        "text": "5 secs",
+        "total_seconds": 5.696349
+      }
+    ],
+    "editors": [
+      {
+        "decimal": "0.05",
+        "digital": "0:03:44",
+        "hours": 0,
+        "minutes": 3,
+        "name": "VS Code",
+        "percent": 100,
+        "seconds": 44,
+        "text": "3 mins",
+        "total_seconds": 224.054087
+      }
+    ],
     "grand_total": {
-      "decimal": "0.00",
-      "digital": "0:00",
+      "decimal": "0.05",
+      "digital": "0:03",
       "hours": 0,
-      "minutes": 0,
-      "text": "0 secs",
-      "total_seconds": 0
+      "minutes": 3,
+      "text": "3 mins",
+      "total_seconds": 224.054087
     },
-    "languages": [],
-    "machines": [],
-    "operating_systems": [],
-    "projects": [],
+    "languages": [
+      {
+        "decimal": "0.05",
+        "digital": "0:03:44",
+        "hours": 0,
+        "minutes": 3,
+        "name": "TypeScript",
+        "percent": 100,
+        "seconds": 44,
+        "text": "3 mins",
+        "total_seconds": 224.054087
+      }
+    ],
+    "machines": [
+      {
+        "decimal": "0.05",
+        "digital": "0:03:44",
+        "hours": 0,
+        "machine_name_id": "c87d342b-8ca0-4977-a3f6-d6a016f205f5",
+        "minutes": 3,
+        "name": "Vatsal-Shah-MBP.ht.home",
+        "percent": 100,
+        "seconds": 44,
+        "text": "3 mins",
+        "total_seconds": 224.054087
+      }
+    ],
+    "operating_systems": [
+      {
+        "decimal": "0.05",
+        "digital": "0:03:44",
+        "hours": 0,
+        "minutes": 3,
+        "name": "Mac",
+        "percent": 100,
+        "seconds": 44,
+        "text": "3 mins",
+        "total_seconds": 224.054087
+      }
+    ],
+    "projects": [
+      {
+        "decimal": "0.05",
+        "digital": "0:03:44",
+        "hours": 0,
+        "minutes": 3,
+        "name": "speak-server",
+        "percent": 100,
+        "seconds": 44,
+        "text": "3 mins",
+        "total_seconds": 224.054087
+      }
+    ],
     "range": {
       "date": "2022-06-04",
       "end": "2022-06-05T03:59:59Z",
       "start": "2022-06-04T04:00:00Z",
-      "text": "Tomorrow",
+      "text": "Today",
       "timezone": "America/Toronto"
     }
   }
