@@ -89,9 +89,18 @@
     "duration": 31440,
     "efficiency": 86,
     "light": 9600,
-    "score": 75
+    "score": 81
   },
-  "12": {},
+  "12": {
+    "total": 27870,
+    "rem": 5100,
+    "awake": 5310,
+    "deep": 7110,
+    "duration": 33180,
+    "efficiency": 84,
+    "light": 15660,
+    "score": 78
+  },
   "13": {},
   "14": {},
   "15": {},
