@@ -1,25 +1,442 @@
 [
   {
-    "categories": [],
-    "dependencies": [],
-    "editors": [],
+    "categories": [
+      {
+        "decimal": "0.22",
+        "digital": "0:13:57",
+        "hours": 0,
+        "minutes": 13,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 57,
+        "text": "13 mins",
+        "total_seconds": 837.924301
+      }
+    ],
+    "dependencies": [
+      {
+        "decimal": "0.10",
+        "digital": "0:06:33",
+        "hours": 0,
+        "minutes": 6,
+        "name": "templates",
+        "percent": 5.26,
+        "seconds": 33,
+        "text": "6 mins",
+        "total_seconds": 393.468126
+      },
+      {
+        "decimal": "0.10",
+        "digital": "0:06:33",
+        "hours": 0,
+        "minutes": 6,
+        "name": "activecampaign",
+        "percent": 5.26,
+        "seconds": 33,
+        "text": "6 mins",
+        "total_seconds": 393.468126
+      },
+      {
+        "decimal": "0.10",
+        "digital": "0:06:33",
+        "hours": 0,
+        "minutes": 6,
+        "name": "model",
+        "percent": 5.26,
+        "seconds": 33,
+        "text": "6 mins",
+        "total_seconds": 393.468126
+      },
+      {
+        "decimal": "0.10",
+        "digital": "0:06:33",
+        "hours": 0,
+        "minutes": 6,
+        "name": "utils",
+        "percent": 5.26,
+        "seconds": 33,
+        "text": "6 mins",
+        "total_seconds": 393.468126
+      },
+      {
+        "decimal": "0.10",
+        "digital": "0:06:33",
+        "hours": 0,
+        "minutes": 6,
+        "name": "sendgrid",
+        "percent": 5.26,
+        "seconds": 33,
+        "text": "6 mins",
+        "total_seconds": 393.468126
+      },
+      {
+        "decimal": "0.10",
+        "digital": "0:06:33",
+        "hours": 0,
+        "minutes": 6,
+        "name": "crypto",
+        "percent": 5.26,
+        "seconds": 33,
+        "text": "6 mins",
+        "total_seconds": 393.468126
+      },
+      {
+        "decimal": "0.10",
+        "digital": "0:06:33",
+        "hours": 0,
+        "minutes": 6,
+        "name": "bcryptjs",
+        "percent": 5.26,
+        "seconds": 33,
+        "text": "6 mins",
+        "total_seconds": 393.468126
+      },
+      {
+        "decimal": "0.10",
+        "digital": "0:06:33",
+        "hours": 0,
+        "minutes": 6,
+        "name": "mailer",
+        "percent": 5.26,
+        "seconds": 33,
+        "text": "6 mins",
+        "total_seconds": 393.468126
+      },
+      {
+        "decimal": "0.10",
+        "digital": "0:06:33",
+        "hours": 0,
+        "minutes": 6,
+        "name": "generate-password",
+        "percent": 5.26,
+        "seconds": 33,
+        "text": "6 mins",
+        "total_seconds": 393.468126
+      },
+      {
+        "decimal": "0.10",
+        "digital": "0:06:33",
+        "hours": 0,
+        "minutes": 6,
+        "name": "enum",
+        "percent": 5.26,
+        "seconds": 33,
+        "text": "6 mins",
+        "total_seconds": 393.468126
+      },
+      {
+        "decimal": "0.10",
+        "digital": "0:06:33",
+        "hours": 0,
+        "minutes": 6,
+        "name": "subscription",
+        "percent": 5.26,
+        "seconds": 33,
+        "text": "6 mins",
+        "total_seconds": 393.468126
+      },
+      {
+        "decimal": "0.10",
+        "digital": "0:06:33",
+        "hours": 0,
+        "minutes": 6,
+        "name": "responses",
+        "percent": 5.26,
+        "seconds": 33,
+        "text": "6 mins",
+        "total_seconds": 393.468126
+      },
+      {
+        "decimal": "0.10",
+        "digital": "0:06:33",
+        "hours": 0,
+        "minutes": 6,
+        "name": "config",
+        "percent": 5.26,
+        "seconds": 33,
+        "text": "6 mins",
+        "total_seconds": 393.468126
+      },
+      {
+        "decimal": "0.10",
+        "digital": "0:06:33",
+        "hours": 0,
+        "minutes": 6,
+        "name": "notification",
+        "percent": 5.26,
+        "seconds": 33,
+        "text": "6 mins",
+        "total_seconds": 393.468126
+      },
+      {
+        "decimal": "0.10",
+        "digital": "0:06:33",
+        "hours": 0,
+        "minutes": 6,
+        "name": "interfaces",
+        "percent": 5.26,
+        "seconds": 33,
+        "text": "6 mins",
+        "total_seconds": 393.468126
+      },
+      {
+        "decimal": "0.10",
+        "digital": "0:06:33",
+        "hours": 0,
+        "minutes": 6,
+        "name": "geolocation",
+        "percent": 5.26,
+        "seconds": 33,
+        "text": "6 mins",
+        "total_seconds": 393.468126
+      },
+      {
+        "decimal": "0.10",
+        "digital": "0:06:33",
+        "hours": 0,
+        "minutes": 6,
+        "name": "logger",
+        "percent": 5.26,
+        "seconds": 33,
+        "text": "6 mins",
+        "total_seconds": 393.468126
+      },
+      {
+        "decimal": "0.10",
+        "digital": "0:06:33",
+        "hours": 0,
+        "minutes": 6,
+        "name": "moment",
+        "percent": 5.26,
+        "seconds": 33,
+        "text": "6 mins",
+        "total_seconds": 393.468126
+      },
+      {
+        "decimal": "0.10",
+        "digital": "0:06:33",
+        "hours": 0,
+        "minutes": 6,
+        "name": "express",
+        "percent": 5.26,
+        "seconds": 33,
+        "text": "6 mins",
+        "total_seconds": 393.468126
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:01",
+        "hours": 0,
+        "minutes": 0,
+        "name": "auth",
+        "percent": 0.02,
+        "seconds": 1,
+        "text": "1 sec",
+        "total_seconds": 1.350935
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:01",
+        "hours": 0,
+        "minutes": 0,
+        "name": "environment",
+        "percent": 0.02,
+        "seconds": 1,
+        "text": "1 sec",
+        "total_seconds": 1.350935
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:01",
+        "hours": 0,
+        "minutes": 0,
+        "name": "core",
+        "percent": 0.02,
+        "seconds": 1,
+        "text": "1 sec",
+        "total_seconds": 1.350935
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:01",
+        "hours": 0,
+        "minutes": 0,
+        "name": "services",
+        "percent": 0.02,
+        "seconds": 1,
+        "text": "1 sec",
+        "total_seconds": 1.350935
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:00",
+        "hours": 0,
+        "minutes": 0,
+        "name": "lodash",
+        "percent": 0,
+        "seconds": 0,
+        "text": "0 secs",
+        "total_seconds": 0
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:00",
+        "hours": 0,
+        "minutes": 0,
+        "name": "aws",
+        "percent": 0,
+        "seconds": 0,
+        "text": "0 secs",
+        "total_seconds": 0
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:00",
+        "hours": 0,
+        "minutes": 0,
+        "name": "mongoose",
+        "percent": 0,
+        "seconds": 0,
+        "text": "0 secs",
+        "total_seconds": 0
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:00",
+        "hours": 0,
+        "minutes": 0,
+        "name": "media",
+        "percent": 0,
+        "seconds": 0,
+        "text": "0 secs",
+        "total_seconds": 0
+      }
+    ],
+    "editors": [
+      {
+        "decimal": "0.22",
+        "digital": "0:13:57",
+        "hours": 0,
+        "minutes": 13,
+        "name": "VS Code",
+        "percent": 100,
+        "seconds": 57,
+        "text": "13 mins",
+        "total_seconds": 837.924301
+      }
+    ],
     "grand_total": {
-      "decimal": "0.00",
-      "digital": "0:00",
+      "decimal": "0.22",
+      "digital": "0:13",
       "hours": 0,
-      "minutes": 0,
-      "text": "0 secs",
-      "total_seconds": 0
+      "minutes": 13,
+      "text": "13 mins",
+      "total_seconds": 837.924301
     },
-    "languages": [],
-    "machines": [],
-    "operating_systems": [],
-    "projects": [],
+    "languages": [
+      {
+        "decimal": "0.10",
+        "digital": "0:06:34",
+        "hours": 0,
+        "minutes": 6,
+        "name": "TypeScript",
+        "percent": 47.12,
+        "seconds": 34,
+        "text": "6 mins",
+        "total_seconds": 394.819061
+      },
+      {
+        "decimal": "0.10",
+        "digital": "0:06:10",
+        "hours": 0,
+        "minutes": 6,
+        "name": "SCSS",
+        "percent": 44.23,
+        "seconds": 10,
+        "text": "6 mins",
+        "total_seconds": 370.609138
+      },
+      {
+        "decimal": "0.02",
+        "digital": "0:01:04",
+        "hours": 0,
+        "minutes": 1,
+        "name": "HTML",
+        "percent": 7.68,
+        "seconds": 4,
+        "text": "1 min",
+        "total_seconds": 64.389567
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:08",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Bash",
+        "percent": 0.97,
+        "seconds": 8,
+        "text": "8 secs",
+        "total_seconds": 8.106535
+      }
+    ],
+    "machines": [
+      {
+        "decimal": "0.22",
+        "digital": "0:13:57",
+        "hours": 0,
+        "machine_name_id": "47abed30-eb4a-4824-ac6c-d3bf2b578ca1",
+        "minutes": 13,
+        "name": "Vatsal-Shah-MBP.ht.home",
+        "percent": 100,
+        "seconds": 57,
+        "text": "13 mins",
+        "total_seconds": 837.924301
+      }
+    ],
+    "operating_systems": [
+      {
+        "decimal": "0.22",
+        "digital": "0:13:57",
+        "hours": 0,
+        "minutes": 13,
+        "name": "Mac",
+        "percent": 100,
+        "seconds": 57,
+        "text": "13 mins",
+        "total_seconds": 837.924301
+      }
+    ],
+    "projects": [
+      {
+        "color": null,
+        "decimal": "0.12",
+        "digital": "0:07:16",
+        "hours": 0,
+        "minutes": 7,
+        "name": "speak-client",
+        "percent": 52.08,
+        "seconds": 16,
+        "text": "7 mins",
+        "total_seconds": 436.34964
+      },
+      {
+        "color": null,
+        "decimal": "0.10",
+        "digital": "0:06:41",
+        "hours": 0,
+        "minutes": 6,
+        "name": "speak-server",
+        "percent": 47.92,
+        "seconds": 41,
+        "text": "6 mins",
+        "total_seconds": 401.574661
+      }
+    ],
     "range": {
       "date": "2022-07-09",
       "end": "2022-07-10T03:59:59Z",
       "start": "2022-07-09T04:00:00Z",
-      "text": "Tomorrow",
+      "text": "Today",
       "timezone": "America/Toronto"
     }
   }
