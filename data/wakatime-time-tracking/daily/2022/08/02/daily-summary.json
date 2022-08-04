@@ -74,17 +74,6 @@
         "digital": "2:12:32",
         "hours": 2,
         "minutes": 12,
-        "name": "librosa",
-        "percent": 7.63,
-        "seconds": 32,
-        "text": "2 hrs 12 mins",
-        "total_seconds": 7952.367862
-      },
-      {
-        "decimal": "2.20",
-        "digital": "2:12:32",
-        "hours": 2,
-        "minutes": 12,
         "name": "soundfile",
         "percent": 7.63,
         "seconds": 32,
@@ -108,6 +97,17 @@
         "hours": 2,
         "minutes": 12,
         "name": "datetime",
+        "percent": 7.63,
+        "seconds": 32,
+        "text": "2 hrs 12 mins",
+        "total_seconds": 7952.367862
+      },
+      {
+        "decimal": "2.20",
+        "digital": "2:12:32",
+        "hours": 2,
+        "minutes": 12,
+        "name": "librosa",
         "percent": 7.63,
         "seconds": 32,
         "text": "2 hrs 12 mins",
@@ -151,17 +151,6 @@
         "digital": "0:21:54",
         "hours": 0,
         "minutes": 21,
-        "name": "ast",
-        "percent": 1.26,
-        "seconds": 54,
-        "text": "21 mins",
-        "total_seconds": 1314.447543
-      },
-      {
-        "decimal": "0.35",
-        "digital": "0:21:54",
-        "hours": 0,
-        "minutes": 21,
         "name": "pydub",
         "percent": 1.26,
         "seconds": 54,
@@ -180,15 +169,15 @@
         "total_seconds": 1314.447543
       },
       {
-        "decimal": "0.28",
-        "digital": "0:17:39",
+        "decimal": "0.35",
+        "digital": "0:21:54",
         "hours": 0,
-        "minutes": 17,
-        "name": "flask",
-        "percent": 1.02,
-        "seconds": 39,
-        "text": "17 mins",
-        "total_seconds": 1059.164509
+        "minutes": 21,
+        "name": "ast",
+        "percent": 1.26,
+        "seconds": 54,
+        "text": "21 mins",
+        "total_seconds": 1314.447543
       },
       {
         "decimal": "0.28",
@@ -196,17 +185,6 @@
         "hours": 0,
         "minutes": 17,
         "name": "numba",
-        "percent": 1.02,
-        "seconds": 39,
-        "text": "17 mins",
-        "total_seconds": 1059.164509
-      },
-      {
-        "decimal": "0.28",
-        "digital": "0:17:39",
-        "hours": 0,
-        "minutes": 17,
-        "name": "multiprocessing",
         "percent": 1.02,
         "seconds": 39,
         "text": "17 mins",
@@ -228,11 +206,44 @@
         "digital": "0:17:39",
         "hours": 0,
         "minutes": 17,
+        "name": "flask",
+        "percent": 1.02,
+        "seconds": 39,
+        "text": "17 mins",
+        "total_seconds": 1059.164509
+      },
+      {
+        "decimal": "0.28",
+        "digital": "0:17:39",
+        "hours": 0,
+        "minutes": 17,
+        "name": "multiprocessing",
+        "percent": 1.02,
+        "seconds": 39,
+        "text": "17 mins",
+        "total_seconds": 1059.164509
+      },
+      {
+        "decimal": "0.28",
+        "digital": "0:17:39",
+        "hours": 0,
+        "minutes": 17,
         "name": "flask_restful",
         "percent": 1.02,
         "seconds": 39,
         "text": "17 mins",
         "total_seconds": 1059.164509
+      },
+      {
+        "decimal": "0.22",
+        "digital": "0:13:48",
+        "hours": 0,
+        "minutes": 13,
+        "name": "wave",
+        "percent": 0.8,
+        "seconds": 48,
+        "text": "13 mins",
+        "total_seconds": 828.528425
       },
       {
         "decimal": "0.22",
@@ -251,17 +262,6 @@
         "hours": 0,
         "minutes": 13,
         "name": "collections",
-        "percent": 0.8,
-        "seconds": 48,
-        "text": "13 mins",
-        "total_seconds": 828.528425
-      },
-      {
-        "decimal": "0.22",
-        "digital": "0:13:48",
-        "hours": 0,
-        "minutes": 13,
-        "name": "wave",
         "percent": 0.8,
         "seconds": 48,
         "text": "13 mins",
@@ -435,7 +435,7 @@
       "date": "2022-08-02",
       "end": "2022-08-03T03:59:59Z",
       "start": "2022-08-02T04:00:00Z",
-      "text": "Today",
+      "text": "Yesterday",
       "timezone": "America/Toronto"
     }
   }
