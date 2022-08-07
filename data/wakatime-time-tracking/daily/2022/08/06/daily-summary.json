@@ -1,25 +1,233 @@
 [
   {
-    "categories": [],
-    "dependencies": [],
-    "editors": [],
+    "categories": [
+      {
+        "decimal": "2.48",
+        "digital": "2:29:04",
+        "hours": 2,
+        "minutes": 29,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 4,
+        "text": "2 hrs 29 mins",
+        "total_seconds": 8944.951857
+      }
+    ],
+    "dependencies": [
+      {
+        "decimal": "2.18",
+        "digital": "2:11:00",
+        "hours": 2,
+        "minutes": 11,
+        "name": "spacy",
+        "percent": 22.1,
+        "seconds": 0,
+        "text": "2 hrs 11 mins",
+        "total_seconds": 7860.214485
+      },
+      {
+        "decimal": "2.15",
+        "digital": "2:09:36",
+        "hours": 2,
+        "minutes": 9,
+        "name": "utils",
+        "percent": 21.87,
+        "seconds": 36,
+        "text": "2 hrs 9 mins",
+        "total_seconds": 7776.500427
+      },
+      {
+        "decimal": "1.38",
+        "digital": "1:23:28",
+        "hours": 1,
+        "minutes": 23,
+        "name": "crosslingual_coreference",
+        "percent": 14.08,
+        "seconds": 28,
+        "text": "1 hr 23 mins",
+        "total_seconds": 5008.28686
+      },
+      {
+        "decimal": "1.02",
+        "digital": "1:01:53",
+        "hours": 1,
+        "minutes": 1,
+        "name": "re",
+        "percent": 10.44,
+        "seconds": 53,
+        "text": "1 hr 1 min",
+        "total_seconds": 3713.757085
+      },
+      {
+        "decimal": "1.02",
+        "digital": "1:01:53",
+        "hours": 1,
+        "minutes": 1,
+        "name": "hashlib",
+        "percent": 10.44,
+        "seconds": 53,
+        "text": "1 hr 1 min",
+        "total_seconds": 3713.757085
+      },
+      {
+        "decimal": "1.02",
+        "digital": "1:01:49",
+        "hours": 1,
+        "minutes": 1,
+        "name": "typing",
+        "percent": 10.43,
+        "seconds": 49,
+        "text": "1 hr 1 min",
+        "total_seconds": 3709.790141
+      },
+      {
+        "decimal": "1.02",
+        "digital": "1:01:17",
+        "hours": 1,
+        "minutes": 1,
+        "name": "transformers",
+        "percent": 10.34,
+        "seconds": 17,
+        "text": "1 hr 1 min",
+        "total_seconds": 3677.310086
+      },
+      {
+        "decimal": "0.02",
+        "digital": "0:01:43",
+        "hours": 0,
+        "minutes": 1,
+        "name": "requests",
+        "percent": 0.29,
+        "seconds": 43,
+        "text": "1 min",
+        "total_seconds": 103.143027
+      }
+    ],
+    "editors": [
+      {
+        "decimal": "2.48",
+        "digital": "2:29:04",
+        "hours": 2,
+        "minutes": 29,
+        "name": "VS Code",
+        "percent": 100,
+        "seconds": 4,
+        "text": "2 hrs 29 mins",
+        "total_seconds": 8944.951857
+      }
+    ],
     "grand_total": {
-      "decimal": "0.00",
-      "digital": "0:00",
-      "hours": 0,
-      "minutes": 0,
-      "text": "0 secs",
-      "total_seconds": 0
+      "decimal": "2.48",
+      "digital": "2:29",
+      "hours": 2,
+      "minutes": 29,
+      "text": "2 hrs 29 mins",
+      "total_seconds": 8944.951857
     },
-    "languages": [],
-    "machines": [],
-    "operating_systems": [],
-    "projects": [],
+    "languages": [
+      {
+        "decimal": "2.30",
+        "digital": "2:18:23",
+        "hours": 2,
+        "minutes": 18,
+        "name": "Python",
+        "percent": 92.83,
+        "seconds": 23,
+        "text": "2 hrs 18 mins",
+        "total_seconds": 8303.515833
+      },
+      {
+        "decimal": "0.15",
+        "digital": "0:09:33",
+        "hours": 0,
+        "minutes": 9,
+        "name": "Markdown",
+        "percent": 6.41,
+        "seconds": 33,
+        "text": "9 mins",
+        "total_seconds": 573.747487
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:42",
+        "hours": 0,
+        "minutes": 0,
+        "name": "JSON",
+        "percent": 0.47,
+        "seconds": 42,
+        "text": "42 secs",
+        "total_seconds": 42.133529
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:25",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Other",
+        "percent": 0.29,
+        "seconds": 25,
+        "text": "25 secs",
+        "total_seconds": 25.555008
+      }
+    ],
+    "machines": [
+      {
+        "decimal": "2.48",
+        "digital": "2:29:04",
+        "hours": 2,
+        "machine_name_id": "88f552b0-a2c1-4624-a6cb-5c1b629fd0c4",
+        "minutes": 29,
+        "name": "Vatsal-Shah-MBP.ht.home",
+        "percent": 100,
+        "seconds": 4,
+        "text": "2 hrs 29 mins",
+        "total_seconds": 8944.951857
+      }
+    ],
+    "operating_systems": [
+      {
+        "decimal": "2.48",
+        "digital": "2:29:04",
+        "hours": 2,
+        "minutes": 29,
+        "name": "Mac",
+        "percent": 100,
+        "seconds": 4,
+        "text": "2 hrs 29 mins",
+        "total_seconds": 8944.951857
+      }
+    ],
+    "projects": [
+      {
+        "color": null,
+        "decimal": "2.40",
+        "digital": "2:24:49",
+        "hours": 2,
+        "minutes": 24,
+        "name": "knowledge-graph",
+        "percent": 97.14,
+        "seconds": 49,
+        "text": "2 hrs 24 mins",
+        "total_seconds": 8689.34159
+      },
+      {
+        "color": null,
+        "decimal": "0.07",
+        "digital": "0:04:15",
+        "hours": 0,
+        "minutes": 4,
+        "name": "speak-ai-middleware",
+        "percent": 2.86,
+        "seconds": 15,
+        "text": "4 mins",
+        "total_seconds": 255.610267
+      }
+    ],
     "range": {
       "date": "2022-08-06",
       "end": "2022-08-07T03:59:59Z",
       "start": "2022-08-06T04:00:00Z",
-      "text": "Tomorrow",
+      "text": "Today",
       "timezone": "America/Toronto"
     }
   }
