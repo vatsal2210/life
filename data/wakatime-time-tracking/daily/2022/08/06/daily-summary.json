@@ -52,7 +52,7 @@
         "digital": "1:01:53",
         "hours": 1,
         "minutes": 1,
-        "name": "re",
+        "name": "hashlib",
         "percent": 10.44,
         "seconds": 53,
         "text": "1 hr 1 min",
@@ -63,7 +63,7 @@
         "digital": "1:01:53",
         "hours": 1,
         "minutes": 1,
-        "name": "hashlib",
+        "name": "re",
         "percent": 10.44,
         "seconds": 53,
         "text": "1 hr 1 min",
@@ -227,7 +227,7 @@
       "date": "2022-08-06",
       "end": "2022-08-07T03:59:59Z",
       "start": "2022-08-06T04:00:00Z",
-      "text": "Today",
+      "text": "Yesterday",
       "timezone": "America/Toronto"
     }
   }
