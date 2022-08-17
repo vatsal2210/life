@@ -1,25 +1,166 @@
 [
   {
-    "categories": [],
-    "dependencies": [],
-    "editors": [],
+    "categories": [
+      {
+        "decimal": "0.00",
+        "digital": "0:00:00",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 0,
+        "text": "0 secs",
+        "total_seconds": 0.524381
+      }
+    ],
+    "dependencies": [
+      {
+        "decimal": "0.00",
+        "digital": "0:00:00",
+        "hours": 0,
+        "minutes": 0,
+        "name": "flask_restful",
+        "percent": 20,
+        "seconds": 0,
+        "text": "0 secs",
+        "total_seconds": 0.524381
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:00",
+        "hours": 0,
+        "minutes": 0,
+        "name": "spacy",
+        "percent": 20,
+        "seconds": 0,
+        "text": "0 secs",
+        "total_seconds": 0.524381
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:00",
+        "hours": 0,
+        "minutes": 0,
+        "name": "logging",
+        "percent": 20,
+        "seconds": 0,
+        "text": "0 secs",
+        "total_seconds": 0.524381
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:00",
+        "hours": 0,
+        "minutes": 0,
+        "name": "build",
+        "percent": 20,
+        "seconds": 0,
+        "text": "0 secs",
+        "total_seconds": 0.524381
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:00",
+        "hours": 0,
+        "minutes": 0,
+        "name": "flask",
+        "percent": 20,
+        "seconds": 0,
+        "text": "0 secs",
+        "total_seconds": 0.524381
+      }
+    ],
+    "editors": [
+      {
+        "decimal": "0.00",
+        "digital": "0:00:00",
+        "hours": 0,
+        "minutes": 0,
+        "name": "VS Code",
+        "percent": 100,
+        "seconds": 0,
+        "text": "0 secs",
+        "total_seconds": 0.524381
+      }
+    ],
     "grand_total": {
       "decimal": "0.00",
       "digital": "0:00",
       "hours": 0,
       "minutes": 0,
       "text": "0 secs",
-      "total_seconds": 0
+      "total_seconds": 0.524381
     },
-    "languages": [],
-    "machines": [],
-    "operating_systems": [],
-    "projects": [],
+    "languages": [
+      {
+        "decimal": "0.00",
+        "digital": "0:00:00",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Python",
+        "percent": 100,
+        "seconds": 0,
+        "text": "0 secs",
+        "total_seconds": 0.524381
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:00",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Other",
+        "percent": 0,
+        "seconds": 0,
+        "text": "0 secs",
+        "total_seconds": 0
+      }
+    ],
+    "machines": [
+      {
+        "decimal": "0.00",
+        "digital": "0:00:00",
+        "hours": 0,
+        "machine_name_id": "d88b2821-ec0a-4f26-a57e-80c4a791daa9",
+        "minutes": 0,
+        "name": "Vatsal-Shah-MBP.ht.home",
+        "percent": 100,
+        "seconds": 0,
+        "text": "0 secs",
+        "total_seconds": 0.524381
+      }
+    ],
+    "operating_systems": [
+      {
+        "decimal": "0.00",
+        "digital": "0:00:00",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Mac",
+        "percent": 100,
+        "seconds": 0,
+        "text": "0 secs",
+        "total_seconds": 0.524381
+      }
+    ],
+    "projects": [
+      {
+        "color": null,
+        "decimal": "0.00",
+        "digital": "0:00:00",
+        "hours": 0,
+        "minutes": 0,
+        "name": "knowledge-graph",
+        "percent": 100,
+        "seconds": 0,
+        "text": "0 secs",
+        "total_seconds": 0.524381
+      }
+    ],
     "range": {
       "date": "2022-08-16",
       "end": "2022-08-17T03:59:59Z",
       "start": "2022-08-16T04:00:00Z",
-      "text": "Tomorrow",
+      "text": "Today",
       "timezone": "America/Toronto"
     }
   }
