@@ -1,25 +1,534 @@
 [
   {
-    "categories": [],
-    "dependencies": [],
-    "editors": [],
+    "categories": [
+      {
+        "decimal": "1.13",
+        "digital": "1:08:01",
+        "hours": 1,
+        "minutes": 8,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 1,
+        "text": "1 hr 8 mins",
+        "total_seconds": 4081.066359
+      }
+    ],
+    "dependencies": [
+      {
+        "decimal": "0.47",
+        "digital": "0:28:46",
+        "hours": 0,
+        "minutes": 28,
+        "name": "spacy",
+        "percent": 9.43,
+        "seconds": 46,
+        "text": "28 mins",
+        "total_seconds": 1726.554858
+      },
+      {
+        "decimal": "0.47",
+        "digital": "0:28:46",
+        "hours": 0,
+        "minutes": 28,
+        "name": "utils",
+        "percent": 9.43,
+        "seconds": 46,
+        "text": "28 mins",
+        "total_seconds": 1726.554858
+      },
+      {
+        "decimal": "0.45",
+        "digital": "0:27:48",
+        "hours": 0,
+        "minutes": 27,
+        "name": "hashlib",
+        "percent": 9.11,
+        "seconds": 48,
+        "text": "27 mins",
+        "total_seconds": 1668.144082
+      },
+      {
+        "decimal": "0.45",
+        "digital": "0:27:48",
+        "hours": 0,
+        "minutes": 27,
+        "name": "typing",
+        "percent": 9.11,
+        "seconds": 48,
+        "text": "27 mins",
+        "total_seconds": 1668.144082
+      },
+      {
+        "decimal": "0.45",
+        "digital": "0:27:48",
+        "hours": 0,
+        "minutes": 27,
+        "name": "transformers",
+        "percent": 9.11,
+        "seconds": 48,
+        "text": "27 mins",
+        "total_seconds": 1668.144082
+      },
+      {
+        "decimal": "0.45",
+        "digital": "0:27:48",
+        "hours": 0,
+        "minutes": 27,
+        "name": "re",
+        "percent": 9.11,
+        "seconds": 48,
+        "text": "27 mins",
+        "total_seconds": 1668.144082
+      },
+      {
+        "decimal": "0.35",
+        "digital": "0:21:06",
+        "hours": 0,
+        "minutes": 21,
+        "name": "lodash",
+        "percent": 6.91,
+        "seconds": 6,
+        "text": "21 mins",
+        "total_seconds": 1266.016982
+      },
+      {
+        "decimal": "0.18",
+        "digital": "0:11:25",
+        "hours": 0,
+        "minutes": 11,
+        "name": "mongoose",
+        "percent": 3.74,
+        "seconds": 25,
+        "text": "11 mins",
+        "total_seconds": 685.474382
+      },
+      {
+        "decimal": "0.18",
+        "digital": "0:11:25",
+        "hours": 0,
+        "minutes": 11,
+        "name": "fs-extra",
+        "percent": 3.74,
+        "seconds": 25,
+        "text": "11 mins",
+        "total_seconds": 685.474382
+      },
+      {
+        "decimal": "0.18",
+        "digital": "0:11:25",
+        "hours": 0,
+        "minutes": 11,
+        "name": "ai",
+        "percent": 3.74,
+        "seconds": 25,
+        "text": "11 mins",
+        "total_seconds": 685.474382
+      },
+      {
+        "decimal": "0.18",
+        "digital": "0:11:25",
+        "hours": 0,
+        "minutes": 11,
+        "name": "model",
+        "percent": 3.74,
+        "seconds": 25,
+        "text": "11 mins",
+        "total_seconds": 685.474382
+      },
+      {
+        "decimal": "0.18",
+        "digital": "0:11:25",
+        "hours": 0,
+        "minutes": 11,
+        "name": "logger",
+        "percent": 3.74,
+        "seconds": 25,
+        "text": "11 mins",
+        "total_seconds": 685.474382
+      },
+      {
+        "decimal": "0.15",
+        "digital": "0:09:40",
+        "hours": 0,
+        "minutes": 9,
+        "name": "forms",
+        "percent": 3.17,
+        "seconds": 40,
+        "text": "9 mins",
+        "total_seconds": 580.5426
+      },
+      {
+        "decimal": "0.15",
+        "digital": "0:09:40",
+        "hours": 0,
+        "minutes": 9,
+        "name": "services",
+        "percent": 3.17,
+        "seconds": 40,
+        "text": "9 mins",
+        "total_seconds": 580.5426
+      },
+      {
+        "decimal": "0.15",
+        "digital": "0:09:40",
+        "hours": 0,
+        "minutes": 9,
+        "name": "recorder.service",
+        "percent": 3.17,
+        "seconds": 40,
+        "text": "9 mins",
+        "total_seconds": 580.5426
+      },
+      {
+        "decimal": "0.15",
+        "digital": "0:09:40",
+        "hours": 0,
+        "minutes": 9,
+        "name": "core",
+        "percent": 3.17,
+        "seconds": 40,
+        "text": "9 mins",
+        "total_seconds": 580.5426
+      },
+      {
+        "decimal": "0.15",
+        "digital": "0:09:40",
+        "hours": 0,
+        "minutes": 9,
+        "name": "router",
+        "percent": 3.17,
+        "seconds": 40,
+        "text": "9 mins",
+        "total_seconds": 580.5426
+      },
+      {
+        "decimal": "0.02",
+        "digital": "0:01:36",
+        "hours": 0,
+        "minutes": 1,
+        "name": "api",
+        "percent": 0.53,
+        "seconds": 36,
+        "text": "1 min",
+        "total_seconds": 96.578647
+      },
+      {
+        "decimal": "0.02",
+        "digital": "0:01:36",
+        "hours": 0,
+        "minutes": 1,
+        "name": "logging",
+        "percent": 0.53,
+        "seconds": 36,
+        "text": "1 min",
+        "total_seconds": 96.578647
+      },
+      {
+        "decimal": "0.02",
+        "digital": "0:01:36",
+        "hours": 0,
+        "minutes": 1,
+        "name": "flask_restful",
+        "percent": 0.53,
+        "seconds": 36,
+        "text": "1 min",
+        "total_seconds": 96.578647
+      },
+      {
+        "decimal": "0.02",
+        "digital": "0:01:36",
+        "hours": 0,
+        "minutes": 1,
+        "name": "pythonjsonlogger",
+        "percent": 0.53,
+        "seconds": 36,
+        "text": "1 min",
+        "total_seconds": 96.578647
+      },
+      {
+        "decimal": "0.02",
+        "digital": "0:01:36",
+        "hours": 0,
+        "minutes": 1,
+        "name": "flask",
+        "percent": 0.53,
+        "seconds": 36,
+        "text": "1 min",
+        "total_seconds": 96.578647
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:58",
+        "hours": 0,
+        "minutes": 0,
+        "name": "crosslingual_coreference",
+        "percent": 0.32,
+        "seconds": 58,
+        "text": "58 secs",
+        "total_seconds": 58.410776
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:49",
+        "hours": 0,
+        "minutes": 0,
+        "name": "spacy_langdetect",
+        "percent": 0.27,
+        "seconds": 49,
+        "text": "49 secs",
+        "total_seconds": 49.732069
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:00",
+        "hours": 0,
+        "minutes": 0,
+        "name": "matplotlib",
+        "percent": 0,
+        "seconds": 0,
+        "text": "0 secs",
+        "total_seconds": 0
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:00",
+        "hours": 0,
+        "minutes": 0,
+        "name": "pandas",
+        "percent": 0,
+        "seconds": 0,
+        "text": "0 secs",
+        "total_seconds": 0
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:00",
+        "hours": 0,
+        "minutes": 0,
+        "name": "json",
+        "percent": 0,
+        "seconds": 0,
+        "text": "0 secs",
+        "total_seconds": 0
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:00",
+        "hours": 0,
+        "minutes": 0,
+        "name": "networkx",
+        "percent": 0,
+        "seconds": 0,
+        "text": "0 secs",
+        "total_seconds": 0
+      }
+    ],
+    "editors": [
+      {
+        "decimal": "1.13",
+        "digital": "1:08:01",
+        "hours": 1,
+        "minutes": 8,
+        "name": "VS Code",
+        "percent": 100,
+        "seconds": 1,
+        "text": "1 hr 8 mins",
+        "total_seconds": 4081.066359
+      }
+    ],
     "grand_total": {
-      "decimal": "0.00",
-      "digital": "0:00",
-      "hours": 0,
-      "minutes": 0,
-      "text": "0 secs",
-      "total_seconds": 0
+      "decimal": "1.13",
+      "digital": "1:08",
+      "hours": 1,
+      "minutes": 8,
+      "text": "1 hr 8 mins",
+      "total_seconds": 4081.066359
     },
-    "languages": [],
-    "machines": [],
-    "operating_systems": [],
-    "projects": [],
+    "languages": [
+      {
+        "decimal": "0.52",
+        "digital": "0:31:15",
+        "hours": 0,
+        "minutes": 31,
+        "name": "Python",
+        "percent": 45.95,
+        "seconds": 15,
+        "text": "31 mins",
+        "total_seconds": 1875.236133
+      },
+      {
+        "decimal": "0.35",
+        "digital": "0:21:06",
+        "hours": 0,
+        "minutes": 21,
+        "name": "TypeScript",
+        "percent": 31.02,
+        "seconds": 6,
+        "text": "21 mins",
+        "total_seconds": 1266.016982
+      },
+      {
+        "decimal": "0.22",
+        "digital": "0:13:44",
+        "hours": 0,
+        "minutes": 13,
+        "name": "Text",
+        "percent": 20.2,
+        "seconds": 44,
+        "text": "13 mins",
+        "total_seconds": 824.329212
+      },
+      {
+        "decimal": "0.02",
+        "digital": "0:01:39",
+        "hours": 0,
+        "minutes": 1,
+        "name": "JSON",
+        "percent": 2.44,
+        "seconds": 39,
+        "text": "1 min",
+        "total_seconds": 99.781213
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:13",
+        "hours": 0,
+        "minutes": 0,
+        "name": "CSV",
+        "percent": 0.33,
+        "seconds": 13,
+        "text": "13 secs",
+        "total_seconds": 13.353066
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:01",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Git Config",
+        "percent": 0.04,
+        "seconds": 1,
+        "text": "1 sec",
+        "total_seconds": 1.483719
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:00",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Markdown",
+        "percent": 0.02,
+        "seconds": 0,
+        "text": "0 secs",
+        "total_seconds": 0.866034
+      }
+    ],
+    "machines": [
+      {
+        "decimal": "0.73",
+        "digital": "0:44:45",
+        "hours": 0,
+        "machine_name_id": "7f8c6c35-4d0e-4375-bea6-20f7a0a8ce37",
+        "minutes": 44,
+        "name": "Vatsal-Shah-MBP.ht.home",
+        "percent": 65.81,
+        "seconds": 45,
+        "text": "44 mins",
+        "total_seconds": 2685.69999
+      },
+      {
+        "decimal": "0.38",
+        "digital": "0:23:15",
+        "hours": 0,
+        "machine_name_id": "a150f473-062e-4dd6-b2b2-137190976533",
+        "minutes": 23,
+        "name": "Vatsal-Shah-MacBook-Pro.local",
+        "percent": 34.19,
+        "seconds": 15,
+        "text": "23 mins",
+        "total_seconds": 1395.366369
+      }
+    ],
+    "operating_systems": [
+      {
+        "decimal": "1.13",
+        "digital": "1:08:01",
+        "hours": 1,
+        "minutes": 8,
+        "name": "Mac",
+        "percent": 100,
+        "seconds": 1,
+        "text": "1 hr 8 mins",
+        "total_seconds": 4081.066359
+      }
+    ],
+    "projects": [
+      {
+        "color": null,
+        "decimal": "0.73",
+        "digital": "0:44:56",
+        "hours": 0,
+        "minutes": 44,
+        "name": "knowledge-graph",
+        "percent": 66.07,
+        "seconds": 56,
+        "text": "44 mins",
+        "total_seconds": 2696.526243
+      },
+      {
+        "color": null,
+        "decimal": "0.22",
+        "digital": "0:13:18",
+        "hours": 0,
+        "minutes": 13,
+        "name": "speak-server",
+        "percent": 19.57,
+        "seconds": 18,
+        "text": "13 mins",
+        "total_seconds": 798.608661
+      },
+      {
+        "color": null,
+        "decimal": "0.15",
+        "digital": "0:09:40",
+        "hours": 0,
+        "minutes": 9,
+        "name": "speak-embed-recorder",
+        "percent": 14.23,
+        "seconds": 40,
+        "text": "9 mins",
+        "total_seconds": 580.5426
+      },
+      {
+        "color": null,
+        "decimal": "0.00",
+        "digital": "0:00:05",
+        "hours": 0,
+        "minutes": 0,
+        "name": "speak-ai-middleware",
+        "percent": 0.13,
+        "seconds": 5,
+        "text": "5 secs",
+        "total_seconds": 5.388855
+      },
+      {
+        "color": null,
+        "decimal": "0.00",
+        "digital": "0:00:00",
+        "hours": 0,
+        "minutes": 0,
+        "name": "network-graph",
+        "percent": 0,
+        "seconds": 0,
+        "text": "0 secs",
+        "total_seconds": 0
+      }
+    ],
     "range": {
       "date": "2022-08-19",
       "end": "2022-08-20T03:59:59Z",
       "start": "2022-08-19T04:00:00Z",
-      "text": "Tomorrow",
+      "text": "Today",
       "timezone": "America/Toronto"
     }
   }
