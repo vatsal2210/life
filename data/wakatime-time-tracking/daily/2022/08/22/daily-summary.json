@@ -1,25 +1,189 @@
 [
   {
-    "categories": [],
-    "dependencies": [],
-    "editors": [],
+    "categories": [
+      {
+        "decimal": "1.28",
+        "digital": "1:17:41",
+        "hours": 1,
+        "minutes": 17,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 41,
+        "text": "1 hr 17 mins",
+        "total_seconds": 4661.914997
+      }
+    ],
+    "dependencies": [
+      {
+        "decimal": "0.83",
+        "digital": "0:50:58",
+        "hours": 0,
+        "minutes": 50,
+        "name": "neomodel",
+        "percent": 30.84,
+        "seconds": 58,
+        "text": "50 mins",
+        "total_seconds": 3058.299824
+      },
+      {
+        "decimal": "0.73",
+        "digital": "0:44:26",
+        "hours": 0,
+        "minutes": 44,
+        "name": "json",
+        "percent": 26.89,
+        "seconds": 26,
+        "text": "44 mins",
+        "total_seconds": 2666.89586
+      },
+      {
+        "decimal": "0.73",
+        "digital": "0:44:02",
+        "hours": 0,
+        "minutes": 44,
+        "name": "pandas",
+        "percent": 26.65,
+        "seconds": 2,
+        "text": "44 mins",
+        "total_seconds": 2642.510915
+      },
+      {
+        "decimal": "0.20",
+        "digital": "0:12:54",
+        "hours": 0,
+        "minutes": 12,
+        "name": "matplotlib",
+        "percent": 7.81,
+        "seconds": 54,
+        "text": "12 mins",
+        "total_seconds": 774.824526
+      },
+      {
+        "decimal": "0.20",
+        "digital": "0:12:54",
+        "hours": 0,
+        "minutes": 12,
+        "name": "networkx",
+        "percent": 7.81,
+        "seconds": 54,
+        "text": "12 mins",
+        "total_seconds": 774.824526
+      }
+    ],
+    "editors": [
+      {
+        "decimal": "1.28",
+        "digital": "1:17:41",
+        "hours": 1,
+        "minutes": 17,
+        "name": "VS Code",
+        "percent": 100,
+        "seconds": 41,
+        "text": "1 hr 17 mins",
+        "total_seconds": 4661.914997
+      }
+    ],
     "grand_total": {
-      "decimal": "0.00",
-      "digital": "0:00",
-      "hours": 0,
-      "minutes": 0,
-      "text": "0 secs",
-      "total_seconds": 0
+      "decimal": "1.28",
+      "digital": "1:17",
+      "hours": 1,
+      "minutes": 17,
+      "text": "1 hr 17 mins",
+      "total_seconds": 4661.914997
     },
-    "languages": [],
-    "machines": [],
-    "operating_systems": [],
-    "projects": [],
+    "languages": [
+      {
+        "decimal": "1.05",
+        "digital": "1:03:58",
+        "hours": 1,
+        "minutes": 3,
+        "name": "Python",
+        "percent": 82.34,
+        "seconds": 58,
+        "text": "1 hr 3 mins",
+        "total_seconds": 3838.734008
+      },
+      {
+        "decimal": "0.22",
+        "digital": "0:13:15",
+        "hours": 0,
+        "minutes": 13,
+        "name": "JSON",
+        "percent": 17.05,
+        "seconds": 15,
+        "text": "13 mins",
+        "total_seconds": 795.087973
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:28",
+        "hours": 0,
+        "minutes": 0,
+        "name": "CSV",
+        "percent": 0.6,
+        "seconds": 28,
+        "text": "28 secs",
+        "total_seconds": 28.093016
+      }
+    ],
+    "machines": [
+      {
+        "decimal": "1.28",
+        "digital": "1:17:41",
+        "hours": 1,
+        "machine_name_id": "af747e4c-60fe-489c-8899-06343c482bb6",
+        "minutes": 17,
+        "name": "Vatsal-Shah-MBP.ht.home",
+        "percent": 100,
+        "seconds": 41,
+        "text": "1 hr 17 mins",
+        "total_seconds": 4661.914997
+      }
+    ],
+    "operating_systems": [
+      {
+        "decimal": "1.28",
+        "digital": "1:17:41",
+        "hours": 1,
+        "minutes": 17,
+        "name": "Mac",
+        "percent": 100,
+        "seconds": 41,
+        "text": "1 hr 17 mins",
+        "total_seconds": 4661.914997
+      }
+    ],
+    "projects": [
+      {
+        "color": null,
+        "decimal": "1.28",
+        "digital": "1:17:09",
+        "hours": 1,
+        "minutes": 17,
+        "name": "network-graph",
+        "percent": 99.31,
+        "seconds": 9,
+        "text": "1 hr 17 mins",
+        "total_seconds": 4629.738555
+      },
+      {
+        "color": null,
+        "decimal": "0.00",
+        "digital": "0:00:32",
+        "hours": 0,
+        "minutes": 0,
+        "name": "speak-server",
+        "percent": 0.69,
+        "seconds": 32,
+        "text": "32 secs",
+        "total_seconds": 32.176442
+      }
+    ],
     "range": {
       "date": "2022-08-22",
       "end": "2022-08-23T03:59:59Z",
       "start": "2022-08-22T04:00:00Z",
-      "text": "Tomorrow",
+      "text": "Today",
       "timezone": "America/Toronto"
     }
   }
