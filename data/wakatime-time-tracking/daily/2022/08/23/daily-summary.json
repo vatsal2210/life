@@ -1,25 +1,166 @@
 [
   {
-    "categories": [],
-    "dependencies": [],
-    "editors": [],
+    "categories": [
+      {
+        "decimal": "0.47",
+        "digital": "0:28:48",
+        "hours": 0,
+        "minutes": 28,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 48,
+        "text": "28 mins",
+        "total_seconds": 1728.811055
+      }
+    ],
+    "dependencies": [
+      {
+        "decimal": "0.42",
+        "digital": "0:25:44",
+        "hours": 0,
+        "minutes": 25,
+        "name": "json",
+        "percent": 33.32,
+        "seconds": 44,
+        "text": "25 mins",
+        "total_seconds": 1544.108697
+      },
+      {
+        "decimal": "0.42",
+        "digital": "0:25:44",
+        "hours": 0,
+        "minutes": 25,
+        "name": "pandas",
+        "percent": 33.32,
+        "seconds": 44,
+        "text": "25 mins",
+        "total_seconds": 1544.108697
+      },
+      {
+        "decimal": "0.42",
+        "digital": "0:25:42",
+        "hours": 0,
+        "minutes": 25,
+        "name": "neomodel",
+        "percent": 33.28,
+        "seconds": 42,
+        "text": "25 mins",
+        "total_seconds": 1542.311256
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:01",
+        "hours": 0,
+        "minutes": 0,
+        "name": "matplotlib",
+        "percent": 0.04,
+        "seconds": 1,
+        "text": "1 sec",
+        "total_seconds": 1.797441
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:01",
+        "hours": 0,
+        "minutes": 0,
+        "name": "networkx",
+        "percent": 0.04,
+        "seconds": 1,
+        "text": "1 sec",
+        "total_seconds": 1.797441
+      }
+    ],
+    "editors": [
+      {
+        "decimal": "0.47",
+        "digital": "0:28:48",
+        "hours": 0,
+        "minutes": 28,
+        "name": "VS Code",
+        "percent": 100,
+        "seconds": 48,
+        "text": "28 mins",
+        "total_seconds": 1728.811055
+      }
+    ],
     "grand_total": {
-      "decimal": "0.00",
-      "digital": "0:00",
+      "decimal": "0.47",
+      "digital": "0:28",
       "hours": 0,
-      "minutes": 0,
-      "text": "0 secs",
-      "total_seconds": 0
+      "minutes": 28,
+      "text": "28 mins",
+      "total_seconds": 1728.811055
     },
-    "languages": [],
-    "machines": [],
-    "operating_systems": [],
-    "projects": [],
+    "languages": [
+      {
+        "decimal": "0.42",
+        "digital": "0:25:44",
+        "hours": 0,
+        "minutes": 25,
+        "name": "Python",
+        "percent": 89.32,
+        "seconds": 44,
+        "text": "25 mins",
+        "total_seconds": 1544.108697
+      },
+      {
+        "decimal": "0.05",
+        "digital": "0:03:04",
+        "hours": 0,
+        "minutes": 3,
+        "name": "JSON",
+        "percent": 10.68,
+        "seconds": 4,
+        "text": "3 mins",
+        "total_seconds": 184.702358
+      }
+    ],
+    "machines": [
+      {
+        "decimal": "0.47",
+        "digital": "0:28:48",
+        "hours": 0,
+        "machine_name_id": "0d20bb22-0e46-4ad6-bfa1-b23c704f8c82",
+        "minutes": 28,
+        "name": "Vatsal-Shah-MacBook-Pro.local",
+        "percent": 100,
+        "seconds": 48,
+        "text": "28 mins",
+        "total_seconds": 1728.811055
+      }
+    ],
+    "operating_systems": [
+      {
+        "decimal": "0.47",
+        "digital": "0:28:48",
+        "hours": 0,
+        "minutes": 28,
+        "name": "Mac",
+        "percent": 100,
+        "seconds": 48,
+        "text": "28 mins",
+        "total_seconds": 1728.811055
+      }
+    ],
+    "projects": [
+      {
+        "color": null,
+        "decimal": "0.47",
+        "digital": "0:28:48",
+        "hours": 0,
+        "minutes": 28,
+        "name": "network-graph",
+        "percent": 100,
+        "seconds": 48,
+        "text": "28 mins",
+        "total_seconds": 1728.811055
+      }
+    ],
     "range": {
       "date": "2022-08-23",
       "end": "2022-08-24T03:59:59Z",
       "start": "2022-08-23T04:00:00Z",
-      "text": "Tomorrow",
+      "text": "Today",
       "timezone": "America/Toronto"
     }
   }
