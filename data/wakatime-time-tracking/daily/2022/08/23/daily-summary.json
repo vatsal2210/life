@@ -52,7 +52,7 @@
         "digital": "0:00:01",
         "hours": 0,
         "minutes": 0,
-        "name": "matplotlib",
+        "name": "networkx",
         "percent": 0.04,
         "seconds": 1,
         "text": "1 sec",
@@ -63,7 +63,7 @@
         "digital": "0:00:01",
         "hours": 0,
         "minutes": 0,
-        "name": "networkx",
+        "name": "matplotlib",
         "percent": 0.04,
         "seconds": 1,
         "text": "1 sec",
@@ -113,6 +113,17 @@
         "seconds": 4,
         "text": "3 mins",
         "total_seconds": 184.702358
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:00",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Other",
+        "percent": 0,
+        "seconds": 0,
+        "text": "0 secs",
+        "total_seconds": 0
       }
     ],
     "machines": [
@@ -154,13 +165,25 @@
         "seconds": 48,
         "text": "28 mins",
         "total_seconds": 1728.811055
+      },
+      {
+        "color": null,
+        "decimal": "0.00",
+        "digital": "0:00:00",
+        "hours": 0,
+        "minutes": 0,
+        "name": "speak-client",
+        "percent": 0,
+        "seconds": 0,
+        "text": "0 secs",
+        "total_seconds": 0
       }
     ],
     "range": {
       "date": "2022-08-23",
       "end": "2022-08-24T03:59:59Z",
       "start": "2022-08-23T04:00:00Z",
-      "text": "Today",
+      "text": "Yesterday",
       "timezone": "America/Toronto"
     }
   }
