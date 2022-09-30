@@ -5,7 +5,7 @@
     "day_start": "2022-09-27T04:00:00-04:00",
     "day_end": "2022-09-28T03:59:59-04:00",
     "cal_active": 142,
-    "cal_total": 2145,
+    "cal_total": 2143,
     "class_5min": "111111111111111111111111111111111122111111122132233322332322222222222223222222232000022222222223222222233333223322222222222222222222233222222222222222322222223322222222222222233233332233333222222223333332222222222222222222222212111133211121111111111111111111111111111111111111111111111111",
     "steps": 3161,
     "daily_movement": 2501,
@@ -1463,11 +1463,11 @@
     "met_min_low": 110,
     "met_min_medium": 4,
     "met_min_high": 0,
-    "target_calories": 350,
-    "target_km": 8,
-    "target_miles": 4.970968,
-    "to_target_km": 3.4,
-    "to_target_miles": 2.1126614,
+    "target_calories": 450,
+    "target_km": 10,
+    "target_miles": 6.21371,
+    "to_target_km": 6.2,
+    "to_target_miles": 3.8525002,
     "score": 78,
     "score_meet_daily_targets": 43,
     "score_move_every_hour": 95,
@@ -1475,6 +1475,7 @@
     "score_stay_active": 54,
     "score_training_frequency": 100,
     "score_training_volume": 98,
+    "rest_mode_state": 0,
     "total": 179
   }
 ]
