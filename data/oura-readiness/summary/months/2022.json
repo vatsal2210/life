@@ -99,14 +99,14 @@
     "score_temperature": 2489
   },
   "10": {
-    "score": 588,
+    "score": 591,
     "score_activity_balance": 514,
     "score_hrv_balance": 669,
     "score_previous_day": 632,
-    "score_previous_night": 499,
+    "score_previous_night": 507,
     "score_recovery_index": 569,
     "score_resting_hr": 644,
-    "score_sleep_balance": 574,
+    "score_sleep_balance": 576,
     "score_temperature": 654
   },
   "11": {},
