@@ -1,25 +1,123 @@
 [
   {
-    "categories": [],
+    "categories": [
+      {
+        "decimal": "0.30",
+        "digital": "0:18:43",
+        "hours": 0,
+        "minutes": 18,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 43,
+        "text": "18 mins",
+        "total_seconds": 1123.875115
+      }
+    ],
     "dependencies": [],
-    "editors": [],
+    "editors": [
+      {
+        "decimal": "0.30",
+        "digital": "0:18:43",
+        "hours": 0,
+        "minutes": 18,
+        "name": "VS Code",
+        "percent": 100,
+        "seconds": 43,
+        "text": "18 mins",
+        "total_seconds": 1123.875115
+      }
+    ],
     "grand_total": {
-      "decimal": "0.00",
-      "digital": "0:00",
+      "decimal": "0.30",
+      "digital": "0:18",
       "hours": 0,
-      "minutes": 0,
-      "text": "0 secs",
-      "total_seconds": 0
+      "minutes": 18,
+      "text": "18 mins",
+      "total_seconds": 1123.875115
     },
-    "languages": [],
-    "machines": [],
-    "operating_systems": [],
-    "projects": [],
+    "languages": [
+      {
+        "decimal": "0.30",
+        "digital": "0:18:43",
+        "hours": 0,
+        "minutes": 18,
+        "name": "Other",
+        "percent": 100,
+        "seconds": 43,
+        "text": "18 mins",
+        "total_seconds": 1123.875115
+      }
+    ],
+    "machines": [
+      {
+        "decimal": "0.30",
+        "digital": "0:18:43",
+        "hours": 0,
+        "machine_name_id": "d6b27638-a6d3-4552-bfc5-1935dfe558e4",
+        "minutes": 18,
+        "name": "Vatsal-Shah-MBP.ht.home",
+        "percent": 100,
+        "seconds": 43,
+        "text": "18 mins",
+        "total_seconds": 1123.875115
+      }
+    ],
+    "operating_systems": [
+      {
+        "decimal": "0.30",
+        "digital": "0:18:43",
+        "hours": 0,
+        "minutes": 18,
+        "name": "Mac",
+        "percent": 100,
+        "seconds": 43,
+        "text": "18 mins",
+        "total_seconds": 1123.875115
+      }
+    ],
+    "projects": [
+      {
+        "color": null,
+        "decimal": "0.15",
+        "digital": "0:09:42",
+        "hours": 0,
+        "minutes": 9,
+        "name": "speak-client",
+        "percent": 51.79,
+        "seconds": 42,
+        "text": "9 mins",
+        "total_seconds": 582.041331
+      },
+      {
+        "color": null,
+        "decimal": "0.15",
+        "digital": "0:09:01",
+        "hours": 0,
+        "minutes": 9,
+        "name": "speak-ai-middleware",
+        "percent": 48.21,
+        "seconds": 1,
+        "text": "9 mins",
+        "total_seconds": 541.833784
+      },
+      {
+        "color": null,
+        "decimal": "0.00",
+        "digital": "0:00:00",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Unknown Project",
+        "percent": 0,
+        "seconds": 0,
+        "text": "0 secs",
+        "total_seconds": 0
+      }
+    ],
     "range": {
       "date": "2022-10-16",
       "end": "2022-10-17T03:59:59Z",
       "start": "2022-10-16T04:00:00Z",
-      "text": "Today",
+      "text": "Yesterday",
       "timezone": "America/Toronto"
     }
   }
