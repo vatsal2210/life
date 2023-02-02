@@ -2,39 +2,39 @@
   {
     "categories": [
       {
-        "decimal": "4.23",
-        "digital": "4:14:44",
+        "decimal": "4.32",
+        "digital": "4:19:21",
         "hours": 4,
-        "minutes": 14,
+        "minutes": 19,
         "name": "Coding",
         "percent": 100,
-        "seconds": 44,
-        "text": "4 hrs 14 mins",
-        "total_seconds": 15284.558232
+        "seconds": 21,
+        "text": "4 hrs 19 mins",
+        "total_seconds": 15561.927391
       }
     ],
     "dependencies": [
       {
-        "decimal": "1.65",
-        "digital": "1:39:41",
+        "decimal": "1.73",
+        "digital": "1:44:18",
         "hours": 1,
-        "minutes": 39,
+        "minutes": 44,
         "name": "core",
-        "percent": 5.66,
-        "seconds": 41,
-        "text": "1 hr 39 mins",
-        "total_seconds": 5981.236843
+        "percent": 5.81,
+        "seconds": 18,
+        "text": "1 hr 44 mins",
+        "total_seconds": 6258.606002
       },
       {
-        "decimal": "1.32",
-        "digital": "1:19:16",
+        "decimal": "1.38",
+        "digital": "1:23:54",
         "hours": 1,
-        "minutes": 19,
+        "minutes": 23,
         "name": "lodash",
-        "percent": 4.5,
-        "seconds": 16,
-        "text": "1 hr 19 mins",
-        "total_seconds": 4756.700832
+        "percent": 4.67,
+        "seconds": 54,
+        "text": "1 hr 23 mins",
+        "total_seconds": 5034.069991
       },
       {
         "decimal": "1.12",
@@ -42,21 +42,21 @@
         "hours": 1,
         "minutes": 7,
         "name": "types",
-        "percent": 3.82,
+        "percent": 3.75,
         "seconds": 22,
         "text": "1 hr 7 mins",
         "total_seconds": 4042.95849
       },
       {
-        "decimal": "0.90",
-        "digital": "0:54:22",
+        "decimal": "0.98",
+        "digital": "0:59:00",
         "hours": 0,
-        "minutes": 54,
+        "minutes": 59,
         "name": "router",
-        "percent": 3.08,
-        "seconds": 22,
-        "text": "54 mins",
-        "total_seconds": 3262.804057
+        "percent": 3.29,
+        "seconds": 0,
+        "text": "59 mins",
+        "total_seconds": 3540.173216
       },
       {
         "decimal": "0.90",
@@ -64,21 +64,21 @@
         "hours": 0,
         "minutes": 54,
         "name": "moment",
-        "percent": 3.06,
+        "percent": 3.01,
         "seconds": 1,
         "text": "54 mins",
         "total_seconds": 3241.162873
       },
       {
-        "decimal": "0.75",
-        "digital": "0:45:57",
+        "decimal": "0.83",
+        "digital": "0:50:34",
         "hours": 0,
-        "minutes": 45,
+        "minutes": 50,
         "name": "services",
-        "percent": 2.61,
-        "seconds": 57,
-        "text": "45 mins",
-        "total_seconds": 2757.51227
+        "percent": 2.82,
+        "seconds": 34,
+        "text": "50 mins",
+        "total_seconds": 3034.881429
       },
       {
         "decimal": "0.75",
@@ -86,21 +86,21 @@
         "hours": 0,
         "minutes": 45,
         "name": "subscription",
-        "percent": 2.61,
+        "percent": 2.56,
         "seconds": 55,
         "text": "45 mins",
         "total_seconds": 2755.950786
       },
       {
-        "decimal": "0.67",
-        "digital": "0:40:25",
+        "decimal": "0.75",
+        "digital": "0:45:02",
         "hours": 0,
-        "minutes": 40,
+        "minutes": 45,
         "name": "material-moment-adapter",
-        "percent": 2.29,
-        "seconds": 25,
-        "text": "40 mins",
-        "total_seconds": 2425.557314
+        "percent": 2.51,
+        "seconds": 2,
+        "text": "45 mins",
+        "total_seconds": 2702.926473
       },
       {
         "decimal": "0.65",
@@ -108,10 +108,21 @@
         "hours": 0,
         "minutes": 39,
         "name": "filter.service",
-        "percent": 2.25,
+        "percent": 2.21,
         "seconds": 39,
         "text": "39 mins",
         "total_seconds": 2379.205153
+      },
+      {
+        "decimal": "0.65",
+        "digital": "0:39:19",
+        "hours": 0,
+        "minutes": 39,
+        "name": "forms",
+        "percent": 2.19,
+        "seconds": 19,
+        "text": "39 mins",
+        "total_seconds": 2359.286774
       },
       {
         "decimal": "0.60",
@@ -119,7 +130,7 @@
         "hours": 0,
         "minutes": 36,
         "name": "logger",
-        "percent": 2.08,
+        "percent": 2.04,
         "seconds": 37,
         "text": "36 mins",
         "total_seconds": 2197.691131
@@ -130,7 +141,7 @@
         "hours": 0,
         "minutes": 35,
         "name": "dialog",
-        "percent": 1.99,
+        "percent": 1.95,
         "seconds": 2,
         "text": "35 mins",
         "total_seconds": 2102.530244
@@ -141,21 +152,10 @@
         "hours": 0,
         "minutes": 34,
         "name": "model",
-        "percent": 1.98,
+        "percent": 1.94,
         "seconds": 49,
         "text": "34 mins",
         "total_seconds": 2089.766072
-      },
-      {
-        "decimal": "0.57",
-        "digital": "0:34:41",
-        "hours": 0,
-        "minutes": 34,
-        "name": "forms",
-        "percent": 1.97,
-        "seconds": 41,
-        "text": "34 mins",
-        "total_seconds": 2081.917615
       },
       {
         "decimal": "0.55",
@@ -163,7 +163,7 @@
         "hours": 0,
         "minutes": 33,
         "name": "auth",
-        "percent": 1.89,
+        "percent": 1.86,
         "seconds": 24,
         "text": "33 mins",
         "total_seconds": 2004.148477
@@ -174,7 +174,7 @@
         "hours": 0,
         "minutes": 33,
         "name": "enum",
-        "percent": 1.88,
+        "percent": 1.84,
         "seconds": 5,
         "text": "33 mins",
         "total_seconds": 1985.16467
@@ -185,7 +185,7 @@
         "hours": 0,
         "minutes": 32,
         "name": "interfaces",
-        "percent": 1.87,
+        "percent": 1.83,
         "seconds": 52,
         "text": "32 mins",
         "total_seconds": 1972.721665
@@ -196,7 +196,7 @@
         "hours": 0,
         "minutes": 32,
         "name": "amplitude.service",
-        "percent": 1.84,
+        "percent": 1.8,
         "seconds": 25,
         "text": "32 mins",
         "total_seconds": 1945.013076
@@ -207,7 +207,7 @@
         "hours": 0,
         "minutes": 32,
         "name": "folder",
-        "percent": 1.84,
+        "percent": 1.8,
         "seconds": 22,
         "text": "32 mins",
         "total_seconds": 1942.149193
@@ -218,7 +218,7 @@
         "hours": 0,
         "minutes": 30,
         "name": "helper",
-        "percent": 1.72,
+        "percent": 1.69,
         "seconds": 18,
         "text": "30 mins",
         "total_seconds": 1818.934809
@@ -229,7 +229,7 @@
         "hours": 0,
         "minutes": 29,
         "name": "meta-tags.service",
-        "percent": 1.67,
+        "percent": 1.63,
         "seconds": 21,
         "text": "29 mins",
         "total_seconds": 1761.792547
@@ -240,7 +240,7 @@
         "hours": 0,
         "minutes": 28,
         "name": "reducers",
-        "percent": 1.59,
+        "percent": 1.56,
         "seconds": 0,
         "text": "28 mins",
         "total_seconds": 1680.713709
@@ -251,7 +251,7 @@
         "hours": 0,
         "minutes": 28,
         "name": "store",
-        "percent": 1.59,
+        "percent": 1.56,
         "seconds": 0,
         "text": "28 mins",
         "total_seconds": 1680.713709
@@ -262,7 +262,7 @@
         "hours": 0,
         "minutes": 26,
         "name": "templates",
-        "percent": 1.52,
+        "percent": 1.5,
         "seconds": 52,
         "text": "26 mins",
         "total_seconds": 1612.914269
@@ -273,7 +273,7 @@
         "hours": 0,
         "minutes": 24,
         "name": "express",
-        "percent": 1.38,
+        "percent": 1.35,
         "seconds": 17,
         "text": "24 mins",
         "total_seconds": 1457.087125
@@ -284,7 +284,7 @@
         "hours": 0,
         "minutes": 23,
         "name": "media",
-        "percent": 1.33,
+        "percent": 1.3,
         "seconds": 25,
         "text": "23 mins",
         "total_seconds": 1405.694759
@@ -295,7 +295,7 @@
         "hours": 0,
         "minutes": 23,
         "name": "table",
-        "percent": 1.32,
+        "percent": 1.3,
         "seconds": 18,
         "text": "23 mins",
         "total_seconds": 1398.404631
@@ -306,7 +306,7 @@
         "hours": 0,
         "minutes": 22,
         "name": "utils",
-        "percent": 1.27,
+        "percent": 1.25,
         "seconds": 25,
         "text": "22 mins",
         "total_seconds": 1345.357149
@@ -317,7 +317,7 @@
         "hours": 0,
         "minutes": 21,
         "name": "folder.service",
-        "percent": 1.23,
+        "percent": 1.21,
         "seconds": 40,
         "text": "21 mins",
         "total_seconds": 1300.342501
@@ -328,7 +328,7 @@
         "hours": 0,
         "minutes": 21,
         "name": "geolocation",
-        "percent": 1.21,
+        "percent": 1.18,
         "seconds": 15,
         "text": "21 mins",
         "total_seconds": 1275.673802
@@ -339,7 +339,7 @@
         "hours": 0,
         "minutes": 20,
         "name": "rxjs",
-        "percent": 1.17,
+        "percent": 1.14,
         "seconds": 32,
         "text": "20 mins",
         "total_seconds": 1232.809542
@@ -350,10 +350,21 @@
         "hours": 0,
         "minutes": 19,
         "name": "responses",
-        "percent": 1.1,
+        "percent": 1.08,
         "seconds": 23,
         "text": "19 mins",
         "total_seconds": 1163.18501
+      },
+      {
+        "decimal": "0.30",
+        "digital": "0:18:55",
+        "hours": 0,
+        "minutes": 18,
+        "name": "recorder.service",
+        "percent": 1.05,
+        "seconds": 55,
+        "text": "18 mins",
+        "total_seconds": 1135.396515
       },
       {
         "decimal": "0.27",
@@ -361,7 +372,7 @@
         "hours": 0,
         "minutes": 16,
         "name": "platform-browser",
-        "percent": 0.95,
+        "percent": 0.93,
         "seconds": 39,
         "text": "16 mins",
         "total_seconds": 999.812178
@@ -372,7 +383,7 @@
         "hours": 0,
         "minutes": 15,
         "name": "mongoose",
-        "percent": 0.86,
+        "percent": 0.85,
         "seconds": 13,
         "text": "15 mins",
         "total_seconds": 913.150766
@@ -383,7 +394,7 @@
         "hours": 0,
         "minutes": 14,
         "name": "stepper",
-        "percent": 0.84,
+        "percent": 0.83,
         "seconds": 53,
         "text": "14 mins",
         "total_seconds": 893.255753
@@ -394,7 +405,7 @@
         "hours": 0,
         "minutes": 14,
         "name": "controller",
-        "percent": 0.82,
+        "percent": 0.81,
         "seconds": 28,
         "text": "14 mins",
         "total_seconds": 868.011538
@@ -405,21 +416,10 @@
         "hours": 0,
         "minutes": 14,
         "name": "google-analytics.service",
-        "percent": 0.81,
+        "percent": 0.8,
         "seconds": 19,
         "text": "14 mins",
         "total_seconds": 859.113824
-      },
-      {
-        "decimal": "0.23",
-        "digital": "0:14:18",
-        "hours": 0,
-        "minutes": 14,
-        "name": "recorder.service",
-        "percent": 0.81,
-        "seconds": 18,
-        "text": "14 mins",
-        "total_seconds": 858.027356
       },
       {
         "decimal": "0.22",
@@ -427,7 +427,7 @@
         "hours": 0,
         "minutes": 13,
         "name": "ai",
-        "percent": 0.77,
+        "percent": 0.76,
         "seconds": 34,
         "text": "13 mins",
         "total_seconds": 814.85424
@@ -438,7 +438,7 @@
         "hours": 0,
         "minutes": 12,
         "name": "file-uploading",
-        "percent": 0.7,
+        "percent": 0.69,
         "seconds": 21,
         "text": "12 mins",
         "total_seconds": 741.145015
@@ -449,7 +449,7 @@
         "hours": 0,
         "minutes": 12,
         "name": "upload",
-        "percent": 0.7,
+        "percent": 0.69,
         "seconds": 19,
         "text": "12 mins",
         "total_seconds": 739.287418
@@ -460,7 +460,7 @@
         "hours": 0,
         "minutes": 12,
         "name": "filter",
-        "percent": 0.69,
+        "percent": 0.67,
         "seconds": 5,
         "text": "12 mins",
         "total_seconds": 725.188068
@@ -471,7 +471,7 @@
         "hours": 0,
         "minutes": 11,
         "name": "config",
-        "percent": 0.67,
+        "percent": 0.66,
         "seconds": 52,
         "text": "11 mins",
         "total_seconds": 712.264022
@@ -482,7 +482,7 @@
         "hours": 0,
         "minutes": 11,
         "name": "@speak-mailer",
-        "percent": 0.67,
+        "percent": 0.66,
         "seconds": 50,
         "text": "11 mins",
         "total_seconds": 710.634837
@@ -493,7 +493,7 @@
         "hours": 0,
         "minutes": 11,
         "name": "constant",
-        "percent": 0.64,
+        "percent": 0.63,
         "seconds": 17,
         "text": "11 mins",
         "total_seconds": 677.358608
@@ -504,7 +504,7 @@
         "hours": 0,
         "minutes": 11,
         "name": "keycodes",
-        "percent": 0.63,
+        "percent": 0.62,
         "seconds": 9,
         "text": "11 mins",
         "total_seconds": 669.819217
@@ -515,7 +515,7 @@
         "hours": 0,
         "minutes": 11,
         "name": "webhook",
-        "percent": 0.63,
+        "percent": 0.62,
         "seconds": 6,
         "text": "11 mins",
         "total_seconds": 666.988069
@@ -526,7 +526,7 @@
         "hours": 0,
         "minutes": 10,
         "name": "azure",
-        "percent": 0.62,
+        "percent": 0.61,
         "seconds": 53,
         "text": "10 mins",
         "total_seconds": 653.870306
@@ -537,7 +537,7 @@
         "hours": 0,
         "minutes": 10,
         "name": "aws",
-        "percent": 0.61,
+        "percent": 0.6,
         "seconds": 44,
         "text": "10 mins",
         "total_seconds": 644.330927
@@ -548,7 +548,7 @@
         "hours": 0,
         "minutes": 10,
         "name": "analytics.service",
-        "percent": 0.61,
+        "percent": 0.59,
         "seconds": 39,
         "text": "10 mins",
         "total_seconds": 639.949095
@@ -559,7 +559,7 @@
         "hours": 0,
         "minutes": 10,
         "name": "authToken",
-        "percent": 0.6,
+        "percent": 0.59,
         "seconds": 34,
         "text": "10 mins",
         "total_seconds": 634.152042
@@ -570,7 +570,7 @@
         "hours": 0,
         "minutes": 10,
         "name": "errors",
-        "percent": 0.6,
+        "percent": 0.59,
         "seconds": 32,
         "text": "10 mins",
         "total_seconds": 632.182453
@@ -581,7 +581,7 @@
         "hours": 0,
         "minutes": 9,
         "name": "http",
-        "percent": 0.56,
+        "percent": 0.55,
         "seconds": 51,
         "text": "9 mins",
         "total_seconds": 591.644182
@@ -592,7 +592,7 @@
         "hours": 0,
         "minutes": 9,
         "name": "collections",
-        "percent": 0.54,
+        "percent": 0.53,
         "seconds": 29,
         "text": "9 mins",
         "total_seconds": 569.649523
@@ -603,7 +603,7 @@
         "hours": 0,
         "minutes": 9,
         "name": "export-media-dialog.component",
-        "percent": 0.53,
+        "percent": 0.52,
         "seconds": 22,
         "text": "9 mins",
         "total_seconds": 562.91268
@@ -614,7 +614,7 @@
         "hours": 0,
         "minutes": 9,
         "name": "paginator",
-        "percent": 0.53,
+        "percent": 0.52,
         "seconds": 21,
         "text": "9 mins",
         "total_seconds": 561.055083
@@ -625,7 +625,7 @@
         "hours": 0,
         "minutes": 9,
         "name": "edit-media-dialog.component",
-        "percent": 0.52,
+        "percent": 0.51,
         "seconds": 10,
         "text": "9 mins",
         "total_seconds": 550.057349
@@ -636,7 +636,7 @@
         "hours": 0,
         "minutes": 9,
         "name": "operators",
-        "percent": 0.52,
+        "percent": 0.51,
         "seconds": 8,
         "text": "9 mins",
         "total_seconds": 548.199752
@@ -647,7 +647,7 @@
         "hours": 0,
         "minutes": 9,
         "name": "approve-multiple-media-dialog.component",
-        "percent": 0.52,
+        "percent": 0.51,
         "seconds": 8,
         "text": "9 mins",
         "total_seconds": 548.199752
@@ -680,7 +680,7 @@
         "hours": 0,
         "minutes": 8,
         "name": "generate-password",
-        "percent": 0.46,
+        "percent": 0.45,
         "seconds": 4,
         "text": "8 mins",
         "total_seconds": 484.5945
@@ -691,7 +691,7 @@
         "hours": 0,
         "minutes": 8,
         "name": "sendgrid",
-        "percent": 0.46,
+        "percent": 0.45,
         "seconds": 4,
         "text": "8 mins",
         "total_seconds": 484.5945
@@ -702,7 +702,7 @@
         "hours": 0,
         "minutes": 8,
         "name": "index",
-        "percent": 0.46,
+        "percent": 0.45,
         "seconds": 3,
         "text": "8 mins",
         "total_seconds": 483.973203
@@ -713,7 +713,7 @@
         "hours": 0,
         "minutes": 7,
         "name": "premiumExport",
-        "percent": 0.44,
+        "percent": 0.43,
         "seconds": 41,
         "text": "7 mins",
         "total_seconds": 461.192151
@@ -724,7 +724,7 @@
         "hours": 0,
         "minutes": 7,
         "name": "stripe",
-        "percent": 0.44,
+        "percent": 0.43,
         "seconds": 41,
         "text": "7 mins",
         "total_seconds": 461.192151
@@ -790,7 +790,7 @@
         "hours": 0,
         "minutes": 4,
         "name": "file-saver",
-        "percent": 0.25,
+        "percent": 0.24,
         "seconds": 22,
         "text": "4 mins",
         "total_seconds": 262.880233
@@ -801,7 +801,7 @@
         "hours": 0,
         "minutes": 4,
         "name": "sentiment",
-        "percent": 0.24,
+        "percent": 0.23,
         "seconds": 10,
         "text": "4 mins",
         "total_seconds": 250.250115
@@ -823,7 +823,7 @@
         "hours": 0,
         "minutes": 3,
         "name": "subscription.service",
-        "percent": 0.22,
+        "percent": 0.21,
         "seconds": 51,
         "text": "3 mins",
         "total_seconds": 231.555145
@@ -834,7 +834,7 @@
         "hours": 0,
         "minutes": 3,
         "name": "path",
-        "percent": 0.22,
+        "percent": 0.21,
         "seconds": 47,
         "text": "3 mins",
         "total_seconds": 227.424277
@@ -845,7 +845,7 @@
         "hours": 0,
         "minutes": 3,
         "name": "middleware",
-        "percent": 0.21,
+        "percent": 0.2,
         "seconds": 37,
         "text": "3 mins",
         "total_seconds": 217.765793
@@ -856,7 +856,7 @@
         "hours": 0,
         "minutes": 3,
         "name": "cors",
-        "percent": 0.2,
+        "percent": 0.19,
         "seconds": 26,
         "text": "3 mins",
         "total_seconds": 206.504858
@@ -1087,7 +1087,7 @@
         "hours": 0,
         "minutes": 2,
         "name": "progress-spinner",
-        "percent": 0.15,
+        "percent": 0.14,
         "seconds": 33,
         "text": "2 mins",
         "total_seconds": 153.968335
@@ -1098,7 +1098,7 @@
         "hours": 0,
         "minutes": 2,
         "name": "autocomplete",
-        "percent": 0.15,
+        "percent": 0.14,
         "seconds": 33,
         "text": "2 mins",
         "total_seconds": 153.968335
@@ -1109,7 +1109,7 @@
         "hours": 0,
         "minutes": 2,
         "name": "divider",
-        "percent": 0.15,
+        "percent": 0.14,
         "seconds": 33,
         "text": "2 mins",
         "total_seconds": 153.968335
@@ -1120,7 +1120,7 @@
         "hours": 0,
         "minutes": 2,
         "name": "tooltip",
-        "percent": 0.15,
+        "percent": 0.14,
         "seconds": 33,
         "text": "2 mins",
         "total_seconds": 153.968335
@@ -1131,7 +1131,7 @@
         "hours": 0,
         "minutes": 2,
         "name": "input",
-        "percent": 0.15,
+        "percent": 0.14,
         "seconds": 33,
         "text": "2 mins",
         "total_seconds": 153.968335
@@ -1142,7 +1142,7 @@
         "hours": 0,
         "minutes": 2,
         "name": "radio",
-        "percent": 0.15,
+        "percent": 0.14,
         "seconds": 33,
         "text": "2 mins",
         "total_seconds": 153.968335
@@ -1153,7 +1153,7 @@
         "hours": 0,
         "minutes": 2,
         "name": "card",
-        "percent": 0.15,
+        "percent": 0.14,
         "seconds": 33,
         "text": "2 mins",
         "total_seconds": 153.968335
@@ -1164,7 +1164,7 @@
         "hours": 0,
         "minutes": 2,
         "name": "form-field",
-        "percent": 0.15,
+        "percent": 0.14,
         "seconds": 33,
         "text": "2 mins",
         "total_seconds": 153.968335
@@ -1175,7 +1175,7 @@
         "hours": 0,
         "minutes": 2,
         "name": "moment-adapter",
-        "percent": 0.15,
+        "percent": 0.14,
         "seconds": 33,
         "text": "2 mins",
         "total_seconds": 153.968335
@@ -1186,7 +1186,7 @@
         "hours": 0,
         "minutes": 2,
         "name": "button",
-        "percent": 0.15,
+        "percent": 0.14,
         "seconds": 33,
         "text": "2 mins",
         "total_seconds": 153.968335
@@ -1197,7 +1197,7 @@
         "hours": 0,
         "minutes": 2,
         "name": "checkbox",
-        "percent": 0.15,
+        "percent": 0.14,
         "seconds": 33,
         "text": "2 mins",
         "total_seconds": 153.968335
@@ -1208,7 +1208,7 @@
         "hours": 0,
         "minutes": 2,
         "name": "icon",
-        "percent": 0.15,
+        "percent": 0.14,
         "seconds": 33,
         "text": "2 mins",
         "total_seconds": 153.968335
@@ -1219,7 +1219,7 @@
         "hours": 0,
         "minutes": 2,
         "name": "progress-bar",
-        "percent": 0.15,
+        "percent": 0.14,
         "seconds": 33,
         "text": "2 mins",
         "total_seconds": 153.968335
@@ -1230,7 +1230,7 @@
         "hours": 0,
         "minutes": 2,
         "name": "datetime-picker",
-        "percent": 0.15,
+        "percent": 0.14,
         "seconds": 33,
         "text": "2 mins",
         "total_seconds": 153.968335
@@ -1241,7 +1241,7 @@
         "hours": 0,
         "minutes": 2,
         "name": "select",
-        "percent": 0.15,
+        "percent": 0.14,
         "seconds": 33,
         "text": "2 mins",
         "total_seconds": 153.968335
@@ -1296,7 +1296,7 @@
         "hours": 0,
         "minutes": 2,
         "name": "word-cloud.component",
-        "percent": 0.14,
+        "percent": 0.13,
         "seconds": 24,
         "text": "2 mins",
         "total_seconds": 144.805872
@@ -1307,7 +1307,7 @@
         "hours": 0,
         "minutes": 2,
         "name": "pie-sentiment.component",
-        "percent": 0.14,
+        "percent": 0.13,
         "seconds": 24,
         "text": "2 mins",
         "total_seconds": 144.805872
@@ -1318,7 +1318,7 @@
         "hours": 0,
         "minutes": 2,
         "name": "bar-chart.component",
-        "percent": 0.14,
+        "percent": 0.13,
         "seconds": 24,
         "text": "2 mins",
         "total_seconds": 144.805872
@@ -1329,7 +1329,7 @@
         "hours": 0,
         "minutes": 2,
         "name": "document-sentiment.component",
-        "percent": 0.14,
+        "percent": 0.13,
         "seconds": 24,
         "text": "2 mins",
         "total_seconds": 144.805872
@@ -1531,6 +1531,17 @@
         "seconds": 38,
         "text": "1 min",
         "total_seconds": 98.06213
+      },
+      {
+        "decimal": "0.02",
+        "digital": "0:01:17",
+        "hours": 0,
+        "minutes": 1,
+        "name": "recorder",
+        "percent": 0.07,
+        "seconds": 17,
+        "text": "1 min",
+        "total_seconds": 77.766926
       },
       {
         "decimal": "0.00",
@@ -1828,17 +1839,6 @@
         "seconds": 21,
         "text": "21 secs",
         "total_seconds": 21.449771
-      },
-      {
-        "decimal": "0.00",
-        "digital": "0:00:21",
-        "hours": 0,
-        "minutes": 0,
-        "name": "recorder",
-        "percent": 0.02,
-        "seconds": 21,
-        "text": "21 secs",
-        "total_seconds": 21.355735
       },
       {
         "decimal": "0.00",
@@ -2921,36 +2921,36 @@
     ],
     "editors": [
       {
-        "decimal": "4.23",
-        "digital": "4:14:44",
+        "decimal": "4.32",
+        "digital": "4:19:21",
         "hours": 4,
-        "minutes": 14,
+        "minutes": 19,
         "name": "VS Code",
         "percent": 100,
-        "seconds": 44,
-        "text": "4 hrs 14 mins",
-        "total_seconds": 15284.558232
+        "seconds": 21,
+        "text": "4 hrs 19 mins",
+        "total_seconds": 15561.927391
       }
     ],
     "grand_total": {
-      "decimal": "4.23",
-      "digital": "4:14",
+      "decimal": "4.32",
+      "digital": "4:19",
       "hours": 4,
-      "minutes": 14,
-      "text": "4 hrs 14 mins",
-      "total_seconds": 15284.558232
+      "minutes": 19,
+      "text": "4 hrs 19 mins",
+      "total_seconds": 15561.927391
     },
     "languages": [
       {
-        "decimal": "2.70",
-        "digital": "2:42:27",
+        "decimal": "2.78",
+        "digital": "2:47:04",
         "hours": 2,
-        "minutes": 42,
+        "minutes": 47,
         "name": "TypeScript",
-        "percent": 63.77,
-        "seconds": 27,
-        "text": "2 hrs 42 mins",
-        "total_seconds": 9747.578567
+        "percent": 64.42,
+        "seconds": 4,
+        "text": "2 hrs 47 mins",
+        "total_seconds": 10024.947726
       },
       {
         "decimal": "0.92",
@@ -2958,7 +2958,7 @@
         "hours": 0,
         "minutes": 55,
         "name": "HTML",
-        "percent": 21.84,
+        "percent": 21.45,
         "seconds": 37,
         "text": "55 mins",
         "total_seconds": 3337.44119
@@ -2969,7 +2969,7 @@
         "hours": 0,
         "minutes": 21,
         "name": "Text",
-        "percent": 8.52,
+        "percent": 8.37,
         "seconds": 42,
         "text": "21 mins",
         "total_seconds": 1302.527651
@@ -2980,7 +2980,7 @@
         "hours": 0,
         "minutes": 7,
         "name": "Python",
-        "percent": 3.14,
+        "percent": 3.08,
         "seconds": 59,
         "text": "7 mins",
         "total_seconds": 479.316513
@@ -2991,7 +2991,7 @@
         "hours": 0,
         "minutes": 3,
         "name": "Bash",
-        "percent": 1.45,
+        "percent": 1.43,
         "seconds": 42,
         "text": "3 mins",
         "total_seconds": 222.164665
@@ -3002,7 +3002,7 @@
         "hours": 0,
         "minutes": 2,
         "name": "SCSS",
-        "percent": 0.97,
+        "percent": 0.95,
         "seconds": 27,
         "text": "2 mins",
         "total_seconds": 147.509362
@@ -3032,29 +3032,29 @@
     ],
     "machines": [
       {
-        "decimal": "4.23",
-        "digital": "4:14:44",
+        "decimal": "4.32",
+        "digital": "4:19:21",
         "hours": 4,
         "machine_name_id": "1cf70442-7240-4a6e-b671-8a02138f4e3d",
-        "minutes": 14,
+        "minutes": 19,
         "name": "Vatsal-Shah-MacBook-Pro.local",
         "percent": 100,
-        "seconds": 44,
-        "text": "4 hrs 14 mins",
-        "total_seconds": 15284.558232
+        "seconds": 21,
+        "text": "4 hrs 19 mins",
+        "total_seconds": 15561.927391
       }
     ],
     "operating_systems": [
       {
-        "decimal": "4.23",
-        "digital": "4:14:44",
+        "decimal": "4.32",
+        "digital": "4:19:21",
         "hours": 4,
-        "minutes": 14,
+        "minutes": 19,
         "name": "Mac",
         "percent": 100,
-        "seconds": 44,
-        "text": "4 hrs 14 mins",
-        "total_seconds": 15284.558232
+        "seconds": 21,
+        "text": "4 hrs 19 mins",
+        "total_seconds": 15561.927391
       }
     ],
     "projects": [
@@ -3065,7 +3065,7 @@
         "hours": 1,
         "minutes": 23,
         "name": "speak-client",
-        "percent": 32.69,
+        "percent": 32.11,
         "seconds": 16,
         "text": "1 hr 23 mins",
         "total_seconds": 4996.343546
@@ -3077,7 +3077,7 @@
         "hours": 0,
         "minutes": 52,
         "name": "speak-server",
-        "percent": 20.44,
+        "percent": 20.08,
         "seconds": 4,
         "text": "52 mins",
         "total_seconds": 3124.671717
@@ -3089,22 +3089,22 @@
         "hours": 0,
         "minutes": 50,
         "name": "speak-media-library",
-        "percent": 19.82,
+        "percent": 19.47,
         "seconds": 29,
         "text": "50 mins",
         "total_seconds": 3029.268391
       },
       {
         "color": null,
-        "decimal": "0.63",
-        "digital": "0:38:53",
+        "decimal": "0.72",
+        "digital": "0:43:30",
         "hours": 0,
-        "minutes": 38,
+        "minutes": 43,
         "name": "speak-embed-recorder",
-        "percent": 15.27,
-        "seconds": 53,
-        "text": "38 mins",
-        "total_seconds": 2333.509687
+        "percent": 16.78,
+        "seconds": 30,
+        "text": "43 mins",
+        "total_seconds": 2610.878846
       },
       {
         "color": null,
@@ -3113,7 +3113,7 @@
         "hours": 0,
         "minutes": 30,
         "name": "speak-ai-middleware",
-        "percent": 11.78,
+        "percent": 11.57,
         "seconds": 0,
         "text": "30 mins",
         "total_seconds": 1800.764891
