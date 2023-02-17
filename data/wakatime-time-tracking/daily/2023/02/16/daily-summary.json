@@ -1,20 +1,414 @@
 [
   {
-    "categories": [],
-    "dependencies": [],
-    "editors": [],
+    "categories": [
+      {
+        "decimal": "1.43",
+        "digital": "1:26:13",
+        "hours": 1,
+        "minutes": 26,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 13,
+        "text": "1 hr 26 mins",
+        "total_seconds": 5173.903138
+      }
+    ],
+    "dependencies": [
+      {
+        "decimal": "1.35",
+        "digital": "1:21:46",
+        "hours": 1,
+        "minutes": 21,
+        "name": "core",
+        "percent": 7.93,
+        "seconds": 46,
+        "text": "1 hr 21 mins",
+        "total_seconds": 4906.254887
+      },
+      {
+        "decimal": "1.35",
+        "digital": "1:21:46",
+        "hours": 1,
+        "minutes": 21,
+        "name": "layout.service",
+        "percent": 7.93,
+        "seconds": 46,
+        "text": "1 hr 21 mins",
+        "total_seconds": 4906.254887
+      },
+      {
+        "decimal": "1.35",
+        "digital": "1:21:39",
+        "hours": 1,
+        "minutes": 21,
+        "name": "recorder",
+        "percent": 7.92,
+        "seconds": 39,
+        "text": "1 hr 21 mins",
+        "total_seconds": 4899.657141
+      },
+      {
+        "decimal": "1.35",
+        "digital": "1:21:10",
+        "hours": 1,
+        "minutes": 21,
+        "name": "rxjs",
+        "percent": 7.87,
+        "seconds": 10,
+        "text": "1 hr 21 mins",
+        "total_seconds": 4870.475728
+      },
+      {
+        "decimal": "0.87",
+        "digital": "0:52:41",
+        "hours": 0,
+        "minutes": 52,
+        "name": "recordrtc",
+        "percent": 5.11,
+        "seconds": 41,
+        "text": "52 mins",
+        "total_seconds": 3161.09233
+      },
+      {
+        "decimal": "0.87",
+        "digital": "0:52:35",
+        "hours": 0,
+        "minutes": 52,
+        "name": "wavesurfer.microphone",
+        "percent": 5.1,
+        "seconds": 35,
+        "text": "52 mins",
+        "total_seconds": 3155.830666
+      },
+      {
+        "decimal": "0.87",
+        "digital": "0:52:35",
+        "hours": 0,
+        "minutes": 52,
+        "name": "wavesurfer",
+        "percent": 5.1,
+        "seconds": 35,
+        "text": "52 mins",
+        "total_seconds": 3155.830666
+      },
+      {
+        "decimal": "0.87",
+        "digital": "0:52:35",
+        "hours": 0,
+        "minutes": 52,
+        "name": "file-saver",
+        "percent": 5.1,
+        "seconds": 35,
+        "text": "52 mins",
+        "total_seconds": 3155.162625
+      },
+      {
+        "decimal": "0.87",
+        "digital": "0:52:35",
+        "hours": 0,
+        "minutes": 52,
+        "name": "audio-recorder-polyfill",
+        "percent": 5.1,
+        "seconds": 35,
+        "text": "52 mins",
+        "total_seconds": 3155.162625
+      },
+      {
+        "decimal": "0.87",
+        "digital": "0:52:35",
+        "hours": 0,
+        "minutes": 52,
+        "name": "wavesurfer.timeline.min",
+        "percent": 5.1,
+        "seconds": 35,
+        "text": "52 mins",
+        "total_seconds": 3155.162625
+      },
+      {
+        "decimal": "0.87",
+        "digital": "0:52:35",
+        "hours": 0,
+        "minutes": 52,
+        "name": "api.service",
+        "percent": 5.1,
+        "seconds": 35,
+        "text": "52 mins",
+        "total_seconds": 3155.162625
+      },
+      {
+        "decimal": "0.87",
+        "digital": "0:52:35",
+        "hours": 0,
+        "minutes": 52,
+        "name": "moment",
+        "percent": 5.1,
+        "seconds": 35,
+        "text": "52 mins",
+        "total_seconds": 3155.162625
+      },
+      {
+        "decimal": "0.87",
+        "digital": "0:52:35",
+        "hours": 0,
+        "minutes": 52,
+        "name": "s3upload.service",
+        "percent": 5.1,
+        "seconds": 35,
+        "text": "52 mins",
+        "total_seconds": 3155.162625
+      },
+      {
+        "decimal": "0.48",
+        "digital": "0:29:10",
+        "hours": 0,
+        "minutes": 29,
+        "name": "services",
+        "percent": 2.83,
+        "seconds": 10,
+        "text": "29 mins",
+        "total_seconds": 1750.424221
+      },
+      {
+        "decimal": "0.48",
+        "digital": "0:29:05",
+        "hours": 0,
+        "minutes": 29,
+        "name": "recorder.service",
+        "percent": 2.82,
+        "seconds": 5,
+        "text": "29 mins",
+        "total_seconds": 1745.162557
+      },
+      {
+        "decimal": "0.48",
+        "digital": "0:29:03",
+        "hours": 0,
+        "minutes": 29,
+        "name": "router",
+        "percent": 2.82,
+        "seconds": 3,
+        "text": "29 mins",
+        "total_seconds": 1743.236994
+      },
+      {
+        "decimal": "0.47",
+        "digital": "0:28:42",
+        "hours": 0,
+        "minutes": 28,
+        "name": "platform-browser",
+        "percent": 2.78,
+        "seconds": 42,
+        "text": "28 mins",
+        "total_seconds": 1722.50033
+      },
+      {
+        "decimal": "0.47",
+        "digital": "0:28:35",
+        "hours": 0,
+        "minutes": 28,
+        "name": "amplitude.service",
+        "percent": 2.77,
+        "seconds": 35,
+        "text": "28 mins",
+        "total_seconds": 1715.313103
+      },
+      {
+        "decimal": "0.47",
+        "digital": "0:28:35",
+        "hours": 0,
+        "minutes": 28,
+        "name": "logrocket",
+        "percent": 2.77,
+        "seconds": 35,
+        "text": "28 mins",
+        "total_seconds": 1715.313103
+      },
+      {
+        "decimal": "0.47",
+        "digital": "0:28:35",
+        "hours": 0,
+        "minutes": 28,
+        "name": "environment",
+        "percent": 2.77,
+        "seconds": 35,
+        "text": "28 mins",
+        "total_seconds": 1715.313103
+      },
+      {
+        "decimal": "0.47",
+        "digital": "0:28:35",
+        "hours": 0,
+        "minutes": 28,
+        "name": "ngx-lottie",
+        "percent": 2.77,
+        "seconds": 35,
+        "text": "28 mins",
+        "total_seconds": 1715.313103
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:21",
+        "hours": 0,
+        "minutes": 0,
+        "name": "material-moment-adapter",
+        "percent": 0.04,
+        "seconds": 21,
+        "text": "21 secs",
+        "total_seconds": 21.994186
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:21",
+        "hours": 0,
+        "minutes": 0,
+        "name": "lodash",
+        "percent": 0.04,
+        "seconds": 21,
+        "text": "21 secs",
+        "total_seconds": 21.994186
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:21",
+        "hours": 0,
+        "minutes": 0,
+        "name": "forms",
+        "percent": 0.04,
+        "seconds": 21,
+        "text": "21 secs",
+        "total_seconds": 21.994186
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:07",
+        "hours": 0,
+        "minutes": 0,
+        "name": "file-size",
+        "percent": 0.01,
+        "seconds": 7,
+        "text": "7 secs",
+        "total_seconds": 7.187227
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:06",
+        "hours": 0,
+        "minutes": 0,
+        "name": "dialog",
+        "percent": 0.01,
+        "seconds": 6,
+        "text": "6 secs",
+        "total_seconds": 6.597746
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:06",
+        "hours": 0,
+        "minutes": 0,
+        "name": "device-selection.component",
+        "percent": 0.01,
+        "seconds": 6,
+        "text": "6 secs",
+        "total_seconds": 6.597746
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:00",
+        "hours": 0,
+        "minutes": 0,
+        "name": "color",
+        "percent": 0,
+        "seconds": 0,
+        "text": "0 secs",
+        "total_seconds": 0.668041
+      }
+    ],
+    "editors": [
+      {
+        "decimal": "1.43",
+        "digital": "1:26:13",
+        "hours": 1,
+        "minutes": 26,
+        "name": "VS Code",
+        "percent": 100,
+        "seconds": 13,
+        "text": "1 hr 26 mins",
+        "total_seconds": 5173.903138
+      }
+    ],
     "grand_total": {
-      "decimal": "0.00",
-      "digital": "0:00",
-      "hours": 0,
-      "minutes": 0,
-      "text": "0 secs",
-      "total_seconds": 0
+      "decimal": "1.43",
+      "digital": "1:26",
+      "hours": 1,
+      "minutes": 26,
+      "text": "1 hr 26 mins",
+      "total_seconds": 5173.903138
     },
-    "languages": [],
-    "machines": [],
-    "operating_systems": [],
-    "projects": [],
+    "languages": [
+      {
+        "decimal": "1.35",
+        "digital": "1:21:46",
+        "hours": 1,
+        "minutes": 21,
+        "name": "TypeScript",
+        "percent": 94.83,
+        "seconds": 46,
+        "text": "1 hr 21 mins",
+        "total_seconds": 4906.254887
+      },
+      {
+        "decimal": "0.07",
+        "digital": "0:04:27",
+        "hours": 0,
+        "minutes": 4,
+        "name": "HTML",
+        "percent": 5.17,
+        "seconds": 27,
+        "text": "4 mins",
+        "total_seconds": 267.648251
+      }
+    ],
+    "machines": [
+      {
+        "decimal": "1.43",
+        "digital": "1:26:13",
+        "hours": 1,
+        "machine_name_id": "98660967-8e47-4dd1-b38f-bfe49465beff",
+        "minutes": 26,
+        "name": "Vatsal-Shah-MacBook-Pro.local",
+        "percent": 100,
+        "seconds": 13,
+        "text": "1 hr 26 mins",
+        "total_seconds": 5173.903138
+      }
+    ],
+    "operating_systems": [
+      {
+        "decimal": "1.43",
+        "digital": "1:26:13",
+        "hours": 1,
+        "minutes": 26,
+        "name": "Mac",
+        "percent": 100,
+        "seconds": 13,
+        "text": "1 hr 26 mins",
+        "total_seconds": 5173.903138
+      }
+    ],
+    "projects": [
+      {
+        "color": null,
+        "decimal": "1.43",
+        "digital": "1:26:13",
+        "hours": 1,
+        "minutes": 26,
+        "name": "speak-embed-recorder",
+        "percent": 100,
+        "seconds": 13,
+        "text": "1 hr 26 mins",
+        "total_seconds": 5173.903138
+      }
+    ],
     "range": {
       "date": "2023-02-16",
       "end": "2023-02-17T04:59:59Z",
