@@ -1,20 +1,644 @@
 [
   {
-    "categories": [],
-    "dependencies": [],
-    "editors": [],
+    "categories": [
+      {
+        "decimal": "0.05",
+        "digital": "0:03:37",
+        "hours": 0,
+        "minutes": 3,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 37,
+        "text": "3 mins",
+        "total_seconds": 217.358615
+      }
+    ],
+    "dependencies": [
+      {
+        "decimal": "0.03",
+        "digital": "0:02:50",
+        "hours": 0,
+        "minutes": 2,
+        "name": "es_core_news_lg",
+        "percent": 6.14,
+        "seconds": 50,
+        "text": "2 mins",
+        "total_seconds": 170.303682
+      },
+      {
+        "decimal": "0.03",
+        "digital": "0:02:50",
+        "hours": 0,
+        "minutes": 2,
+        "name": "api",
+        "percent": 6.14,
+        "seconds": 50,
+        "text": "2 mins",
+        "total_seconds": 170.303682
+      },
+      {
+        "decimal": "0.03",
+        "digital": "0:02:50",
+        "hours": 0,
+        "minutes": 2,
+        "name": "fr_core_news_lg",
+        "percent": 6.14,
+        "seconds": 50,
+        "text": "2 mins",
+        "total_seconds": 170.303682
+      },
+      {
+        "decimal": "0.03",
+        "digital": "0:02:50",
+        "hours": 0,
+        "minutes": 2,
+        "name": "spacy",
+        "percent": 6.14,
+        "seconds": 50,
+        "text": "2 mins",
+        "total_seconds": 170.303682
+      },
+      {
+        "decimal": "0.03",
+        "digital": "0:02:50",
+        "hours": 0,
+        "minutes": 2,
+        "name": "de_core_news_lg",
+        "percent": 6.14,
+        "seconds": 50,
+        "text": "2 mins",
+        "total_seconds": 170.303682
+      },
+      {
+        "decimal": "0.03",
+        "digital": "0:02:50",
+        "hours": 0,
+        "minutes": 2,
+        "name": "utils",
+        "percent": 6.14,
+        "seconds": 50,
+        "text": "2 mins",
+        "total_seconds": 170.303682
+      },
+      {
+        "decimal": "0.03",
+        "digital": "0:02:50",
+        "hours": 0,
+        "minutes": 2,
+        "name": "flask_restful",
+        "percent": 6.14,
+        "seconds": 50,
+        "text": "2 mins",
+        "total_seconds": 170.303682
+      },
+      {
+        "decimal": "0.03",
+        "digital": "0:02:50",
+        "hours": 0,
+        "minutes": 2,
+        "name": "en_core_web_lg",
+        "percent": 6.14,
+        "seconds": 50,
+        "text": "2 mins",
+        "total_seconds": 170.303682
+      },
+      {
+        "decimal": "0.03",
+        "digital": "0:02:50",
+        "hours": 0,
+        "minutes": 2,
+        "name": "logging",
+        "percent": 6.14,
+        "seconds": 50,
+        "text": "2 mins",
+        "total_seconds": 170.303682
+      },
+      {
+        "decimal": "0.03",
+        "digital": "0:02:50",
+        "hours": 0,
+        "minutes": 2,
+        "name": "nltk",
+        "percent": 6.14,
+        "seconds": 50,
+        "text": "2 mins",
+        "total_seconds": 170.303682
+      },
+      {
+        "decimal": "0.03",
+        "digital": "0:02:50",
+        "hours": 0,
+        "minutes": 2,
+        "name": "re",
+        "percent": 6.14,
+        "seconds": 50,
+        "text": "2 mins",
+        "total_seconds": 170.303682
+      },
+      {
+        "decimal": "0.03",
+        "digital": "0:02:50",
+        "hours": 0,
+        "minutes": 2,
+        "name": "flask",
+        "percent": 6.14,
+        "seconds": 50,
+        "text": "2 mins",
+        "total_seconds": 170.303682
+      },
+      {
+        "decimal": "0.03",
+        "digital": "0:02:50",
+        "hours": 0,
+        "minutes": 2,
+        "name": "da_core_news_lg",
+        "percent": 6.14,
+        "seconds": 50,
+        "text": "2 mins",
+        "total_seconds": 170.303682
+      },
+      {
+        "decimal": "0.03",
+        "digital": "0:02:50",
+        "hours": 0,
+        "minutes": 2,
+        "name": "collections",
+        "percent": 6.14,
+        "seconds": 50,
+        "text": "2 mins",
+        "total_seconds": 170.303682
+      },
+      {
+        "decimal": "0.03",
+        "digital": "0:02:50",
+        "hours": 0,
+        "minutes": 2,
+        "name": "pt_core_news_lg",
+        "percent": 6.14,
+        "seconds": 50,
+        "text": "2 mins",
+        "total_seconds": 170.303682
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:17",
+        "hours": 0,
+        "minutes": 0,
+        "name": "dialog",
+        "percent": 0.62,
+        "seconds": 17,
+        "text": "17 secs",
+        "total_seconds": 17.067549
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:17",
+        "hours": 0,
+        "minutes": 0,
+        "name": "core",
+        "percent": 0.62,
+        "seconds": 17,
+        "text": "17 secs",
+        "total_seconds": 17.067549
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:17",
+        "hours": 0,
+        "minutes": 0,
+        "name": "router",
+        "percent": 0.62,
+        "seconds": 17,
+        "text": "17 secs",
+        "total_seconds": 17.067549
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:17",
+        "hours": 0,
+        "minutes": 0,
+        "name": "lodash",
+        "percent": 0.62,
+        "seconds": 17,
+        "text": "17 secs",
+        "total_seconds": 17.067549
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:17",
+        "hours": 0,
+        "minutes": 0,
+        "name": "forms",
+        "percent": 0.62,
+        "seconds": 17,
+        "text": "17 secs",
+        "total_seconds": 17.067549
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:17",
+        "hours": 0,
+        "minutes": 0,
+        "name": "platform-browser",
+        "percent": 0.62,
+        "seconds": 17,
+        "text": "17 secs",
+        "total_seconds": 17.067549
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:17",
+        "hours": 0,
+        "minutes": 0,
+        "name": "scrolling",
+        "percent": 0.62,
+        "seconds": 17,
+        "text": "17 secs",
+        "total_seconds": 17.067549
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:17",
+        "hours": 0,
+        "minutes": 0,
+        "name": "find-replace.component",
+        "percent": 0.62,
+        "seconds": 17,
+        "text": "17 secs",
+        "total_seconds": 17.067549
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:17",
+        "hours": 0,
+        "minutes": 0,
+        "name": "services",
+        "percent": 0.62,
+        "seconds": 17,
+        "text": "17 secs",
+        "total_seconds": 17.067549
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:17",
+        "hours": 0,
+        "minutes": 0,
+        "name": "ng-keyboard-shortcuts",
+        "percent": 0.62,
+        "seconds": 17,
+        "text": "17 secs",
+        "total_seconds": 17.067549
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:17",
+        "hours": 0,
+        "minutes": 0,
+        "name": "types",
+        "percent": 0.62,
+        "seconds": 17,
+        "text": "17 secs",
+        "total_seconds": 17.067549
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:01",
+        "hours": 0,
+        "minutes": 0,
+        "name": "cookie-parser",
+        "percent": 0.06,
+        "seconds": 1,
+        "text": "1 sec",
+        "total_seconds": 1.728674
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:01",
+        "hours": 0,
+        "minutes": 0,
+        "name": "database",
+        "percent": 0.06,
+        "seconds": 1,
+        "text": "1 sec",
+        "total_seconds": 1.728674
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:01",
+        "hours": 0,
+        "minutes": 0,
+        "name": "@speak-mailer",
+        "percent": 0.06,
+        "seconds": 1,
+        "text": "1 sec",
+        "total_seconds": 1.728674
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:01",
+        "hours": 0,
+        "minutes": 0,
+        "name": "morgan",
+        "percent": 0.06,
+        "seconds": 1,
+        "text": "1 sec",
+        "total_seconds": 1.728674
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:01",
+        "hours": 0,
+        "minutes": 0,
+        "name": "logger",
+        "percent": 0.06,
+        "seconds": 1,
+        "text": "1 sec",
+        "total_seconds": 1.728674
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:01",
+        "hours": 0,
+        "minutes": 0,
+        "name": "os",
+        "percent": 0.06,
+        "seconds": 1,
+        "text": "1 sec",
+        "total_seconds": 1.728674
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:01",
+        "hours": 0,
+        "minutes": 0,
+        "name": "express-mongo-sanitize",
+        "percent": 0.06,
+        "seconds": 1,
+        "text": "1 sec",
+        "total_seconds": 1.728674
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:01",
+        "hours": 0,
+        "minutes": 0,
+        "name": "path",
+        "percent": 0.06,
+        "seconds": 1,
+        "text": "1 sec",
+        "total_seconds": 1.728674
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:01",
+        "hours": 0,
+        "minutes": 0,
+        "name": "routes",
+        "percent": 0.06,
+        "seconds": 1,
+        "text": "1 sec",
+        "total_seconds": 1.728674
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:01",
+        "hours": 0,
+        "minutes": 0,
+        "name": "cluster",
+        "percent": 0.06,
+        "seconds": 1,
+        "text": "1 sec",
+        "total_seconds": 1.728674
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:01",
+        "hours": 0,
+        "minutes": 0,
+        "name": "express-request-id",
+        "percent": 0.06,
+        "seconds": 1,
+        "text": "1 sec",
+        "total_seconds": 1.728674
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:01",
+        "hours": 0,
+        "minutes": 0,
+        "name": "express",
+        "percent": 0.06,
+        "seconds": 1,
+        "text": "1 sec",
+        "total_seconds": 1.728674
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:01",
+        "hours": 0,
+        "minutes": 0,
+        "name": "config",
+        "percent": 0.06,
+        "seconds": 1,
+        "text": "1 sec",
+        "total_seconds": 1.728674
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:01",
+        "hours": 0,
+        "minutes": 0,
+        "name": "register",
+        "percent": 0.06,
+        "seconds": 1,
+        "text": "1 sec",
+        "total_seconds": 1.728674
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:01",
+        "hours": 0,
+        "minutes": 0,
+        "name": "helmet",
+        "percent": 0.06,
+        "seconds": 1,
+        "text": "1 sec",
+        "total_seconds": 1.728674
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:01",
+        "hours": 0,
+        "minutes": 0,
+        "name": "cors",
+        "percent": 0.06,
+        "seconds": 1,
+        "text": "1 sec",
+        "total_seconds": 1.728674
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:01",
+        "hours": 0,
+        "minutes": 0,
+        "name": "morgan-json",
+        "percent": 0.06,
+        "seconds": 1,
+        "text": "1 sec",
+        "total_seconds": 1.728674
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:01",
+        "hours": 0,
+        "minutes": 0,
+        "name": "dotenv",
+        "percent": 0.06,
+        "seconds": 1,
+        "text": "1 sec",
+        "total_seconds": 1.728674
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:01",
+        "hours": 0,
+        "minutes": 0,
+        "name": "middleware",
+        "percent": 0.06,
+        "seconds": 1,
+        "text": "1 sec",
+        "total_seconds": 1.728674
+      }
+    ],
+    "editors": [
+      {
+        "decimal": "0.05",
+        "digital": "0:03:37",
+        "hours": 0,
+        "minutes": 3,
+        "name": "VS Code",
+        "percent": 100,
+        "seconds": 37,
+        "text": "3 mins",
+        "total_seconds": 217.358615
+      }
+    ],
     "grand_total": {
-      "decimal": "0.00",
-      "digital": "0:00",
+      "decimal": "0.05",
+      "digital": "0:03",
       "hours": 0,
-      "minutes": 0,
-      "text": "0 secs",
-      "total_seconds": 0
+      "minutes": 3,
+      "text": "3 mins",
+      "total_seconds": 217.358615
     },
-    "languages": [],
-    "machines": [],
-    "operating_systems": [],
-    "projects": [],
+    "languages": [
+      {
+        "decimal": "0.03",
+        "digital": "0:02:50",
+        "hours": 0,
+        "minutes": 2,
+        "name": "Python",
+        "percent": 78.35,
+        "seconds": 50,
+        "text": "2 mins",
+        "total_seconds": 170.303682
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:21",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Bash",
+        "percent": 10.1,
+        "seconds": 21,
+        "text": "21 secs",
+        "total_seconds": 21.948525
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:18",
+        "hours": 0,
+        "minutes": 0,
+        "name": "TypeScript",
+        "percent": 8.65,
+        "seconds": 18,
+        "text": "18 secs",
+        "total_seconds": 18.796223
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:06",
+        "hours": 0,
+        "minutes": 0,
+        "name": "SCSS",
+        "percent": 2.9,
+        "seconds": 6,
+        "text": "6 secs",
+        "total_seconds": 6.310185
+      }
+    ],
+    "machines": [
+      {
+        "decimal": "0.05",
+        "digital": "0:03:37",
+        "hours": 0,
+        "machine_name_id": "0266e923-29fb-421c-a283-e96199ce2f3f",
+        "minutes": 3,
+        "name": "Vatsal-Shah-MacBook-Pro.local",
+        "percent": 100,
+        "seconds": 37,
+        "text": "3 mins",
+        "total_seconds": 217.358615
+      }
+    ],
+    "operating_systems": [
+      {
+        "decimal": "0.05",
+        "digital": "0:03:37",
+        "hours": 0,
+        "minutes": 3,
+        "name": "Mac",
+        "percent": 100,
+        "seconds": 37,
+        "text": "3 mins",
+        "total_seconds": 217.358615
+      }
+    ],
+    "projects": [
+      {
+        "decimal": "0.03",
+        "digital": "0:02:50",
+        "hours": 0,
+        "minutes": 2,
+        "name": "speak-ai-middleware",
+        "percent": 78.35,
+        "seconds": 50,
+        "text": "2 mins",
+        "total_seconds": 170.303682
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:23",
+        "hours": 0,
+        "minutes": 0,
+        "name": "speak-server",
+        "percent": 10.89,
+        "seconds": 23,
+        "text": "23 secs",
+        "total_seconds": 23.677199
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:23",
+        "hours": 0,
+        "minutes": 0,
+        "name": "speak-client",
+        "percent": 10.76,
+        "seconds": 23,
+        "text": "23 secs",
+        "total_seconds": 23.377734
+      }
+    ],
     "range": {
       "date": "2023-03-06",
       "end": "2023-03-07T04:59:59Z",
