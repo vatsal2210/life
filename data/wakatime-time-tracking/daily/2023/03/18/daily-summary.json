@@ -1,20 +1,94 @@
 [
   {
-    "categories": [],
+    "categories": [
+      {
+        "decimal": "0.00",
+        "digital": "0:00:05",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 5,
+        "text": "5 secs",
+        "total_seconds": 5.468396
+      }
+    ],
     "dependencies": [],
-    "editors": [],
+    "editors": [
+      {
+        "decimal": "0.00",
+        "digital": "0:00:05",
+        "hours": 0,
+        "minutes": 0,
+        "name": "VS Code",
+        "percent": 100,
+        "seconds": 5,
+        "text": "5 secs",
+        "total_seconds": 5.468396
+      }
+    ],
     "grand_total": {
       "decimal": "0.00",
       "digital": "0:00",
       "hours": 0,
       "minutes": 0,
       "text": "0 secs",
-      "total_seconds": 0
+      "total_seconds": 5.468396
     },
-    "languages": [],
-    "machines": [],
-    "operating_systems": [],
-    "projects": [],
+    "languages": [
+      {
+        "decimal": "0.00",
+        "digital": "0:00:05",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Bash",
+        "percent": 100,
+        "seconds": 5,
+        "text": "5 secs",
+        "total_seconds": 5.468396
+      }
+    ],
+    "machines": [
+      {
+        "decimal": "0.00",
+        "digital": "0:00:05",
+        "hours": 0,
+        "machine_name_id": "c4525fc1-406d-48ab-bc5a-3f5c5c0ba3ed",
+        "minutes": 0,
+        "name": "192.168.0.109",
+        "percent": 100,
+        "seconds": 5,
+        "text": "5 secs",
+        "total_seconds": 5.468396
+      }
+    ],
+    "operating_systems": [
+      {
+        "decimal": "0.00",
+        "digital": "0:00:05",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Mac",
+        "percent": 100,
+        "seconds": 5,
+        "text": "5 secs",
+        "total_seconds": 5.468396
+      }
+    ],
+    "projects": [
+      {
+        "color": null,
+        "decimal": "0.00",
+        "digital": "0:00:05",
+        "hours": 0,
+        "minutes": 0,
+        "name": "speak-server",
+        "percent": 100,
+        "seconds": 5,
+        "text": "5 secs",
+        "total_seconds": 5.468396
+      }
+    ],
     "range": {
       "date": "2023-03-18",
       "end": "2023-03-19T03:59:59Z",
